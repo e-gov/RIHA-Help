@@ -1,6 +1,5 @@
 ---
 title: Infosüsteemide kirjeldamine RIHAs
-permalink: /RIHAs-kirjeldamine/
 ---
 
 ## Milliseid infosüsteeme on vaja RIHAsse kirja panna?
