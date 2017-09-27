@@ -1,9 +1,19 @@
 ---
-title: Abi
+title: RIHA abikeskus
 ---
 
-## Teretulemast!
+## Korduma kippuvad küsimused
 
-[Kuidas muuta X-tee alamsüsteemi andmeid RIHAs?](X-tee-alamsysteem)
-[Kuidas RIHA kataloogist teavet leida?](kataloogi-kasutamine)
-[Kuidas RIHAs infosüsteeme kirjeldada?](infosysteemide-kirjeldamine)
+### X-tee
+
+- [Kuidas muuta X-tee alamsüsteemi andmeid RIHAs?](X-tee-alamsysteem)
+
+
+### RIHA kataloog
+
+- [Kuidas RIHA kataloogist teavet leida?](kataloogi-kasutamine)
+
+- [Kuidas RIHAs infosüsteeme kirjeldada?](infosysteemide-kirjeldamine)
+
+
+### RIHA hinnangud
