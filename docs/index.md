@@ -6,13 +6,13 @@ title: RIHA abikeskus
 
 ### RIHA õigused
 
-- [Kuidas saan alustada RIHA kasutamist?](RIHA-oigused-uus-asutus)
+- [Kuidas saan alustada RIHA kasutamist?](RIHA-oigused-haldamine#asutust-rihas-veel-ei-ole)
 
-- [Kuidas enda asutuse alla uut kirjeldajat lisada?](RIHA-oigused-haldamine)
+- [Kuidas enda asutuse alla uut kirjeldajat lisada?](RIHA-oigused-haldamine#kuidas-enda-asutuse-alla-uut-kirjeldajat-lisada)
 
-- [Kuidas eemaldada RIHA kirjeldaja õigused?](RIHA-oigused-haldamine)
+- [Kuidas eemaldada RIHA kirjeldaja õigused?](RIHA-oigused-haldamine#kuidas-eemaldada-riha-kirjeldaja-õigused)
 
-- [Kellel minu asutusest on kirjeldaja õigused?](RIHA-oigused-haldamine)
+- [Kellel minu asutusest on kirjeldaja õigused?](RIHA-oigused-haldamine#kellel-minu-asutusest-on-kirjeldaja-õigused)
 
 - [Millised on RIHA õigused?](RIHA-oigused)
 
