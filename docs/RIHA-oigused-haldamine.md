@@ -2,6 +2,13 @@
 title: RIHA pääsuõiguste haldamine
 ---
 
+## Kuidas saan RIHAs kirjeldama hakata?
+
+- Kui sinu asutus ei ole varem RIHA kasutanud, siis on vaja, et RIHAs kirjeldamise soovi avaldaks asutuse allkirjaõiguslik isik
+- Selleks täida ära [avaldus](link)
+- Lase avaldus allkirjastada asutuse allkirjaõiguslikul isikul
+- Saada allkirjastatud avaldus RIA kasutajatole help@ria.ee
+
 ## Kuidas enda asutuse alla uut kirjeldajat lisada?
 
 ### Tead asutusest kedagi, kes juba on kirjeldaja
@@ -11,13 +18,7 @@ title: RIHA pääsuõiguste haldamine
 
 ### Kellel minu asutusest on kirjeldaja õigused?
 - Kui soovid RIHAsse õiguseid saada, kuid puudub teave, kes RIHAs asju haldab, siis on kõige lihtsam võtta ühendust kontaktiga, mis on sinu asutuse infosüsteemide juurde lisatud
-
-### Asutust RIHAs veel ei ole
-
-- Kui sinu asutus ei ole varem RIHA kasutanud, siis on vaja, et RIHAs kirjeldamise soovi avaldaks asutuse allkirjaõiguslik isik
-- Selleks täida ära [avaldus](link)
-- Lase avaldus allkirjastada asutuse allkirjaõiguslikul isikul
-- Saada allkirjastatud avaldus RIA kasutajatole help@ria.ee
+- Kontaktide nägemiseks pead olema RIHAsse sisse loginud
 
 ### Asutusel ei ole ühtegi kirjeldajat
 - Kui kõik õigustega inimesed on asutusest lahkunud, siis tuleb uus kirjeldaja määrata asutuse allkirjaõigusliku isiku poolt
