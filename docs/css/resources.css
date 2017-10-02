@@ -3,8 +3,8 @@ h2 {
     font-weight: bold;
     line-height: 1;
     padding-bottom: 14px;
-    margin-bottom: 20px;
-    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+    margin-top: 3rem;
     color: #023cc1;
 }
 label {
@@ -21,4 +21,13 @@ p {
 }
 table.content th, .table.content td, .table.content tbody tr {
     padding: 0;
+}
+
+.p-3 {
+    padding: 0rem 3rem 3rem 3rem !important;
+}
+
+ul, ol {
+    margin-bottom: 1.5rem;
+    line-height: 1.5;
 }
