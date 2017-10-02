@@ -6,7 +6,7 @@ title: RIHA abikeskus
 
 ### RIHA õigused
 
-- [Kuidas saan alustada RIHA kasutamist?](RIHA-oigused-haldamine##kuidas-saan-rihas-kirjeldama-hakata)
+- [Kuidas saan alustada RIHA kasutamist?](RIHA-oigused-haldamine#kuidas-saan-rihas-kirjeldama-hakata)
 
 - [Kuidas enda asutuse alla uut kirjeldajat lisada?](RIHA-oigused-haldamine#kuidas-enda-asutuse-alla-uut-kirjeldajat-lisada)
 
