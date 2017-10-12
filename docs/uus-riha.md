@@ -55,6 +55,9 @@ Infosüsteemide staatused ei kajastanud vanas RIHAs väga tihti infosüsteemi re
 
 - Uues RIHAs ei ole võimalust kooskõlastajatel anda hinnangut 'kooskõlastan'. Selle asemel on uues kontseptsioonis kasutusel vastupidine funktsionaalsus
 - Kui infosüsteemil on puudusi, siis annavad kooskõlastjad sellest infosüsteemi juures teada lisades uue arutelu, milles kirjeldatud puudused tuleb infosüsteemi omanikul kõrvaldada
+
+![Hindajate tagasiside](assets/images/data/hindajate-tagasiside.png "Hindajate tagasiside uues RIHAs")
+
 - Hinnanguid saavad RIHA kooskõlastajad igal ajahetkel infosüsteemidele anda
 - Iga infosüsteem on kooskõlas just nii kaua kuni ükski kooskõlastaja pole sellele aktiivset arutelu tekitanud
 - Aktiivsete arutelude kõrval on võimalik vaadata ka suletud arutelusid, mis näitavad, millised puudused on aja jooksul infosüsteemi juures lahendatud
@@ -62,7 +65,10 @@ Infosüsteemide staatused ei kajastanud vanas RIHAs väga tihti infosüsteemi re
 ### Andmete koosseis
 
 - Uues RIHAs on andmekoosseisu kirjeldamine tehtud vähem aeganõudvaks
-- Käsitsi on infosüsteemi omanikul vaja kirjeldada kuni 10 objektina, milliseid põhiandmeid infosüsteem sisaldab. See on kui äriline vaade, mis annab infosüsteemi uurivale kasutajele kohe ülevaate, millist infot infosüsteemis hoitakse
+- Käsitsi on infosüsteemi omanikul vaja kirjeldada kuni 10 objektina, milliseid põhiandmeid infosüsteem sisaldab. See on kui äriline vaade, mis annab infosüsteemi uurivale kasutajale kohe ülevaate, millist infot infosüsteemis hoitakse
+
+![Infosüsteemi andmete äriline vaade](assets/images/data/andmed-ylevaade.png "Infosüsteemi andmete äriline vaade")
+
 - Lisaks ärilisele vaatele on võimalik üles laadida infosüsteemi detailse koosseisu. See dokument on vaja esitada kas .csv või .xmi failina.   
   - Faili struktuuri RIHA rakendus rangelt ei kontrolli, kuid sisaldama peaks see infot, millised andmed on põhiandmed, millised on tehnilised andmeväljad ning millised andmed küsitakse teistest infosüsteemidest
   - Üles laaditava dokumendi puhul soovitame kasutada struktuuri, mida olete ka vanas RIHAs andmekoosseisu üleslaadimisel kasutanud
