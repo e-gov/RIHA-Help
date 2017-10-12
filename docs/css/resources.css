@@ -1,3 +1,5 @@
+/* RIHA-Help specific overrides */
+
 h2 {
     font-size: 2rem;
     font-weight: bold;
@@ -30,4 +32,13 @@ table.content th, .table.content td, .table.content tbody tr {
 ul, ol {
     margin-bottom: 1.5rem;
     line-height: 1.5;
+}
+
+p a:not(.btn) {
+    text-decoration: none;
+    border:none;
+}
+
+p a:not(.btn):hover {
+    text-decoration: underline;
 }
