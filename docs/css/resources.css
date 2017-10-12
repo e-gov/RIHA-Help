@@ -42,3 +42,7 @@ p a:not(.btn) {
 p a:not(.btn):hover {
     text-decoration: underline;
 }
+
+p img {
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.1);
+}
