@@ -34,7 +34,7 @@ title: RIHA abikeskus
 
 - [Kuidas RIHA kataloogist teavet leida?](kataloogi-kasutamine)
 
-- [Kuidas RIHAs infosüsteeme kirjeldada?](infosysteemide-kirjeldamine)
+- [Kuidas RIHAs infosüsteeme kirjeldada?](RIHAs-kirjeldamine)
 
 - [Milline tähendus on RIHA väljadel?](infosysteemide-kirjeldamine#milline-tähendus-on-riha-v%E4ljadel)
 
