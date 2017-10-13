@@ -2,6 +2,13 @@
 title: Muutused uues RIHAs
 ---
 
+## Mida saab uues RIHAs teha?
+
+Uues RIHAs saavad:
+- kõik kasutajad infosüsteeme otsida ja vaadata
+- infosüsteemi omanikud oma infosüsteeme kirjeldada (sh X-tee alamsüsteeme registreerida), muuta ja kustutada ning kooskõlastajatega suhelda
+- kooskõlastajad infosüsteemidele tagasisidet anda
+
 ## Mis on uues RIHAs erinev kui vanas RIHAs?
 
 ### Infosüsteemi staatus
@@ -41,20 +48,25 @@ Infosüsteemide staatused ei kajastanud vanas RIHAs väga tihti infosüsteemi re
 
 ### Kooskõlastamiseks esitamine
 
-- Uues RIHAs ei toimu pärast infosüsteemi kirjeldamist selle kooskõlastamiseks esitamine. Kõik kooskõlastajad saavad automaatselt iga päev teavitusi uutest infosüsteemidest ning vaatavad kirjeldusi üle.
-- Kui infosüsteemil on puudusi, siis annavad kooskõlastajad sellest infosüsteemi juures teada lisades uue arutelu, milles kirjeldatud puudused tuleb infosüsteemi omanikul kõrvaldada
-- Arutelusid saab tekitada igal ajahetkel, ka siis kui infosüsteem on juba ammu kasutusele võetud
+Kuna kooskõlastajate poolt kontrollitavad nõuded kehtivad olenemata RIHAs kirjeldamise staatusest, siis:
+- uues RIHAs ei toimu pärast infosüsteemi kirjeldamist selle kooskõlastamiseks esitamist. Kõik kooskõlastajad saavad automaatselt iga päev teavitusi uutest infosüsteemidest ning vaatavad kirjeldusi üle vastavalt oma sisemistele protsessidele.
+- annavad kooskõlastajad infosüsteemi kirjelduses leitud puudustest teada lisades infosüsteemi alla uue arutelu, milles kirjeldatud puudused tuleb infosüsteemi omanikul kõrvaldada
+- saab arutelusid tekitada igal ajahetkel, ka siis kui infosüsteem on juba ammu kasutusele võetud
 
 ### Klassifikaatorid
 
-- Uues RIHAs ei ole klassifikaatoreid ning seetõttu puudub ka koht, kus klassifikaator infosüsteemiga siduda
+[Klassifikaatorite süsteemi](https://www.riigiteataja.ee/akt/12910889) määrus ei vasta tegelikule olukorrale, kuna:
+- seni RIHAs Statistikaameti kooskõlastusega kehtestatud staatusega klassifikaatorid on enamuses loendid. Loendid pole oma olemuselt klassifikaatorid, kuna on infosüsteemis kasutatavaid abivahendeid ning nende alusel ei toimu andmevahetus riigi infosüsteemi kuuluvate andmekogude vahel
+- vaid infosüsteemi seostamine klassifikaatoriga ei anna tegelikult infot, kuidas üle X-tee andmeid välja antakse ning süsteemi sees võib tegelikult andmeid ka endale sobival kujul klassifitseerida. Seetõttu oleks sobilikum siduda klassifikaatoreid pakutavate X-tee teenustega, mitte infosüsteemi või kogutavate andmeobjektidega
+Senikaua kuni määrus ning RIHAs kajastuv seis ei ole kooskõlas (st loendid pole eemaldatud/reguleeritud), ei ole mõistlik klassifikaatorite osa uude RIHAsse üle kanda. Küll aga võib infosüsteemi omanik lisada klassifikaatorid vastava infosüsteemi dokumenatsiooni paneelis viidete/failide lisamisega.
 
 ### Sõnastikud
 
-- Uues RIHAs sõnastikke ei ole, ning seetõttu ei ole võimalik valdkondade sõnastikke
+8 aastaga on registreeritud ainult 16 sõnastikku ja kirjeldatud 1105 terminit (võrdluseks on RIHAs kirjeldatud ligikaudu 85 000 andmeobjekti). Uues RIHAs sõnastikke ei ole, kuna sõnastike loomiseks ja kasutamiseks pole avalikus sektoris olnud piisavat motivatsiooni ja ressurssi. Seetõttu ei ole võimalik valdkondade sõnastikke:
   - vaadata
   - üles laadida
   - andmekoosseisuga siduda
+Küll aga on võimalik piiratud aja jooksul tutvuda seniste sõnastike ja terminitega vanas RIHAs.
 
 ### X-tee teenused
 
@@ -66,10 +78,9 @@ X-tee alamsüsteemide teenuste ning WSDL-ide kuvamiseks tekitatakse X-tee katalo
 
 ### X-tee sertifikaatide taotlemine
 
-- X-tee versioon 6-s ei väljasta sertifikaate RIA ning seetõttu ei ole ka uues RIHAs sertifikaatide taotlemise funktsionaalsust
+Kuna X-tee versioon 6-s ei väljasta sertifikaate RIA, vaid vastav seritifitseerimisteenuse osutaja, siis ei ole ka uues RIHAs sertifikaatide taotlemise funktsionaalsust realiseeritud.
 
 ### X-tee teenuse avamise taotlemine
 
 - Et RIHAs puuduvad X-tee teenused, siis ei ole RIHAs ka funktsionaalsust, et esitada avaldus teenuste kasutamiseks
 - Teenuse kasutamise lepivad kokku osapooled omavahel valides selleks kanaliks näiteks e-posti või muu klienditeeninduskanali
-
