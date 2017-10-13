@@ -13,33 +13,33 @@ Uues RIHAs saavad:
 
 ### Infosüsteemi staatus
 
-Infosüsteemide staatused ei kajastanud vanas RIHAs väga tihti infosüsteemi reaalset olekut: oli infosüsteeme, mis olid mitmeid aastaid kasutusel, kuid vana RIHA näitas staatust, kuhuni infosüsteemiga RIHAs jõutud oli, näiteks 'asutamine kooskõlastatud'. See ei kuvanud lõpuks riigi infosüsteemist adekvaatset pilti.
+Infosüsteemide staatused ei kajastanud vanas RIHAs väga tihti infosüsteemi reaalset olekut: oli infosüsteeme, mis olid mitmeid aastaid kasutusel, kuid vana RIHA näitas staatust, milleni RIHAs infosüsteemiga jõutud oli, näiteks 'asutamine kooskõlastatud'. See ei kuvanud riigi infosüsteemist adekvaatset pilti.
 
 - Uues RIHAs määrab kasutaja ise enda infosüsteemi reaalse oleku. Selleks on uues RIHAs kaks staatust: 'Süsteemi staatus' ja 'Arenduse staatus'. 
-- Süsteemi staatused on : asutamisel, kasutusel, lõpetatud. See näitab süsteemi reaalset olekut ning on kasutaja poolt kergesti muudetav.
-- Arendamise staatus on määratav jah/ei vormis: kas infosüsteem on aktiivses arenduses või infosüsteem ei ole arenduses. Kui infosüsteemi arendatakse aktiivselt, siis on see staatus indikatsiooniks, et on lähitulevikus oodata muudatusi ka RIHA kirjelduses (näiteks andmetes või tehnilises dokumentatsioonis).
+- Süsteemi staatused on asutamisel, kasutusel ja lõpetatud. See näitab süsteemi reaalset olekut ning on kasutaja poolt kergesti muudetav.
+- Arendamise staatus on määratav jah/ei vormis: kas infosüsteem on aktiivses arenduses või infosüsteem ei ole arenduses. Staatus "aktiivses arenduses" väljendab seda, et infosüsteemi arendatakse aktiivselt ning lähitulevikus on oodata muudatusi ka RIHA kirjelduses (näiteks andmetes või tehnilises dokumentatsioonis).
 
 ![Infosüsteemi staatused](assets/images/data/staatused.png "Infosüsteemi staatused uues RIHAs")
 
 ### Kooskõlastamine
 
-- Uues RIHAs ei ole võimalust kooskõlastajatel anda hinnangut 'kooskõlastan'. Selle asemel on uues kontseptsioonis kasutusel vastupidine funktsionaalsus
-- Kui infosüsteemil on puudusi, siis annavad kooskõlastjad sellest infosüsteemi juures teada lisades uue arutelu, milles kirjeldatud puudused tuleb infosüsteemi omanikul kõrvaldada
+- Uues RIHAs ei ole võimalust kooskõlastajatel anda hinnangut 'kooskõlastan'. Selle asemel on uues kontseptsioonis kasutusel vastupidine funktsionaalsus.
+- Kui infosüsteemil on puudusi, siis annavad kooskõlastajad sellest infosüsteemi juures teada, lisades uue arutelu, milles kirjeldatud puudused tuleb infosüsteemi omanikul kõrvaldada
 
 ![Hindajate tagasiside](assets/images/data/hindajate-tagasiside.png "Hindajate tagasiside uues RIHAs")
 
-- Hinnanguid saavad RIHA kooskõlastajad igal ajahetkel infosüsteemidele anda
-- Iga infosüsteem on kooskõlas just nii kaua kuni ükski kooskõlastaja pole sellele aktiivset arutelu tekitanud
-- Aktiivsete arutelude kõrval on võimalik vaadata ka suletud arutelusid, mis näitavad, millised puudused on aja jooksul infosüsteemi juures lahendatud
+- Hinnanguid saavad RIHA kooskõlastajad infosüsteemidele anda igal ajahetkel
+- Iga infosüsteem on kooskõlastatud just nii kaua kuni ükski kooskõlastaja pole sellele aktiivset arutelu tekitanud
+- Aktiivsete arutelude kõrval on võimalik vaadata ka suletud arutelusid, mis näitavad, millised infosüsteemi puudused on aja jooksul lahendatud
 
 ### Andmete koosseis
 
 - Uues RIHAs on andmekoosseisu kirjeldamine tehtud vähem aeganõudvaks
-- Käsitsi on infosüsteemi omanikul vaja kirjeldada kuni 10 objektina, milliseid põhiandmeid infosüsteem sisaldab. See on kui äriline vaade, mis annab infosüsteemi uurivale kasutajale kohe ülevaate, millist infot infosüsteemis hoitakse
+- Käsitsi on infosüsteemi omanikul vaja kirjeldada kuni 10 objektiga, milliseid põhiandmeid infosüsteem sisaldab. See on kui äriline vaade, mis annab infosüsteemi uurivale kasutajale kohe ülevaate, millist infot infosüsteemis hoitakse.
 
 ![Infosüsteemi andmete äriline vaade](assets/images/data/andmed-ylevaade.png "Infosüsteemi andmete äriline vaade")
 
-- Lisaks ärilisele vaatele on võimalik üles laadida infosüsteemi detailse koosseisu. See dokument on vaja esitada kas .csv või .xmi failina.   
+- Lisaks ärilisele vaatele on võimalik üles laadida infosüsteemi detailset andmete koosseisu. See dokument on vaja esitada kas .csv või .xmi failina.
   - Faili struktuuri RIHA rakendus rangelt ei kontrolli, kuid sisaldama peaks see infot, millised andmed on põhiandmed, millised on tehnilised andmeväljad ning millised andmed küsitakse teistest infosüsteemidest
   - Üles laaditava dokumendi puhul soovitame kasutada struktuuri, mida olete ka vanas RIHAs andmekoosseisu üleslaadimisel kasutanud
 
@@ -49,20 +49,20 @@ Infosüsteemide staatused ei kajastanud vanas RIHAs väga tihti infosüsteemi re
 ### Kooskõlastamiseks esitamine
 
 Kuna kooskõlastajate poolt kontrollitavad nõuded kehtivad olenemata RIHAs kirjeldamise staatusest, siis:
-- uues RIHAs ei toimu pärast infosüsteemi kirjeldamist selle kooskõlastamiseks esitamist. Kõik kooskõlastajad saavad automaatselt iga päev teavitusi uutest infosüsteemidest ning vaatavad kirjeldusi üle vastavalt oma sisemistele protsessidele.
+- uues RIHAs ei toimu pärast infosüsteemi kirjeldamist selle kooskõlastamiseks esitamist. Kõik kooskõlastajad saavad automaatselt iga päev teavitusi uutest infosüsteemidest ning vaatavad kirjeldusi üle vastavalt oma asutuse sisemistele protsessidele.
 - annavad kooskõlastajad infosüsteemi kirjelduses leitud puudustest teada lisades infosüsteemi alla uue arutelu, milles kirjeldatud puudused tuleb infosüsteemi omanikul kõrvaldada
-- saab arutelusid tekitada igal ajahetkel, ka siis kui infosüsteem on juba ammu kasutusele võetud
+- saab arutelusid tekitada igal ajahetkel. Ka siis, kui infosüsteem on juba ammu kasutusele võetud.
 
 ### Klassifikaatorid
 
 [Klassifikaatorite süsteemi](https://www.riigiteataja.ee/akt/12910889) määrus ei vasta tegelikule olukorrale, kuna:
-- seni RIHAs Statistikaameti kooskõlastusega kehtestatud staatusega klassifikaatorid on enamuses loendid. Loendid pole oma olemuselt klassifikaatorid, kuna on infosüsteemis kasutatavaid abivahendeid ning nende alusel ei toimu andmevahetus riigi infosüsteemi kuuluvate andmekogude vahel
+- senised Statistikaameti kooskõlastatud ja kehtestatud staatusega klassifikaatorid RIHAs on enamuses osas loendid. Loendid pole oma olemuselt klassifikaatorid, kuna on infosüsteemis kasutatavaid abivahendeid ning nende alusel ei toimu andmevahetus riigi infosüsteemi kuuluvate andmekogude vahel.
 - vaid infosüsteemi seostamine klassifikaatoriga ei anna tegelikult infot, kuidas üle X-tee andmeid välja antakse ning süsteemi sees võib tegelikult andmeid ka endale sobival kujul klassifitseerida. Seetõttu oleks sobilikum siduda klassifikaatoreid pakutavate X-tee teenustega, mitte infosüsteemi või kogutavate andmeobjektidega
-Senikaua kuni määrus ning RIHAs kajastuv seis ei ole kooskõlas (st loendid pole eemaldatud/reguleeritud), ei ole mõistlik klassifikaatorite osa uude RIHAsse üle kanda. Küll aga võib infosüsteemi omanik lisada klassifikaatorid vastava infosüsteemi dokumenatsiooni paneelis viidete/failide lisamisega.
+Senikaua kuni määrus ning RIHAs kajastuv seis ei ole kooskõlas (st loendid pole eemaldatud/reguleeritud), ei ole mõistlik klassifikaatorite osa uude RIHAsse üle kanda. Küll aga võib infosüsteemi omanik lisada klassifikaatorid vastava infosüsteemi dokumentatsiooni paneelis viidete/failide lisamisega.
 
 ### Sõnastikud
 
-8 aastaga on registreeritud ainult 16 sõnastikku ja kirjeldatud 1105 terminit (võrdluseks on RIHAs kirjeldatud ligikaudu 85 000 andmeobjekti). Uues RIHAs sõnastikke ei ole, kuna sõnastike loomiseks ja kasutamiseks pole avalikus sektoris olnud piisavat motivatsiooni ja ressurssi. Seetõttu ei ole võimalik valdkondade sõnastikke:
+8 aastaga on registreeritud ainult 16 sõnastikku ja kirjeldatud 1105 terminit (võrdluseks, et RIHAs on kirjeldatud ligikaudu 85 000 andmeobjekti). Uues RIHAs sõnastikke ei ole, kuna sõnastike loomiseks ja kasutamiseks pole avalikus sektoris olnud piisavat motivatsiooni ja ressurssi. Seetõttu ei ole võimalik valdkondade sõnastikke:
   - vaadata
   - üles laadida
   - andmekoosseisuga siduda
