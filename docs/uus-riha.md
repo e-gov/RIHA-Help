@@ -6,7 +6,7 @@ title: Muutused uues RIHAs
 
 Uues RIHAs saavad:
 - kõik kasutajad infosüsteeme otsida ja vaadata
-- infosüsteemi omanikud oma infosüsteeme kirjeldada (sh X-tee alamsüsteeme registreerida), muuta ja kustutada ning kooskõlastajatega suhelda
+- infosüsteemi omanikud oma infosüsteeme kirjeldada (sh X-tee alamsüsteeme registreerida), muuta ning kooskõlastajatega suhelda
 - kooskõlastajad infosüsteemidele tagasisidet anda
 
 ## Mis on uues RIHAs erinev kui vanas RIHAs?
