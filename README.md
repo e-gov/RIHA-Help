@@ -17,11 +17,7 @@ RIHA help files for UI and API end-users
 
 - After adding a new page, a link has to be added to index.md
 - If there are several sections on a page, you can create an internal link to the specific section by using the heading's id after hashtag element in the link
-- Use URL-encoded counterpart when the internal link contains any special characters
 
-```
-[Kellel minu asutusest on kirjeldaja õigused?](RIHA-oigused-haldamine#kellel-minu-asutusest-on-kirjeldaja-%F5igused
-```
 
 ### Design specifics
 
