@@ -14,8 +14,8 @@ title: RIHA abikeskus
 
 - [Kuidas saan alustada RIHA kasutamist?](RIHA-oigused-haldamine#kuidas-saan-rihas-kirjeldama-hakata)
 - [Kuidas enda asutuse alla uut kirjeldajat lisada?](RIHA-oigused-haldamine#kuidas-enda-asutuse-alla-uut-kirjeldajat-lisada)
-- [Kuidas eemaldada RIHA kirjeldaja õigused?](RIHA-oigused-haldamine#kuidas-eemaldada-riha-kirjeldaja-%F5igused)
-- [Kellel minu asutusest on kirjeldaja õigused?](RIHA-oigused-haldamine#kellel-minu-asutusest-on-kirjeldaja-%F5igused)
+- [Kuidas eemaldada RIHA kirjeldaja õigused?](RIHA-oigused-haldamine#kuidas-eemaldada-riha-kirjeldaja-õigused)
+- [Kellel minu asutusest on kirjeldaja õigused?](RIHA-oigused-haldamine#kellel-minu-asutusest-on-kirjeldaja-õigused)
 - [Millised on RIHA õigused?](RIHA-oigused)
 
 ### X-tee
@@ -28,8 +28,12 @@ title: RIHA abikeskus
 
 - [Kuidas RIHA kataloogist teavet leida?](kataloogi-kasutamine)
 - [Kuidas RIHAs infosüsteeme kirjeldada?](RIHAs-kirjeldamine)
-- [Milline tähendus on RIHA väljadel?](infosysteemide-kirjeldamine#milline-tähendus-on-riha-v%E4ljadel)
+- [Milline tähendus on RIHA väljadel?](RIHAs-kirjeldamine#milline-tähendus-on-riha-väljadel)
 - [Mida pean pärast KOVide ühendamist RIHAs tegema?](kovide-yhendamine) 
 
 ### RIHA hinnangud
+
+- [Kuidas toimub uues RIHAs kooskõlastamine?](RIHAs-hindamine#kuidas-toimub-uues-RIHAs-kooskõlastamine)
+- [Kuidas kooskõlastajana peaksin RIHAs infosüsteemide arutelusid kasutama?](RIHAs-hindamine#kuidas-kooskõlastajana-peaksin-RIHAs-infosüsteemide-arutelusid-kasutama)
+- [Millal infosüsteeme hinnatakse?](RIHAs-hindamine#millal-infosüsteeme-hinnatakse)
 
