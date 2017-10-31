@@ -3,21 +3,18 @@ title: Infosüsteemide kirjeldamine RIHAs
 ---
 
 ## Milliseid infosüsteeme on vaja RIHAsse kirja panna?
-
+Sisu täieneb peatselt
 
 ## Kuidas saan RIHAsse infosüsteemi kirja panna?
-
+Sisu täieneb peatselt
 
 ## Kuidas kirjeldan RIHAs kui infosüsteemi alles arendatakse?
-
+Sisu täieneb peatselt
 
 ## Kuidas lisan RIHAsse juba olemasoleva infosüsteemi?
-
+Sisu täieneb peatselt
 
 ## Milline tähendus on RIHA väljadel?
-
-
-## Kuidas esitan infosüsteemi kooskõlastamiseks?
-Ei esitagi! RIHAs enam kooskõlastamist ei toimu. Sinu infosüsteem on kooskõlastatud senikaua kuni ükski hindaja pole aktiivset arutelu infosüsteemi alla tekitanud.
+Sisu täieneb peatselt
 
 
