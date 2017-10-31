@@ -8,8 +8,8 @@ title: X-tee alamsüsteemi abi
 
 - Mine [RIHA avalehele](https://www.riha.ee/)
 - Logi sisse ID-kaardiga. Selleks vali paremalt ülalt "Logi sisse"
-- Kontrolli paremalt ülalt, mis rollis oled. Valitud peaks olema asutus, mille alla soovid alamsüsteemi registreerida. Vajadusel vaheta ära enda roll vajutades üleval paremas nurgas enda nime peale.
-  - kui sinuga ühtegi asutust seotud ei ole, vaata juhendit [siit](/RIHA-oigused-haldamine) 
+- Kontrolli paremalt ülalt, mis rollis oled. Valitud peaks olema asutus, mille alla soovid alamsüsteemi registreerida. Vajadusel vaheta enda rolli, vajutades üleval paremas nurgas enda nime peale.
+  - kui sinuga pole seotud ühtegi asutust, vaata juhendit [siit](/RIHA-oigused-haldamine) 
 
 ### Uue alamsüsteemi kirjeldamine
 
