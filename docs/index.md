@@ -36,3 +36,7 @@ title: RIHA abikeskus
 - [Kuidas toimub uues RIHAs kooskõlastamine?](RIHAs-hindamine#kuidas-toimub-uues-RIHAs-kooskõlastamine)
 - [Millal infosüsteeme hinnatakse?](RIHAs-hindamine#millal-infosüsteeme-hinnatakse)
 
+### XML varamu
+
+- [Kuidas XML vara koostada?](XML-varamu#kuidas-xml-vara-koostada)
+- [Kuidas XML vara kooskõlastada?](XML-varamu#kuidas-xml-vara-kooskõlastada)
