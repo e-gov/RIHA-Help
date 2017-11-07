@@ -38,3 +38,4 @@ Pärast salvestamist avaneb loodud alamsüsteemi detailvaade
 
 - Kõik sinu asutuse poolt registreeritud alamsüsteemid ja infosüsteemid leiad [Minu infosüsteemide](https://www.riha.ee/Kirjelda) hulgast
 - Alamsüsteemi muutmiseks ava selle detailvaade vajutades nimekirjas süsteemi nimele või lühinimele 
+- Alamsüsteem on registreeritud RIHAs kui sellel on märge "Süsteem on kasutusel" ja infosüsteemi valdkond "X-tee alamsüsteem"
