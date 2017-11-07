@@ -4,7 +4,7 @@ title: KOVide ühinemine RIHAs
 
 ## Mida pean pärast KOVide ühendamist RIHAs tegema? 
 
-- Anna teada RIHA kasutajatoele (help@riha.ee), millised asutused (koos registrikoodiga) liitusid ning millise registrikoodi all edaspidi RIHAs infosüsteeme hallatakse. Lisaks anna teada, kellel peab olema uue registrikoodi all õigus RIHAs infosüsteeme muuta ning uusi tekitada. Selleks kasuta [RIHA kirjeldaja määramise taotlust](/Taotlus RIHA kirjeldaja määramiseks.pdf){:target="_blank"}
+- Anna teada RIHA kasutajatoele (help@ria.ee), millised asutused (koos registrikoodiga) liitusid ning millise registrikoodi all edaspidi RIHAs infosüsteeme hallatakse. Lisaks anna teada, kellel peab olema uue registrikoodi all õigus RIHAs infosüsteeme muuta ning uusi tekitada. Selleks kasuta [RIHA kirjeldaja määramise taotlust](/Taotlus RIHA kirjeldaja määramiseks.pdf){:target="_blank"}
 - RIHA kasutajatugi lisab kõik liitunud omavalitsuste infosüsteemid uue registrikoodi alla.
 
 ### Kontrolli üle asutuse infosüsteemid RIHAs
