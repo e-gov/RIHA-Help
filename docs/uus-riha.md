@@ -58,7 +58,7 @@ Kuna kooskõlastajate poolt kontrollitavad nõuded kehtivad olenemata RIHAs kirj
 [Klassifikaatorite süsteemi](https://www.riigiteataja.ee/akt/12910889) määrus ei vasta tegelikule olukorrale, kuna:
 - senised Statistikaameti kooskõlastatud ja kehtestatud staatusega klassifikaatorid RIHAs on enamuses osas loendid. Loendid pole oma olemuselt klassifikaatorid, kuna on infosüsteemis kasutatavaid abivahendeid ning nende alusel ei toimu andmevahetus riigi infosüsteemi kuuluvate andmekogude vahel.
 - vaid infosüsteemi seostamine klassifikaatoriga ei anna tegelikult infot, kuidas üle X-tee andmeid välja antakse ning süsteemi sees võib tegelikult andmeid ka endale sobival kujul klassifitseerida. Seetõttu oleks sobilikum siduda klassifikaatoreid pakutavate X-tee teenustega, mitte infosüsteemi või kogutavate andmeobjektidega
-Senikaua kuni määrus ning RIHAs kajastuv seis ei ole kooskõlas (st loendid pole eemaldatud/reguleeritud), ei ole mõistlik klassifikaatorite osa uude RIHAsse üle kanda. Küll aga võib infosüsteemi omanik lisada klassifikaatorid vastava infosüsteemi dokumentatsiooni paneelis viidete/failide lisamisega.
+Senikaua kuni määrus ning RIHAs kajastuv seis ei ole kooskõlas (st loendid pole eemaldatud/reguleeritud), ei ole mõistlik klassifikaatorite osa uude RIHAsse üle kanda. Kõik senised klassifikaatorid võib leida [vanast RIHAst](https://vana.riha.ee). Uues RIHAs võib infosüsteemi omanik lisada klassifikaatorid vastava infosüsteemi dokumentatsiooni paneelis viidete/failide lisamisega. Samuti on võimalus lisada klassifkaatoreid [RIHA varamusse](https://varamu.riha.ee).
 
 ### Sõnastikud
 
