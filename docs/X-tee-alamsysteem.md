@@ -24,6 +24,9 @@ title: X-tee alamsüsteemi abi
 
 Pärast salvestamist avaneb loodud alamsüsteemi detailvaade
 
+- Pärast salvestamist on võimalik alamsüsteemi andmeid muuta. Näiteks valida uue lühinime, muuta eesmärki või alamsüsteemi nime.
+- Kui mingil põhjusel sai valitud vale lühinimi, siis ei ole vaja alamsüsteemi registreerimist uuesti alustada, vaid tuleks muuta juba alustatud süsteemi andmeid.
+
 ### X-tee alamsüsteemi andmete muutmine
 
 - Infosüsteemi valdkond lahtrisse kirjuta: X-tee alamsüsteem
@@ -38,4 +41,5 @@ Pärast salvestamist avaneb loodud alamsüsteemi detailvaade
 
 - Kõik sinu asutuse poolt registreeritud alamsüsteemid ja infosüsteemid leiad [Minu infosüsteemide](https://www.riha.ee/Kirjelda) hulgast
 - Alamsüsteemi muutmiseks ava selle detailvaade vajutades nimekirjas süsteemi nimele või lühinimele 
+- Alamsüsteemi üldandmete plokis on võimalik muuta näiteks infosüsteemi nime, lühinime või eesmärki. 
 - Alamsüsteem on registreeritud RIHAs kui sellel on märge "Süsteem on kasutusel" ja infosüsteemi valdkond "X-tee alamsüsteem"
