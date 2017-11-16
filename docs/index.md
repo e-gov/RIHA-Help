@@ -23,7 +23,6 @@ title: RIHA abikeskus
 - [Kuidas muuta X-tee alamsüsteemi andmeid RIHAs?](X-tee-alamsysteem)
 - [Kus on X-tee teenuste kataloog?](uus-riha#x-tee-teenused)
 
-
 ### RIHA kataloog
 
 - [Kuidas RIHA kataloogist teavet leida?](kataloogi-kasutamine)
@@ -35,6 +34,13 @@ title: RIHA abikeskus
 
 - [Kuidas toimub uues RIHAs kooskõlastamine?](RIHAs-hindamine#kuidas-toimub-uues-RIHAs-kooskõlastamine)
 - [Millal infosüsteeme hinnatakse?](RIHAs-hindamine#millal-infosüsteeme-hinnatakse)
+
+### RIHA masinliides
+
+- [Kuidas kasutada RIHA masinliidest?](APIabi)
+- [Mis andmeid RIHA masinliides pakub?](APIabi#mis-andmeid-riha-masinliides-pakub)
+- [Kuidas andmeid pärida?](APIabi#kuidas-andmeid-pärida)
+- [Kes RIHA masinliidest kasutavad?](APIabi#andmekasutajad)
 
 ### XML varamu
 
