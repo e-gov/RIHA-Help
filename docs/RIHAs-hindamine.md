@@ -19,8 +19,10 @@ Kui oled enda infosüsteemi kirjeldamise lõpetanud ning soovid sellele kooskõl
 - Anna teada help@ria.ee, et soovid enda infosüsteemile kooskõlastust
 
 RIA edastab kooskõlastamise soovi kõikidele RIHA hindajatele, kes vaatavad sinu infosüsteemi üle 20 tööpäeva jooksul.
+Infosüsteemi kooskõlastavad RIA, AKI, Maa-amet, Statistikaamet. Arhiiviväärtuslikke infosüsteeme kooskõlastab ka Rahvusarhiiv.
 
-- Kui infosüsteemil on puuduseid, siis lisavad RIHA hindajad puuduste kohta eraldi arutelu. Senikaua kuni puuduseid ei ole kõrvaldatud, ei ole ka infosüsteem kooskõlastatud
+- Kui infosüsteemil on puuduseid, siis lisavad RIHA hindajad puuduste kohta eraldi arutelu. Senikaua kuni kooskõlastavad asutused pole andnud enda kooskõlastust, siis ei ole ka infosüsteem korras ning seda asutada/kasutusele võtta/lõpetada või selle andmekoosseisu muuta ei tohi.
+- Kui oled puuduse kõrvaldanud, siis lisa ka peamisesse kooskõlastamise arutelusse (pealkirjaga "Infosüsteemil puudub kooskõlastus") selle kohta kommentaar.
 - Kui infosüsteemil puuduseid ei ole, siis lisavad kooskõlastajad sinu algatatud arutelu alla kommentaari, et on infosüsteemi üle vaadanud ja kooskõlastanud.
 
 ## Millal infosüsteeme kooskõlastatakse?
