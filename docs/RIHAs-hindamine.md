@@ -20,8 +20,8 @@ Kui oled enda infosüsteemi kirjeldamise lõpetanud ning soovid sellele kooskõl
 
 RIA edastab kooskõlastamise soovi kõikidele RIHA hindajatele, kes vaatavad sinu infosüsteemi üle 20 tööpäeva jooksul.
 
-- Kui infosüsteemil on puuduseid, siis lisavad RIHA hindajad puuduste kohta eraldi arutelu
-- Senikaua kuni puuduseid ei ole kõrvaldatud, ei ole ka infosüsteem kooskõlastatud
+- Kui infosüsteemil on puuduseid, siis lisavad RIHA hindajad puuduste kohta eraldi arutelu. Senikaua kuni puuduseid ei ole kõrvaldatud, ei ole ka infosüsteem kooskõlastatud
+- Kui infosüsteemil puuduseid ei ole, siis lisavad kooskõlastajad sinu algatatud arutelu alla kommentaari, et on infosüsteemi üle vaadanud ja kooskõlastanud.
 
 ## Millal infosüsteeme kooskõlastatakse?
 
