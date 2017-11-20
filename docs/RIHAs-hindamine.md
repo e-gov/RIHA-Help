@@ -18,14 +18,13 @@ Kui infosüsteemi kirjeldamine on viidud lõpuni ning oled valmis seda kooskõla
     - Infosüsteemi staatuseks märgi alati süsteemi reaalne olek, sõltumata kooskõlastuse puudumisest
 - Lisa kommentaar ja **salvesta**
 - Ka pärast arutelu loomist on võimalik infosüsteemi andmeid muuta, et pisivigu parandada. Vigade parandamiseks ei pea ootama, et kõik hindajad enda tagasiside ära annavad.
+  - Kui oled midagi parandanud või muutnud, lisa selle kohta ka arutelu alla kommentaar, et RIHA hindajad selle uuesti üle vaataks.
 
 ![Tagasiside küsimine](assets/images/data/submit-for-review.png "Hindajatelt tagasiside küsimine")
 
 Kõik RIHA hindajad saavad sellest teavituse ning vaatavad infosüsteemi kirjelduse üle 20 tööpäeva jooksul.
 
-- **Kooskõlastamiseks esitatud arutelusid saavad sulgeda ainult RIA hindajad pärast menetluse lõppu**
-
-
+- **Arutelu, millega küsisid kooskõlastust enda süsteemile, saab sulgeda ainult RIA hindaja, siis kui infosüsteem on kõigi hindajate poolt kooskõlastatud**
 
 ### Mittekooskõlastamised
 - Kui infosüsteemil on puuduseid, mille tõttu pole võimalik positiivset kooskõlastuse otsust anda, siis kirjeldavad hindajad need eraldi aruteludena.
@@ -58,7 +57,7 @@ RIHA hindajatel on võimalik
 - Kõik hinnangute pealkirjad on nähtavad ka avalikust vaatest
 - Hinnangute arutelu on nähtav ainult infosüsteemi omanikule ning RIHA hindajatele
 - Kui infosüsteemile on antud negatiivseid hinnanguid, siis on need nähtavad kohe **hindajate tagasiside** plokis aktiivsete arutelude all
-- Hetkel käimasolev kooskõlastamiseks esitamine on samuti nähtav aktiivsete arutelude all. Kui kõik kooskõlastused on saadud, siis märgitakse see lahendatuks ning see ilmub suletud arutelude all.
+- Hetkel käimasolev asutamise, kasutusele võtmise, andmekoosseisu muutmise või infosüsteemi lõpetamise menetlus on samuti nähtav aktiivsete arutelude all. Kui kõik kooskõlastused on saadud, siis märgitakse teema lahendatuks ning see ilmub suletud arutelude all.
 
 ## Kuidas saan aru, et minu infosüsteem on kooskõlastatud?
 
