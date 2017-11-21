@@ -35,7 +35,7 @@ Kui infosüsteem ei läbi esimese korraga kooskõlastust, siis jäävad aktiivse
 Pärast teavituse saamist vaata üle RIHAst, kas infosüsteem vajab sinu kooskõlastust.
 **Ära kooskõlasta siis:**
 - **kui infosüsteem ei kuulu Riigi Infosüsteemi ehk pole X-teega liidestatud**
-  - X-tee liidestamise staatust pole üldandmetes määratud või on kirjas, et pole X-teega liidestatud  
+  - X-tee liidestamise staatuses on kirjas, et pole X-teega liidestatud  
 
   ![X-teega liidestamata](assets/images/data/not-x-tee.png "Riigi infosüsteemi mitte kuuluv süsteem")
 
