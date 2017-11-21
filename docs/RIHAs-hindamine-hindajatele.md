@@ -81,7 +81,7 @@ Sulge arutelu ise siis, kui kasutaja kommenteerib, et on vea ära parandanud kui
 Kõik, kes arutelus osalevad, saavad RIHAst teavituse, kui uusi kommentaare on lisatud.
 
 
-## Mille alusel saab aru, kas infosüsteem on kooskõlastatud?
+## Mille alusel saab aru, kas infosüsteemi kasutusele võtmine on kooskõlastatud?
 
 Kooskõlastatuks loetakse sellist infosüsteemi
 
