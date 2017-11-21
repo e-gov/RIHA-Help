@@ -5,7 +5,7 @@ title: RIHA kataloogist teabe otsimine
 ## Kuidas leian RIHAst infosüsteeme?
 
 RIHA kataloogi kasutamiseks on kaks võimalust: 
-- otsida infosüsteem kasutades [RIHA kasutajaliidest](https://www.riha.ee/Infos%C3%BCsteemid) 
+- otsida infosüsteeme kasutades [RIHA kasutajaliidest](https://www.riha.ee/Infos%C3%BCsteemid) 
 - otsida infosüsteeme kasutades RIHA masinloetavat REST API liidest
 
 ### RIHA kataloog
