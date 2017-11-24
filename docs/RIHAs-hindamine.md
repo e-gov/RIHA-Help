@@ -72,7 +72,7 @@ Arutelusid tüüpidega 'Infosüsteemi asutamine', 'Infosüsteemi kasutusele võt
 
 - Kõik hinnangute pealkirjad on nähtavad ka avalikust vaatest
 - Hinnangute arutelu on nähtav ainult infosüsteemi omanikule ning RIHA hindajatele
-- Kui infosüsteemile on antud negatiivseid hinnanguid, siis on need nähtavad kohe **hindajate tagasiside** plokis aktiivsete arutelude all
+- Kui infosüsteemile on märgitud puuduseid, siis on need nähtavad kohe **hindajate tagasiside** plokis aktiivsete arutelude all
 - Hetkel käimasolev asutamise, kasutusele võtmise, andmekoosseisu muutmise või infosüsteemi lõpetamise menetlus on samuti nähtav aktiivsete arutelude all. 20 tööpäeva möödudes märgitakse teema lahendatuks ning see ilmub suletud arutelude all.
 
 ## Kuidas saan aru, et minu infosüsteemi kasutusele võtmine on kooskõlastatud?
