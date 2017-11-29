@@ -82,9 +82,6 @@ Kõik, kes arutelus osalevad, saavad RIHAst teavituse, kui uusi kommentaare on l
 
 ## Mille alusel saab aru, kas infosüsteemi kasutusele võtmine on kooskõlastatud?
 
-Kooskõlastatuks loetakse sellist infosüsteemi
-
-- millel ei ole ühtegi aktiivset arutelu **JA**
-- millel suletud arutelude all on teema pealkirjaga 'Infosüsteemil puudub kasutusele võtmise kooskõlastus', mille tüübiks on _Infosüsteemi kasutusele võtmine_ ning selle viimaseks kommentaariks enne sulgemist on kirjutatud, et **infosüsteem on kooskõlastatud**.
+Kooskõlastatuks loetakse sellist infosüsteemi, mille suletud arutelude all on teema pealkirjaga 'Infosüsteemil puudub kasutusele võtmise kooskõlastus', mille tüübiks on _Infosüsteemi kasutusele võtmine_ ning selle viimaseks kommentaariks enne sulgemist on RIA kirjutanud **infosüsteemi kasutusele võtmine on kooskõlastatud**.
 
 ![Kooskõlastamise koondotsus](assets/images/data/approved-system.png "Kooskõlastamise koondotsus")
