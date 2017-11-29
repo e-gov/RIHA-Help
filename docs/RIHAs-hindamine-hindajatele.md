@@ -5,10 +5,10 @@ title: Infosüsteemide hindamine uues RIHAs - juhend hindajatele
 ## Kuidas toimub uues RIHAs kooskõlastamine kuni detsembri keskpaigani?
 
 ### Kooskõlastamiseks esitamine
-- Infosüsteemide omanikud, kes soovivad kooskõlastust, lisavad enda infosüsteemi alla uue arutelu, mis asub hindate tagasiside plokis
+- Infosüsteemide omanikud, kes soovivad kooskõlastust, lisavad enda infosüsteemi alla uue arutelu, mis asub hindajate tagasiside plokis
 - Arutelu kommentaariks lisatakse, millises etapis (asutamine, kasutamine, andmekoosseisu muutmine, lõpetamine) kooskõlastust soovitakse
 - Pärast arutelu tekitamist annab infosüsteemi omanik help@ria.ee teada, et soovib kooskõlastamist
-- RIA kasutajatugi saadab kõigile kooskõlastajate meililisti teavituse edasi
+- RIA kasutajatugi saadab teavituse kooskõlastajate meililisti
 
 ## Kuidas toimub uues RIHAs kooskõlastamine alates detsembri keskpaigast?
 
@@ -17,12 +17,11 @@ title: Infosüsteemide hindamine uues RIHAs - juhend hindajatele
   - Arutelu tekitamisel peab infosüsteemi omanik valima, millises etapis ta kooskõlastust soovib ning vastavalt valitule tekib arutelule ka sobiv pealkiri
 - Pärast arutelu tekitamist saavad kõik RIHA hindajad enda meilile teavituse, kus on kirjas, milline infosüsteem kooskõlastust soovib
 - Antud arutelu ei ole võimalik kasutajal ise sulgeda, seda **saab sulgeda ainult RIA hindaja**
-  - RIA hindaja vaatab arutelu alla lisatud kommentaarid üle **20 tööpäeva pärast arutelu algatamist**
-  - Kui kõik hindajad on andnud positiivse kommentaari ja ühtegi muud aktiivset arutelu infosüsteemi all ei ole, siis lisab RIA hindaja otsuse, et infosüsteem on kooskõlastatud ja sulgeb antud arutelu. **Sellega loetakse infosüsteem kooskõlastatuks.**
-  - Kui 20 tööpäeva möödudes on üleval aktiivseid arutelusid, siis lisab RIA hindaja otsuse, et infosüsteem ei ole kooskõlastatud ja sulgeb antud arutelu. **Sellega loetakse infosüsteem mittekooskõlastatuks.**
+  - Kui kõik hindajad on andnud positiivse kommentaari ja ühtegi muud aktiivset arutelu infosüsteemi all ei ole, siis lisab RIA hindaja **20 tööpäeva pärast arutelu algatamist** kommentaari, et infosüsteem on kooskõlastatud ja sulgeb antud arutelu. **Sellega loetakse infosüsteem kooskõlastatuks.**
+  - Kui 20 tööpäeva möödudes on üleval aktiivseid arutelusid (ja hindaja on lisanud enda negatiivse hinnangu ka kooskõlastamise algatamise arutelusse), siis lisab RIA hindaja otsuse, et infosüsteem ei ole kooskõlastatud ja sulgeb antud arutelu. **Sellega loetakse infosüsteem mittekooskõlastatuks.**
 
 ### Kui kooskõlastust esimese korraga ei saa
-Kui infosüsteem ei läbi esimese korraga kooskõlastust, siis jäävad aktiivsete aruteludena üles probleemid. Infosüsteemi omanik peab esmalt kirjeldatud puudused ära parandama ja seejärel infosüsteemi uuesti kooskõlastamisele esitama.
+Kui infosüsteem ei saa esimese korraga kooskõlastust, siis jäävad aktuaalsed probleemid aruteludena aktiivseteks. Infosüsteemi omanik peab esmalt kirjeldatud puudused ära parandama ja seejärel infosüsteemi uuesti kooskõlastamisele esitama.
 - Kui puudused on parandatud ning vastavad arutelud suletud, siis lisab infosüsteemi omanik uue arutelu valides sobiva kooskõlastamise etapi.
 - Kooskõlastajad vaatavad taaskord kirjelduse üle
 - Kui puudused on kõrvaldatud siis lisatakse arutelu alla positiivne kommentaar.
@@ -33,9 +32,9 @@ Kui infosüsteem ei läbi esimese korraga kooskõlastust, siis jäävad aktiivse
 ## Kuidas anda hinnangut uues RIHAs?
 
 Pärast teavituse saamist vaata üle RIHAst, kas infosüsteem vajab sinu kooskõlastust.
-**Ära kooskõlasta siis:**
-- **kui infosüsteem ei kuulu Riigi Infosüsteemi ehk pole X-teega liidestatud**
-  - X-tee liidestamise staatuses on kirjas, et pole X-teega liidestatud  
+**Ära lisa hinnangut:**
+- **kui infosüsteem ei kuulu riigi infosüsteemi ehk pole X-teega liidestatud**
+  - X-tee liidestamise staatuses on kirjas, et pole X-teega liidestatud (sellel väljal näidatakse ka kavatsust) 
 
   ![X-teega liidestamata](assets/images/data/not-x-tee.png "Riigi infosüsteemi mitte kuuluv süsteem")
 
@@ -54,10 +53,10 @@ Kui infosüsteem on üle vaadatud ning ühtegi puudust pole tuvastatud, siis lis
 
 ### Mittekooskõlastamine
 
-Kui infosüsteemi üle vaatamisel selgus, et selles on nõuetele mittevastavusi, siis kirjelda **kõik puudused eraldi** aruteludena ning lisa ka peamise arutelu alla millised puudused tuvastasid (sinu tekitatud arutelude pealkirjad).
+Kui infosüsteemi üle vaatamisel selgus, et selles on nõuetele mittevastavusi, siis kirjelda **kõik puudused eraldi** aruteludena ning mittekooskõlastamise otsuse andmisel lisa ka peamise arutelu alla millised puudused tuvastasid (sinu tekitatud arutelude pealkirjad).
 
 - Vali _**Lisa uus arutelu**_
-- Lisa probleemi kokku võttev ja selge pealkiri
+- Lisa probleemi kokkuvõttev ja selge pealkiri
   - Pealkiri on kõikidele kasutajatele nähtav ning seetõttu peaks võtma üldisel tasemel kokku probleemi olemuse.
 - Lisa probleemi detailsemalt kirjeldav kommentaar
   - Kommentaaris kirjelda võimalikult täpselt, milles on probleem: kui tegemist on veaga RIHAs olevas kirjelduses/dokumendis, siis anna selle kohta viide. Kui viga on õigusaktis, siis anna selle kohta viide.
