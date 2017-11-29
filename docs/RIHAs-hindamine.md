@@ -36,7 +36,7 @@ Kui infosüsteemi kirjeldamine on viidud lõpuni ning oled valmis seda kooskõla
 - Ka pärast arutelu loomist on võimalik infosüsteemi andmeid muuta, et pisivigu parandada. Vigade parandamiseks ei pea ootama, et kõik hindajad enda tagasiside ära annavad.
   - Kui oled midagi parandanud või muutnud, lisa selle kohta ka arutelu alla kommentaar, milles kirjeldad lühidalt, millised muudatused infosüsteemis või dokumentatsiooni tegid, et RIHA hindajad oleksid muudatusest teadlikud.
 
-![Tagasiside küsimine](assets/images/data/submit-for-review.png "Hindajatelt tagasiside küsimine")
+![Tagasiside küsimine](assets/images/data/submit-for-review.gif "Hindajatelt tagasiside küsimine")
 
 Kõik RIHA hindajad saavad uuest tagasiside küsimisest teavituse ning annavad hinnangu 20 tööpäeva jooksul.
 
