@@ -2,15 +2,7 @@
 title: Infosüsteemide hindamine uues RIHAs - juhend hindajatele
 ---
 
-## Kuidas toimub uues RIHAs kooskõlastamine kuni detsembri keskpaigani?
-
-### Kooskõlastamiseks esitamine
-- Infosüsteemide omanikud, kes soovivad kooskõlastust, lisavad enda infosüsteemi alla uue arutelu, mis asub hindajate tagasiside plokis
-- Arutelu kommentaariks lisatakse, millises etapis (asutamine, kasutamine, andmekoosseisu muutmine, lõpetamine) kooskõlastust soovitakse
-- Pärast arutelu tekitamist annab infosüsteemi omanik help@ria.ee teada, et soovib kooskõlastamist
-- RIA kasutajatugi saadab teavituse kooskõlastajate meililisti
-
-## Kuidas toimub uues RIHAs kooskõlastamine alates detsembri keskpaigast?
+## Kuidas toimub uues RIHAs kooskõlastamine?
 
 ### Kooskõlastamiseks esitamine
 - Infosüsteemi omanikud, kes soovivad kooskõlastust, lisavad enda infosüsteemi alla uue arutelu
