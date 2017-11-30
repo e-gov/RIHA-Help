@@ -47,11 +47,7 @@ Infosüsteemide staatused ei kajastanud vanas RIHAs väga tihti infosüsteemi re
 
 ### Klassifikaatorid
 
-[Klassifikaatorite süsteemi](https://www.riigiteataja.ee/akt/12910889) määrus ei vasta tegelikule olukorrale, kuna:
-- senised Statistikaameti kooskõlastatud ja kehtestatud staatusega klassifikaatorid RIHAs on enamuses osas loendid. 
-- vaid infosüsteemi seostamine klassifikaatoriga ei anna tegelikult infot, kuidas üle X-tee andmeid välja antakse ning süsteemi sees võib tegelikult andmeid ka endale sobival kujul klassifitseerida. Seetõttu oleks sobilikum siduda klassifikaatoreid andmeobjektide vaates.
-
-Senikaua kuni määrus ning RIHAs kajastuv seis ei ole kooskõlas (st loendid pole eemaldatud/reguleeritud), ei ole mõistlik klassifikaatorite osa uude RIHAsse üle kanda. Kõik senised klassifikaatorid võib leida [vanast RIHAst](https://vana.riha.ee). Uues RIHAs võib infosüsteemi omanik lisada klassifikaatorid vastava infosüsteemi dokumentatsiooni plokis viidete/failide lisamisega. Samuti on võimalus lisada klassifkaatoreid [RIHA varamusse](https://varamu.riha.ee).
+Uues RIHAs puudub klassifikaatorite moodul. Kõik senised klassifikaatorid võib leida [vanast RIHAst](https://vana.riha.ee). Uues RIHAs võib infosüsteemi omanik lisada klassifikaatorid vastava infosüsteemi dokumentatsiooni plokis viidete/failide lisamisega. Samuti on võimalus lisada klassifkaatoreid [RIHA varamusse](https://varamu.riha.ee). RIA kaardistab koos Statistikaametiga klassifikaatorite haldamise klienditeekonda ning ühtlasi tuleb üle vaadata kõik seni Statistikaameti poolt kooskõlastatud klassifikaatorid (st eristada klassifikaatorid loenditest).
 
 ### Sõnastikud
 
