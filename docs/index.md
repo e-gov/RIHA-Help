@@ -6,7 +6,8 @@ title: RIHA abikeskus
 
 ### Uus RIHA
 
-- [Mida saab uues RIHAs teha?](uus-riha#mida-saab-uues-rihas-teha)
+- [Mis on RIHAs uut?](RIHA-uuendused)
+- [Mida saab RIHAs teha?](uus-riha#mida-saab-uues-rihas-teha)
 - [Mis on uues RIHAs teistmoodi kui vanas?](uus-riha#mis-on-uues-rihas-erinev-kui-vanas-rihas)
 - [Mida uues RIHAs võrreldes vanaga enam teha ei saa?](uus-riha#mida-ei-ole-enam-rihas-võimalik-teha)
 
