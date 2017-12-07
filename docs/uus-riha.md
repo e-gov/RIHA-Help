@@ -23,13 +23,12 @@ Infosüsteemide staatused ei kajastanud vanas RIHAs väga tihti infosüsteemi re
 
 ### Kooskõlastamine
 
-- Uues RIHAs ei ole võimalust kooskõlastajatel anda hinnangut 'kooskõlastan'. Selle asemel on uues kontseptsioonis kasutusel vastupidine funktsionaalsus.
+- Uues RIHAs on kooskõlastamise asemel välja toodud vastupidine: infosüsteemide puudused, mis avanevad kohe **hindajate tagasiside** avatud arutelude vaates
 - Kui infosüsteemil on puudusi, siis annavad kooskõlastajad sellest infosüsteemi juures teada, lisades uue arutelu, milles kirjeldatud puudused tuleb infosüsteemi omanikul kõrvaldada
+- Kooskõlastamiseks esitamine toimub uue arutelu lisamisega, mille alla on võimalik kooskõlastajatel positiivseid otsuseid anda. Lähemalt loe [RIHAs hindamise abiinfost](https://abi.riha.ee/RIHAs-hindamine)
 
 ![Hindajate tagasiside](assets/images/data/hindajate-tagasiside.png "Hindajate tagasiside uues RIHAs")
 
-- Hinnanguid saavad RIHA kooskõlastajad infosüsteemidele anda igal ajahetkel
-- Iga infosüsteem on kooskõlastatud just nii kaua kuni ükski kooskõlastaja pole sellele aktiivset arutelu tekitanud
 - Aktiivsete arutelude kõrval on võimalik vaadata ka suletud arutelusid, mis näitavad, millised infosüsteemi puudused on aja jooksul lahendatud
 
 ### Andmete koosseis
@@ -39,26 +38,16 @@ Infosüsteemide staatused ei kajastanud vanas RIHAs väga tihti infosüsteemi re
 
 ![Infosüsteemi andmete äriline vaade](assets/images/data/andmed-ylevaade.png "Infosüsteemi andmete äriline vaade")
 
-- Lisaks ärilisele vaatele on võimalik üles laadida infosüsteemi detailset andmete koosseisu. See dokument on vaja esitada kas .csv või .xmi failina.
+- Lisaks ärilisele vaatele tuleb üles laadida infosüsteemi detailne andmete koosseis. See dokument on vaja esitada kas .csv või .xmi failina.
   - Faili struktuuri RIHA rakendus rangelt ei kontrolli, kuid sisaldama peaks see infot, millised andmed on põhiandmed, millised on tehnilised andmeväljad ning millised andmed küsitakse teistest infosüsteemidest
   - Üles laaditava dokumendi puhul soovitame kasutada struktuuri, mida olete ka vanas RIHAs andmekoosseisu üleslaadimisel kasutanud
 
 
 ## Mida ei ole enam RIHAs võimalik teha?
 
-### Kooskõlastamiseks esitamine
-
-Kuna kooskõlastajate poolt kontrollitavad nõuded kehtivad olenemata RIHAs kirjeldamise staatusest, siis:
-- uues RIHAs ei toimu pärast infosüsteemi kirjeldamist selle kooskõlastamiseks esitamist. Kõik kooskõlastajad saavad automaatselt iga päev teavitusi uutest infosüsteemidest ning vaatavad kirjeldusi üle vastavalt oma asutuse sisemistele protsessidele.
-- annavad kooskõlastajad infosüsteemi kirjelduses leitud puudustest teada lisades infosüsteemi alla uue arutelu, milles kirjeldatud puudused tuleb infosüsteemi omanikul kõrvaldada
-- saab arutelusid tekitada igal ajahetkel. Ka siis, kui infosüsteem on juba ammu kasutusele võetud.
-
 ### Klassifikaatorid
 
-[Klassifikaatorite süsteemi](https://www.riigiteataja.ee/akt/12910889) määrus ei vasta tegelikule olukorrale, kuna:
-- senised Statistikaameti kooskõlastatud ja kehtestatud staatusega klassifikaatorid RIHAs on enamuses osas loendid. Loendid pole oma olemuselt klassifikaatorid, kuna on infosüsteemis kasutatavaid abivahendeid ning nende alusel ei toimu andmevahetus riigi infosüsteemi kuuluvate andmekogude vahel.
-- vaid infosüsteemi seostamine klassifikaatoriga ei anna tegelikult infot, kuidas üle X-tee andmeid välja antakse ning süsteemi sees võib tegelikult andmeid ka endale sobival kujul klassifitseerida. Seetõttu oleks sobilikum siduda klassifikaatoreid pakutavate X-tee teenustega, mitte infosüsteemi või kogutavate andmeobjektidega
-Senikaua kuni määrus ning RIHAs kajastuv seis ei ole kooskõlas (st loendid pole eemaldatud/reguleeritud), ei ole mõistlik klassifikaatorite osa uude RIHAsse üle kanda. Kõik senised klassifikaatorid võib leida [vanast RIHAst](https://vana.riha.ee). Uues RIHAs võib infosüsteemi omanik lisada klassifikaatorid vastava infosüsteemi dokumentatsiooni paneelis viidete/failide lisamisega. Samuti on võimalus lisada klassifkaatoreid [RIHA varamusse](https://varamu.riha.ee).
+Uues RIHAs puudub klassifikaatorite moodul. Kõik senised klassifikaatorid võib leida [vanast RIHAst](https://vana.riha.ee). Uues RIHAs võib infosüsteemi omanik lisada klassifikaatorid vastava infosüsteemi dokumentatsiooni plokis viidete/failide lisamisega. Samuti on võimalus lisada klassifkaatoreid [RIHA varamusse](https://varamu.riha.ee). RIA kaardistab koos Statistikaametiga klassifikaatorite haldamise klienditeekonda ning ühtlasi tuleb üle vaadata kõik seni Statistikaameti poolt kooskõlastatud klassifikaatorid (st eristada klassifikaatorid loenditest).
 
 ### Sõnastikud
 

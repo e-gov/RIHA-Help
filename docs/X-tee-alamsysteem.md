@@ -29,7 +29,7 @@ Pärast salvestamist avaneb loodud alamsüsteemi detailvaade
 
 ### X-tee alamsüsteemi andmete muutmine
 
-- Infosüsteemi valdkond lahtrisse kirjuta: X-tee alamsüsteem
+- Infosüsteemi märksõnade lahtrisse kirjuta: X-tee alamsüsteem
 - Vali dokumentide paneeli ülaosast MUUDA ning vajadusel lisa tehnilise dokumentatsiooni viited
   - Eraõiguslik X-tee liige, kelle infosüsteem ei ole avaliku teabe seaduse tähenduses andmekogu ja kelle infosüsteemi ei kasutata avaliku teenuse osutamiseks, peab lisama dokumentide alla ettevõtte esindusõigusliku isiku digitaalselt allkirjastatud [Nõuetele vastavuse kinnituse](https://www.ria.ee/public/x_tee/xtee_nouetele_vastavus_kinnitus.pdf). Volitatud esindusõiguse puhul lisa digidoc konteinerisse enne dokumendi allkirjastamist juurde ka volikiri või lisa volikiri eraldi failina.
   - Kirjuta dokumendi nimi ja veebiviide või lisa dokument manusena > LISA > SALVESTA
@@ -40,6 +40,6 @@ Pärast salvestamist avaneb loodud alamsüsteemi detailvaade
 ### X-tee alamsüsteemide haldamine
 
 - Kõik sinu asutuse poolt registreeritud alamsüsteemid ja infosüsteemid leiad [Minu infosüsteemide](https://www.riha.ee/Kirjelda) hulgast
-- Alamsüsteemi muutmiseks ava selle detailvaade vajutades nimekirjas süsteemi nimele või lühinimele 
+- Alamsüsteemi muutmiseks ava selle detailvaade, vajutades nimekirjas süsteemi nimele või lühinimele 
 - Alamsüsteemi üldandmete plokis on võimalik muuta näiteks infosüsteemi nime, lühinime või eesmärki. 
-- Alamsüsteem on registreeritud RIHAs, kui sellel on märge "Süsteem on kasutusel" ja infosüsteemi valdkond on "X-tee alamsüsteem"
+- Alamsüsteem on registreeritud RIHAs, kui sellel on märge "Süsteem on kasutusel" ja infosüsteemi märksõna on "X-tee alamsüsteem"
