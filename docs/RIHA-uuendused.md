@@ -9,6 +9,8 @@ title: Mis on RIHAs uut?
 Infosüsteemide vahel on võimalik seoseid lisada, et tuua välja infosüsteemi ülem- ja alamsüsteemid. Funktsionaalsus võimaldab lisada seose näiteks andmekogu ning selle teenuseid vahendava X-tee alamsüsteemi vahel.
 Seose lisamisel tekib infosüsteemidele link, millele vajutades saab otse vastava infosüsteemi detailvaatesse liikuda. Seose eemaldamisel kaob see link mõlema infosüsteemi kirjeldusest.
 
+  ![Infosüsteemide seostamine](assets/images/data/relations.gif "Infosüsteemide seostamine")
+
 Enne 1. novembrit olnud infosüsteemide seosed on samuti vanast RIHAst uude üle kantud - neid käsitsi lisada pole vaja.
 
 ### Märksõnade alusel otsimine
@@ -16,6 +18,8 @@ Enne 1. novembrit olnud infosüsteemide seosed on samuti vanast RIHAst uude üle
 Lisandunud on otsingu sooritamine märksõna alusel, mis võimaldab kiirelt üles leida näiteks kõik X-tee alamsüsteemid sisestades otsingusõnaks 'X-tee alamsüsteem'
 
 Lisaks on võimalik infosüsteemide detailvaates ka märksõnale klikkida, mille järel sooritatakse RIHA kataloogist vastava märksõnaga otsing.
+
+  ![Märksõna otsimine](assets/images/data/tag-search.gif "Märksõna alusel otsimine")
 
 ### Otsingu parameetrid on nähtavad URLis
 
