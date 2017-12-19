@@ -52,11 +52,11 @@ Kui sessioon juba on lõppenud, siis logitakse kasutaja süsteemist automaatselt
 
 ## 1. november 2017
 
-Toimus uue RIHA keskkonna avaldamine. [Vaata ka RIHA infopäeva video ülekannet](https://www.youtube.com/watch?v=K9lLS-7hpGw).
+Toimus uue RIHA keskkonna avaldamine. [Vaata ka videosalvestus RIHA infopäevast](https://www.youtube.com/watch?v=K9lLS-7hpGw).
 
 Uue RIHA peamised erinevused vanast RIHAst on välja toodud [uue RIHA muutuste abiinfos](uus-riha).
 
-Vanast RIHAs kanti üle sellised infosüsteemid, mis oli **sisestamisel, asutatud või kasutusel staatusega**. Juurdepääsupiiranguga infosüsteemide puhul kanti üle vaid avalik teave. Infosüsteemide andmetest viidi üle võimalikult palju infot ning osaliselt toimus ka konverteerimine nende uuele tähendusele. Üle viidi järgmised infosüsteemide andmed:
+Vanast RIHAs kanti üle sellised infosüsteemid, mis olid **sisestamisel, asutatud või kasutusel staatusega**. Juurdepääsupiiranguga infosüsteemide puhul kanti üle vaid avalik teave. Infosüsteemide andmetest viidi üle võimalikult palju infot ning osaliselt toimus ka konverteerimine nende uuele tähendusele. Üle viidi järgmised infosüsteemide andmed:
 
 - Nimi
 - Lühinimi
@@ -68,7 +68,7 @@ Vanast RIHAs kanti üle sellised infosüsteemid, mis oli **sisestamisel, asutatu
   - nimi
 - Infosüsteemi eesmärk
 - Infosüsteemi URL -> avalik kasutajaliides
-- X-tee liidestumise staatus (vastavalt vana RIHA kategooriale 'liidestatud/liidestatakse x-teega')
+- X-teega liidestumise staatus (vastavalt vana RIHA kategooriale 'liidestatud/liidestatakse x-teega')
   - liidestumise kuupäev
 - Infosüsteemi RIHA kirje tekitamise aeg
 - Infosüsteemi viimase muudatuse aeg
