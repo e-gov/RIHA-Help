@@ -52,7 +52,7 @@ Kui sessioon juba on lõppenud, siis logitakse kasutaja süsteemist automaatselt
 
 ## 1. november 2017
 
-Toimus uue RIHA keskkonna avaldamine. [Vaata ka videosalvestus RIHA infopäevast](https://www.youtube.com/watch?v=K9lLS-7hpGw).
+Toimus uue RIHA keskkonna avaldamine. [Vaata ka videosalvestust RIHA infopäevast](https://www.youtube.com/watch?v=K9lLS-7hpGw).
 
 Uue RIHA peamised erinevused vanast RIHAst on välja toodud [uue RIHA muutuste abiinfos](uus-riha).
 
