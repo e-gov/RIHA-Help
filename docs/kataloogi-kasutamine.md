@@ -15,6 +15,7 @@ Valides RIHA kasutajaliidesest **RIHA kataloog** avatakse nimekiri kõigist RIHA
 Kataloogist on võimalik otsida:
 - Infosüsteemi nime järgi
 - Infosüsteemi omaniku nime järgi
+- Infosüsteemi märksõna järgi
 
 Otsingu tulemust on võimalik sorteerida:
 - Infosüsteemi omaniku nime järgi
