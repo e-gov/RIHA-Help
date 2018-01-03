@@ -43,7 +43,7 @@ title: RIHA abikeskus
 - [Kuidas andmeid pärida?](APIabi#kuidas-andmeid-pärida)
 - [Kes RIHA masinliidest kasutavad?](APIabi#andmekasutajad)
 
-### XML varamu
+### RIHA varamu
 
-- [Kuidas XML vara koostada?](XML-varamu#kuidas-xml-vara-koostada)
-- [Kuidas XML vara kooskõlastada?](XML-varamu#kuidas-xml-vara-kooskõlastada)
+- [Kuidas XML vara koostada?](varamu#kuidas-xml-vara-koostada)
+- [Kuidas XML vara kooskõlastada?](varamu#kuidas-xml-vara-kooskõlastada)
