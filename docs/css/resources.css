@@ -1,5 +1,12 @@
 /* RIHA-Help specific overrides */
 
+.pagehead h1, .pagehead .h1 {
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 1;
+    margin-bottom: 30px;
+}
+
 h2 {
     font-size: 2rem;
     font-weight: bold;
