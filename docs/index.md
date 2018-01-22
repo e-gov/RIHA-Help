@@ -35,6 +35,7 @@ title: RIHA abikeskus
 
 - [Kuidas toimub uues RIHAs kooskõlastamine?](RIHAs-hindamine#kuidas-toimub-uues-RIHAs-kooskõlastamine)
 - [Millal infosüsteeme hinnatakse?](RIHAs-hindamine#millal-infosüsteeme-hinnatakse)
+- [Millised infosüsteemid on esitatud hindamisele?](RIHAs-hindamisel#RIHAs-hindamisele-esitatud-infosüsteemid)
 
 ### RIHA masinliides
 
