@@ -4,7 +4,7 @@ title: Infosüsteemide hindamine RIHAs
 ## RIHAs hindamisele esitatud infosüsteemid
 
 | Omanik | Infosüsteem |  Esitamine | Tähtaeg |
-|:--- |:--- |:--- |---:|
+|:--- |:--- |:--- |:---|
 | Maksu- ja Tolliamet | [MKRi maksemoodul](https://www.riha.ee/Systems/Vaata/MKRMM) | 11.12.2017 | 11.01.2018 |
 | Rahandusministeerium | [Kohaliku omavalitsuse volikogu/valitsuse infosüsteem](https://www.riha.ee/Systems/Vaata/volis) | 12.12.2017 | 12.01.2018 |
 | Maanteeamet | [Teekasutustasu andmekogu](https://www.riha.ee/Systems/Vaata/tkt) | 19.12.2017 | 19.01.2018 |
