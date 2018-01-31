@@ -2,6 +2,59 @@
 title: Mis on RIHAs uut?
 ---
 
+## 30. jaanuar 2017 
+
+### Täiustatud otsing
+
+RIHA võimaldab nüüd üldotsingut teostada igal RIHA lehel kasutades selleks lehe peanavigatsioonis asuvat otsingukasti. Üldotsing otsib andmeid kogu infosüsteemi kirjelduse väljadelt: infosüsteemi üldkirjelduse väljad nagu eesmärk, märksõnad, omanik (nii nimi kui registrikood), lühinimi ja nimi, staatus, avalik veebileht. Lisaks otsitakse ka infosüsteemi andmete plokis asuvatest põhiandmete objektidest ja dokumentide nimedest, tehnilise kirjelduse plokis asuvate dokumentide nimedest ja URLidest ning õigusaktide plokis asuvate õigusaktide nimedest ja veebilinkidest.
+
+Lisaks üldotsingule on RIHAs ka täpsustav otsing, mis võimaldab otsida erinevate kriteeriumite alusel: näiteks otsida infosüsteeme, mida on muudetud teatud ajavahemikus; otsida infosüsteeme mis on teatud staatusega või kombineerida erinevaid filtreid kokku.
+
+### Pärast sisselogimist samalt lehelt jätkamine
+
+RIHA võimaldab pärast sisselogimist või asutuse rolli vahetust jätkata samalt lehelt. Nii ei pea pärast sisse logimist uuesti vaadeldavat infosüsteemi üles otsima või ise veebisirvijas 'tagasi' nuppu vajutama.
+
+### RIHA laadimine 2 korda kiiremini
+
+Et kasutajad ei peaks RIHA avamisel liialt palju ootama, on rakendust optimiseeritud ja seega avaneb RIHA leht kaks korda kiiremini kui varem. Lisaks väheneb ka veebilehtseja koormus võrreledes varasema versiooniga, mistõttu on RIHA kasutamine mitmel vahelehel korraga märksa kiirem.
+
+### Standardlahenduse seose tüüp
+
+Oleme lisanud RIHAsse ka uue seose tüübi: kasutatav standardlahendus / standardlahenduse kasutaja. Lisaks on üle toodud standardlahenduse kasutamise seosed vanast RIHAst.
+Uut tüüpi saab kasutada selleks, et märkida need infosüsteemid ja andmekogud, mis on standardlahenduse kasutajad ja ka vastupidi: märkida see standardlahendus, millel kirjeldatav süsteem põhineb.
+
+### Kooskõlastamise staatus
+
+RIHA näitab kataloogis välja infosüsteemi kooskõlastamise staatust vastavalt sellele, millisele etapile on positiivne otsus kõige viimasena saadud. Infosüsteemi detailvaates kuvatakse infosüsteemi staatuse juures, kas see etap on saanud ka kooskõlastuse. Näiteks kui infosüsteem on kasutusel, kuid kasutusele võtmise kooskõlastamist positiivselt läbitud ei ole, siis kuvatakse seda punaselt.
+Kui kooskõlastus on saadud vastavalt infosüsteemi staatusele, siis kuvatakse seda roheliselt ning näidatakse ka kuupäeva, millal selle etapi kooskõlastamine saadi.
+
+### RIHA hindajate otsused sündmustena
+
+RIHA hindajate otsuseid näidatakse arutelude all nüüd sündmustena. See võimaldab kiiret ülevaadet, millise otsuse asutused on andnud.
+
+### Vanade kooskõlastamiste ületoomine 
+
+Uude RIHAsse on nüüd üle toodud ka kooskõlastamiste otsused vanast RIHAst. See võimaldab nii infosüsteemi omanikul kui ka RIHA hindajal vaadata ajaloos tagasi ja näha, milliseid otsuseid ja kommentaare on infosüsteemi kooskõlastamisel varasemalt lisatud.
+**Üle on toodud vaid kooskõlastamised, infosüsteemide registreerimise otsused (näiteks standardlahenduse kasutamise registreerimised) ei ole uude RIHAsse üle kantud.**
+Need infosüsteemid, mis kooskõlastati kasutusele võtmiseks Andmekogude riiklikus registris (ARR) enne RIHA, omavad kooskõlastamise kuupäevana infosüsteemi kasutusele võtmise kuupäeva.
+
+### Hindajate tagasiside täiendused
+
+Hindajate tagasiside plokis on nüüd võimalus vaadata ka kõiki arutelusid ühes nimekirjas. Lisaks on nimekirjas näha ka arutelu tekitamise aeg, nimekiri ise on sorteeritud nii, et kõige värskemad arutelud on eespool.
+
+### Otsingu parameetrid URLis on täienenud
+
+Sooritades otsingu RIHA kataloogist, kuvatakse ka veebilehitseja URLi väljal parameetreid, millega otsingu sooritasid. URL sisaldab nüüd kõiki neid filtreid, mida täiustatud otsing võimaldab ning sisaldab infot ka sorteerimise ja lehekülje numbri kohta. Seega, kui soovid jagada kollegiga otsingu tulemust, mis on sorteeritud näiteks omaniku nime alusel kahanevalt ning tahad viidata konkreetselt viiendale leheküljele, siis lihtne kopeeri-kleebi ajabki asja ära.
+
+### Infosüsteemi kirjeldus UUID alusel
+
+Kuigi infosüsteemi lühinimi on hea viis, et infosüsteemidele viidata, võib juhtuda, et infosüsteemi lühinime ajas muudetakse. Selleks, et ikka sama infosüsteem RIHAst üles leida, saab kasutada URLi, milles lühinimi on asendatud konkreetse infosüsteemi UUID-ga (Universally unique identifier), näiteks [riha.ee/Infosüsteemid/Vaata/f02f1ecd-9662-eedc-c9e2-d2cfd71a0606](https://www.riha.ee/Infosüsteemid/Vaata/f02f1ecd-9662-eedc-c9e2-d2cfd71a0606). Infosüsteemi UUID-d on võimalik vaadata infosüsteemi masinkirjeldusest (JSON struktuurist). 
+
+### RIHA API uuendused
+
+RIHA masinliides võimaldab nüüd saada infot infosüsteemide aruteludest terve RIHA üleselt. Teenus /issues tagastab nimekirja aruteludest, mis RIHAs on tekitatud ning võimaldab nimekirja erinevate parameetrite abil filtreerida. Teenusega on võimalik otsida näiteks kõik arutelud, mis parasjagu on aktiivsed; filtreerida välja ainult need, kus infosüsteem on esitatud kooskõlastamiseks; või otsida neid arutelusid, mis on loodud infosüsteemi kasutusele võtmise kooskõlastamiseks ja on lõppenud negatiivse tulemusega.
+Täpsemat infot teenusest leiab [RIHA masinliidese kirjeldusest](https://github.com/e-gov/RIHA-Browser/blob/master/backend/src/main/resources/static/swagger.yaml)
+
 ## 7. detsember 2017 
 
 ### Infosüsteemide seosed
