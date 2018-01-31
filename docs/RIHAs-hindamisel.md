@@ -16,3 +16,4 @@ title: Infosüsteemide hindamine RIHAs
 | Maksu- ja Tolliamet | [E-kaubanduse tegevuse kontroll](https://www.riha.ee/Systems/Vaata/EKAUB) | 16.01.2018 | 13.02.2018 |
 | Ravimiamet | [Ravimiameti Kliendiportaal](https://www.riha.ee/Systems/Vaata/rakp) | 16.01.2018 | 13.02.2018 |
 | Politsei- ja Piirivalveamet | [Broneeringuinfosüsteem](https://www.riha.ee/Systems/Vaata/briis) | 26.01.2018 | 23.02.2018 |
+| Harku Vallavalitsus | [Harku valla taotluste esitamise ja menetlemise andmekogu](https://www.riha.ee/Infos%C3%BCsteemid/Vaata/75014132-spoku) | 31.01.2018 | 28.02.2018 |
