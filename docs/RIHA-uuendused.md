@@ -16,7 +16,7 @@ RIHA võimaldab pärast sisselogimist või asutuse rolli vahetust jätkata samal
 
 ### RIHA laadimine 2 korda kiiremini
 
-Et kasutajad ei peaks RIHA avamisel liialt palju ootama, on rakendust optimiseeritud ja seega avaneb RIHA leht kaks korda kiiremini kui varem. Lisaks väheneb ka veebilehtseja koormus võrreledes varasema versiooniga, mistõttu on RIHA kasutamine mitmel vahelehel korraga märksa kiirem.
+Et kasutajad ei peaks RIHA avamisel liialt palju ootama, on rakendust optimeeritud ja seega avaneb RIHA leht kaks korda kiiremini kui varem. Lisaks väheneb ka veebilehitseja koormus võrreldes varasema versiooniga, mistõttu on RIHA kasutamine mitmel vahelehel korraga märksa kiirem.
 
 ### Standardlahenduse seose tüüp
 
@@ -25,7 +25,7 @@ Uut tüüpi saab kasutada selleks, et märkida need infosüsteemid ja andmekogud
 
 ### Kooskõlastamise staatus
 
-RIHA näitab kataloogis välja infosüsteemi kooskõlastamise staatust vastavalt sellele, millisele etapile on positiivne otsus kõige viimasena saadud. Infosüsteemi detailvaates kuvatakse infosüsteemi staatuse juures, kas see etap on saanud ka kooskõlastuse. Näiteks kui infosüsteem on kasutusel, kuid kasutusele võtmise kooskõlastamist positiivselt läbitud ei ole, siis kuvatakse seda punaselt.
+RIHA näitab kataloogis välja infosüsteemi kooskõlastamise staatust vastavalt sellele, millisele etapile on positiivne otsus kõige viimasena saadud. Infosüsteemi detailvaates kuvatakse infosüsteemi staatuse juures, kas see etapp on saanud ka kooskõlastuse. Näiteks kui infosüsteem on kasutusel, kuid kasutusele võtmise kooskõlastamist positiivselt läbitud ei ole, siis kuvatakse seda punaselt.
 Kui kooskõlastus on saadud vastavalt infosüsteemi staatusele, siis kuvatakse seda roheliselt ning näidatakse ka kuupäeva, millal selle etapi kooskõlastamine saadi.
 
 ### RIHA hindajate otsused sündmustena
@@ -44,11 +44,11 @@ Hindajate tagasiside plokis on nüüd võimalus vaadata ka kõiki arutelusid üh
 
 ### Otsingu parameetrid URLis on täienenud
 
-Sooritades otsingu RIHA kataloogist, kuvatakse ka veebilehitseja URLi väljal parameetreid, millega otsingu sooritasid. URL sisaldab nüüd kõiki neid filtreid, mida täiustatud otsing võimaldab ning sisaldab infot ka sorteerimise ja lehekülje numbri kohta. Seega, kui soovid jagada kollegiga otsingu tulemust, mis on sorteeritud näiteks omaniku nime alusel kahanevalt ning tahad viidata konkreetselt viiendale leheküljele, siis lihtne kopeeri-kleebi ajabki asja ära.
+Sooritades otsingu RIHA kataloogist, kuvatakse ka veebilehitseja URLi väljal parameetreid, millega otsingu sooritasid. URL sisaldab nüüd kõiki neid filtreid, mida täiustatud otsing võimaldab ning sisaldab infot ka sorteerimise ja lehekülje numbri kohta. Seega, kui soovid jagada kolleegiga otsingu tulemust, mis on sorteeritud näiteks omaniku nime alusel kahanevalt ning tahad viidata konkreetselt viiendale leheküljele, siis lihtne kopeeri-kleebi ajabki asja ära.
 
 ### Infosüsteemi kirjeldus UUID alusel
 
-Kuigi infosüsteemi lühinimi on hea viis, et infosüsteemidele viidata, võib juhtuda, et infosüsteemi lühinime ajas muudetakse. Selleks, et ikka sama infosüsteem RIHAst üles leida, saab kasutada URLi, milles lühinimi on asendatud konkreetse infosüsteemi UUID-ga (Universally unique identifier), näiteks [riha.ee/Infosüsteemid/Vaata/f02f1ecd-9662-eedc-c9e2-d2cfd71a0606](https://www.riha.ee/Infosüsteemid/Vaata/f02f1ecd-9662-eedc-c9e2-d2cfd71a0606). Infosüsteemi UUID-d on võimalik vaadata infosüsteemi masinkirjeldusest (JSON struktuurist). 
+Kuigi infosüsteemi lühinimi on hea viis, et infosüsteemidele viidata, võib juhtuda, et infosüsteemi lühinime ajas muudetakse. Selleks, et ikka sama infosüsteem RIHAst üles leida, saab kasutada URLi, milles lühinimi on asendatud konkreetse infosüsteemi UUID-ga (*Universally unique identifier*), näiteks [riha.ee/Infosüsteemid/Vaata/f02f1ecd-9662-eedc-c9e2-d2cfd71a0606](https://www.riha.ee/Infosüsteemid/Vaata/f02f1ecd-9662-eedc-c9e2-d2cfd71a0606). Infosüsteemi UUID-d on võimalik vaadata infosüsteemi masinkirjeldusest (JSON struktuurist). 
 
 ### RIHA API uuendused
 
