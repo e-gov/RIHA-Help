@@ -18,3 +18,4 @@ title: Infosüsteemide hindamine RIHAs
 | Politsei- ja Piirivalveamet | [Broneeringuinfosüsteem](https://www.riha.ee/Systems/Vaata/briis) | 26.01.2018 | 23.02.2018 |
 | Harku Vallavalitsus | [Harku valla taotluste esitamise ja menetlemise andmekogu](https://www.riha.ee/Infosüsteemid/Vaata/75014132-spoku) | 31.01.2018 | 28.02.2018 |
 | Riigikogu Kantselei | [Riigikogu ja Riigikogu Kantselei dokumendihaldus- ja eelnõude menetlusinfosüsteem](https://www.riha.ee/Infosüsteemid/Vaata/EMS) | 31.01.2018 | 28.02.2018 |
+| Tallinna Ettevõtlusamet | [Tallinna välireklaami- ja teabekandjate ning reklaamimaksu järelevalveliste menetluste andmekogu](https://www.riha.ee/Infosüsteemid/Vaata/tlntera) | 01.02.2018 | 01.03.2018 |
