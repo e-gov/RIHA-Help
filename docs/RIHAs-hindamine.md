@@ -8,7 +8,7 @@ Riigi infosüsteemile ning selles osutatavatele teenustele kohalduvad koosvõime
 
 ## Kes infosüsteeme kooskõlastavad?
 
-Infosüsteeme kooskõlastavad Riigi Infosüsteemi Amet (RIA), Andmekaitse Inspektsioon (AKI), Maa-amet ja Statistikaamet. Arhiiviväärtuslikke infosüsteeme kooskõlastab ka Rahvusarhiiv.
+Infosüsteeme kooskõlastavad Riigi Infosüsteemi Amet (RIA), Andmekaitse Inspektsioon (AKI), Maa-amet ja Statistikaamet. [Arhiiviväärtuslikke infosüsteeme](http://www.ra.ee/arhiivihaldus/digitaalarhiivindus/andmekogude-arhiveerimine/) kooskõlastab ka Rahvusarhiiv.
 Arutelu detailvaates on näha ka konkreetne isik, kes kommentaari või hinnangu on andnud.
 
 ## Millal infosüsteeme kooskõlastatakse?
@@ -46,7 +46,7 @@ Kõikidest kommentaaridest, mis arutelu alla lisatakse, saavad teavituse kõik k
 
 ### Mittekooskõlastamised
 - Kui infosüsteemil on puuduseid, mille tõttu pole võimalik anda positiivset kooskõlastust, siis algatavad hindajad iga puuduse kohta eraldi arutelu.
-  - Sul on võimalus küsida hindajalt täpsustusi, et probleemi lahendada. Kui oled probleemi lahendanud, siis sulge see arutelu.
+  - Sul on võimalus küsida hindajalt täpsustusi, et probleemi lahendada. Kui oled probleemi lahendanud, siis lisa arutellu sellekohane kommentaar (mida muutsid, millise dokumendi lisasid vms). Arutelu sulgeb hindaja.
 - Kui 20 tööpäeva pärast kooskõlastuse küsimist on mõne puuduse kohta (hindaja) algatatud arutelu aktiivne, siis ei ole infosüsteem kooskõlastatud ja RIA hindaja lisab kooskõlastuse küsimise arutellu vastava kommentaari ning sulgeb selle arutelu. **Sellega loetakse infosüsteem mittekooskõlastatuks.** Puuduse kohta algatatud arutelu jääb avatuks (aktiivseks) kuni puudus on kõrvaldatud.
 
 ### Kooskõlastamised
@@ -71,9 +71,9 @@ Kooskõlastamine toimub 20 tööpäeva jooksul
 ## Kes saavad arutelusid avada ja sulgeda?
 
 Infosüsteemi omanikul on võimalik 
-- küsida tagasisidet enda infosüsteemile, mille järel on RIHA hindajatel kohustus infosüsteem 20 tööpäeva jooksul üle vaadata.
+- küsida tagasisidet enda infosüsteemile, mille järel on RIHA hindajatel kohustus infosüsteem 20 tööpäeva jooksul üle vaadata
 - kõikide enda infosüsteemide arutelude alla kommentaare lisada
-- märkida lahendatuks RIHA hindajate algatatud arutelusid, milles on esitatud infosüsteemi puuduseid
+- märkida lahendatuks RIHA hindajate algatatud arutelusid, milles on esitatud infosüsteemi puudused
 
 Infosüsteemi omanik ei saa lahendatuks märkida järgmisi arutelusid: _'Infosüsteemi asutamine'_, _'Infosüsteemi kasutusele võtmine'_, _'Andmekoosseisu muutmine'_ ja _'Infosüsteemi lõpetamine'_. Neid arutelusid märgib lahendatuks ainult RIA hindaja.
 
