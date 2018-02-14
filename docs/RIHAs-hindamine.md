@@ -11,6 +11,8 @@ Riigi infosüsteemile ning selles osutatavatele teenustele kohalduvad koosvõime
 Infosüsteeme kooskõlastavad Riigi Infosüsteemi Amet (RIA), Andmekaitse Inspektsioon (AKI), Maa-amet ja Statistikaamet. [Arhiiviväärtuslikke infosüsteeme](http://www.ra.ee/arhiivihaldus/digitaalarhiivindus/andmekogude-arhiveerimine/) kooskõlastab ka Rahvusarhiiv.
 Arutelu detailvaates on näha ka konkreetne isik, kes kommentaari või hinnangu on andnud.
 
+Tutvu ka [kooskõlastavate asutuste menetluskordadega](https://www.ria.ee/ee/kooskolastamine.html).
+
 ## Millal infosüsteeme kooskõlastatakse?
 
 Infosüsteeme, mis on andmekogud, kooskõlastatakse:
@@ -19,22 +21,24 @@ Infosüsteeme, mis on andmekogud, kooskõlastatakse:
 - enne andmekoosseisu muutmist
 - enne lõpetamist
 
+Enne infosüsteemi kooskõlastamisele esitamist on soovitatav tutvuda [kooskõlastavate asutuste menetluskordadega](https://www.ria.ee/ee/kooskolastamine.html). Viidatud dokumentides on üksikasjalikult toodud ka õiguslikud alused, millele hindamise käigus tuginetakse.
+
 ## Kuidas toimub uues RIHAs kooskõlastamine?
 
-RIHAs antakse kooskõlastusi hinnangutena, mis koondatakse aruteludeks. Aruteludes saab küsida täpsemat nõu kooskõlastajalt või vastata konkreetsele küsimusele, mis kooskõlastajal tekkis. Arutelude kommentaarid on nähtavad infosüsteemi omanikule ning kõigile RIHA hindajatele, avalikust vaatest need nähtavad ei ole. RIHA arutelu tohib sulgeda vaid siis kui probleem saab infosüsteemis lahendatud.
+RIHAs antakse kooskõlastusi hinnangutena, mis koondatakse aruteludeks. Aruteludes saab küsida täpsemat nõu kooskõlastajalt või vastata konkreetsele küsimusele, mis kooskõlastajal tekkis. Arutelude kommentaarid on nähtavad infosüsteemi omanikule ning kõigile RIHA hindajatele, avalikust vaatest need nähtavad ei ole. RIHA arutelu tohib sulgeda vaid siis, kui probleem saab infosüsteemis lahendatud. Soovituslikult võiks arutelu märkida lahendatuks arutelu algatanud hindaja (pärast seda, kui on tutvunud esitatud lahenduse või selgitusega ning ka tema hinnangul on probleem lahendatud).
 
 ### Infosüsteemi kooskõlastamiseks esitamine
 
 Kui infosüsteemi kirjeldamine on viidud lõpuni ning oled valmis seda kooskõlastamiseks esitama, siis
 - Liigu infosüsteemi **hindajate tagasiside** plokki
-- Vajuta **küsi tagasisidet**
+- Vajuta **küsi hinnangut**
 - Avanenud modaalaknas vali, millist kooskõlastust on andmekogule vaja
   - Pane tähele, et andmekogusid peab seaduse järgi kooskõlastama enne asutamist, enne kasutusele võttu, enne andmekoosseisu muutmist ning enne lõpetamist.
   - Kui oled jäänud hiljaks infosüsteemi RIHAsse kandmisega ning infosüsteem on juba kasutusel, siis on sul samuti võimalik tagantjärgi kasutusele võtmise kooskõlastust küsida. 
     - Infosüsteemi staatuseks märgi alati süsteemi reaalne olek, sõltumata kooskõlastuse puudumisest
 - Lisa kommentaar ja **salvesta**
-- Ka pärast arutelu loomist on võimalik infosüsteemi andmeid muuta, et pisivigu parandada. Vigade parandamiseks ei pea ootama, et kõik hindajad enda tagasiside ära annavad.
-  - Kui oled midagi parandanud või muutnud, lisa selle kohta ka arutelu alla kommentaar, milles kirjeldad lühidalt, millised muudatused infosüsteemis või dokumentatsiooni tegid, et RIHA hindajad oleksid muudatusest teadlikud.
+- Ka pärast arutelu loomist on võimalik infosüsteemi andmeid muuta, et pisivigu parandada. Vigade parandamiseks ei pea ootama, et kõik hindajad enda tagasiside annavad.
+  - Kui oled midagi parandanud või muutnud, lisa selle kohta ka arutelu alla kommentaar, milles kirjeldad lühidalt, millised muudatused infosüsteemis või dokumentatsioonis tegid, et RIHA hindajad oleksid muudatusest teadlikud.
 
 ![Tagasiside küsimine](assets/images/data/submit-for-review.gif "Hindajatelt tagasiside küsimine")
 
@@ -60,20 +64,20 @@ Kui infosüsteem ei saa (esimese korraga) kooskõlastust, siis jäävad aktuaals
 - Ava konkreetne probleem ning püüa sellest aru saada
 - Kui jääd hätta, siis esita arutelu alla küsimus, et RIHA hindaja saaks sulle täpsustamiseks vastata
 - Leia probleemile lahendus ning tee vastavalt muudatused kas RIHAs olevas kirjelduses, õiguslikes dokumentides või infosüsteemis endas.
-- Kui oled probleemi lahendanud, siis lisa kommentaar, kuidas probleemi lahendasid ja sulge arutelu.
+- Kui oled probleemi lahendanud, siis lisa kommentaar, kuidas probleemi lahendasid. Soovituslikult võiks arutelu märkida lahendatuks arutelu algatanud hindaja (pärast seda, kui on tutvunud esitatud lahenduse või selgitusega ning ka tema hinnangul on probleem lahendatud).
 - Pärast probleemide lahendamist esita infosüsteem taaskord kooskõlastamisele.
 - **Ära esita infosüsteemi uuesti kooskõlastamisele, kui eelnevad puudused ei ole parandatud!** 
 
 ### Kui kaua pean kooskõlastust ootama?
 
-Kooskõlastamine toimub 20 tööpäeva jooksul
+Kooskõlastamine toimub 20 tööpäeva jooksul.
 
 ## Kes saavad arutelusid avada ja sulgeda?
 
 Infosüsteemi omanikul on võimalik 
 - küsida tagasisidet enda infosüsteemile, mille järel on RIHA hindajatel kohustus infosüsteem 20 tööpäeva jooksul üle vaadata
 - kõikide enda infosüsteemide arutelude alla kommentaare lisada
-- märkida lahendatuks RIHA hindajate algatatud arutelusid, milles on esitatud infosüsteemi puudused
+- märkida lahendatuks RIHA hindajate algatatud arutelusid, milles on esitatud infosüsteemi puudused. Soovituslikult võiks sellise arutelu märkida lahendatuks arutelu algatanud hindaja (pärast seda, kui on tutvunud esitatud lahenduse või selgitusega ning ka tema hinnangul on probleem lahendatud).
 
 Infosüsteemi omanik ei saa lahendatuks märkida järgmisi arutelusid: _'Infosüsteemi asutamine'_, _'Infosüsteemi kasutusele võtmine'_, _'Andmekoosseisu muutmine'_ ja _'Infosüsteemi lõpetamine'_. Neid arutelusid märgib lahendatuks ainult RIA hindaja.
 
