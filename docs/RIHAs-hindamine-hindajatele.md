@@ -7,23 +7,23 @@ title: Infosüsteemide hindamine uues RIHAs - juhend hindajatele
 ### Kooskõlastamiseks esitamine
 - Infosüsteemi omanikud, kes soovivad kooskõlastust, lisavad enda infosüsteemi alla uue arutelu
   - Arutelu tekitamisel peab infosüsteemi omanik valima, millises etapis ta kooskõlastust soovib ning vastavalt valitule tekib arutelule ka sobiv pealkiri
-- Pärast arutelu tekitamist saavad kõik RIHA hindajad enda meilile teavituse, kus on kirjas, milline infosüsteem kooskõlastust soovib
+- Pärast arutelu tekitamist saavad kõik RIHA hindajad enda meilile teavituse, kus on kirjas, milline infosüsteem kooskõlastust soovib. [Vaata, millised infosüsteemid on esitatud kooskõlastamisele ja millal lõppeb otsuse lisamise tähtaeg.](RIHAs-hindamisel.md)
 - Antud arutelu ei ole võimalik kasutajal ise sulgeda, seda **saab sulgeda ainult RIA hindaja**
   - Kui kõik hindajad on andnud positiivse kommentaari ja ühtegi muud aktiivset arutelu infosüsteemi all ei ole, siis lisab RIA hindaja **20 tööpäeva pärast arutelu algatamist** kommentaari, et infosüsteem on kooskõlastatud ja sulgeb antud arutelu. **Sellega loetakse infosüsteem kooskõlastatuks.**
   - Kui 20 tööpäeva möödudes on üleval aktiivseid arutelusid (ja hindaja on lisanud enda negatiivse hinnangu ka kooskõlastamise algatamise arutelusse), siis lisab RIA hindaja otsuse, et infosüsteem ei ole kooskõlastatud ja sulgeb antud arutelu. **Sellega loetakse infosüsteem mittekooskõlastatuks.**
 
 ### Kui kooskõlastust esimese korraga ei saa
-Kui infosüsteem ei saa esimese korraga kooskõlastust, siis jäävad aktuaalsed probleemid aruteludena aktiivseteks. Infosüsteemi omanik peab esmalt kirjeldatud puudused ära parandama ja seejärel infosüsteemi uuesti kooskõlastamisele esitama.
+Kui infosüsteem ei saa esimese korraga kooskõlastust, siis jäävad aktuaalsed probleemid aruteludena aktiivseteks. Infosüsteemi omanik peab esmalt kirjeldatud puudused parandama ja seejärel infosüsteemi uuesti kooskõlastamisele esitama.
 - Kui puudused on parandatud ning vastavad arutelud suletud, siis lisab infosüsteemi omanik uue arutelu valides sobiva kooskõlastamise etapi.
 - Kooskõlastajad vaatavad taaskord kirjelduse üle
-- Kui puudused on kõrvaldatud siis lisatakse arutelu alla positiivne kommentaar.
+- Kui puudused on kõrvaldatud, siis lisatakse arutelu alla positiivne kommentaar.
 - Pärast kõiki positiivseid otsuseid lisab RIA hindaja koondotsuse ja sulgeb arutelu. Sellega loetakse infosüsteem kooskõlastatuks.
 
 ![RIHA kooskõlastamise protsess](assets/images/data/RIHAs-kooskõlastamine.png "RIHAs kooskõlastamine")
 
 ## Kuidas anda hinnangut uues RIHAs?
 
-Pärast teavituse saamist vaata üle RIHAst, kas infosüsteem vajab sinu kooskõlastust.
+Pärast teavituse saamist vaata RIHAst, kas infosüsteem vajab sinu kooskõlastust.
 **Ära lisa hinnangut:**
 - **kui infosüsteem ei kuulu riigi infosüsteemi ehk pole X-teega liidestatud**
   - X-tee liidestamise staatuses on kirjas, et pole X-teega liidestatud (sellel väljal näidatakse ka kavatsust) 
@@ -40,7 +40,7 @@ Need infosüsteemid läbivad RIHAs ainult registreerimise, mida teostab RIA hind
 ### Kooskõlastuse andmine
 
 Kui infosüsteem on üle vaadatud ning ühtegi puudust pole tuvastatud, siis lisa kasutaja poolt tekitatud arutelu alla enda kommentaar ("Kooskõlastan").
-- Kasutajad ootavad otsust 20 tööpäeva jooksul. **RIHA rakendus seda kuupäeva eraldi kirjeldajatele ega hindajatele ei kuva ning meeldetuletusi ei saada**
+- Kasutajad ootavad otsust 20 tööpäeva jooksul. **RIHA rakendus selle tähtaja lõppemisel hindajatele meeldetuletusi ei saada.** [Siit](RIHAs-hindamisel) leiad millised infosüsteemid on esitatud kooskõlastamisele ja millal lõppeb otsuse lisamise tähtaeg.
 - Kui soovid kooskõlastada märkustega, siis lisa enda kommentaarid samuti sama arutelu alla.
 
 ### Mittekooskõlastamine
@@ -68,7 +68,7 @@ Kui infosüsteemi kirjeldusest on infot puudu, mis takistab täieliku ülevaate 
 ![Hindajate tagasiside koondvaade](assets/images/data/issues-list.png "Hindajate tagasiside koondvaade")
 
 Sinu poolt lisatud uusi arutelusid on võimalik sulgeda nii infosüsteemi omanikul (kui probleem saab lahendatud) kui ka kõigil kooskõlastajatel.
-Sulge arutelu ise siis, kui kasutaja kommenteerib, et on vea ära parandanud kuid pole seda ise sulgenud ning oled omalt poolt selle üle kontrollinud.
+Sulge arutelu ise siis, kui kasutaja kommenteerib, et on vea parandanud ning oled omalt poolt selle üle kontrollinud, kuid kasutaja pole seda arutelu ise sulgenud.
 Kõik, kes arutelus osalevad, saavad RIHAst teavituse, kui uusi kommentaare on lisatud.
 
 
