@@ -19,7 +19,6 @@ title: Infosüsteemide hindamine RIHAs
 | Harku Vallavalitsus | [Harku valla taotluste esitamise ja menetlemise andmekogu](https://www.riha.ee/Infosüsteemid/Vaata/75014132-spoku) | 31.01.2018 | 28.02.2018 |
 | Riigikogu Kantselei | [Riigikogu ja Riigikogu Kantselei dokumendihaldus- ja eelnõude menetlusinfosüsteem](https://www.riha.ee/Infosüsteemid/Vaata/EMS) | 31.01.2018 | 28.02.2018 |
 | Tallinna Ettevõtlusamet | [Tallinna välireklaami- ja teabekandjate ning reklaamimaksu järelevalveliste menetluste andmekogu](https://www.riha.ee/Infosüsteemid/Vaata/tlntera) | 01.02.2018 | 01.03.2018 |
-| Eesti Jahimeeste Selts | [Eesti Jahimeeste Seltsi infosüsteem](https://www.riha.ee/Infosüsteemid/Vaata/ejs-is2) | 05.02.2018 | 05.03.2018 |
 | Harku Vallavalitsus | [Dokumendihaldussüsteem DocLogix](https://www.riha.ee/Infosüsteemid/Vaata/harku-vallavalitsuse-doclogix) | 05.02.2018 | 05.03.2018 |
 | Keskkonnaministeeriumi Infotehnoloogiakeskus | [Ühine sisenemisportaal keskkonnainfo infosüsteemidele](https://www.riha.ee/Infosüsteemid/Vaata/sso-keskkonnainfo) | 12.02.2018 | 12.03.2018 |
 | Kultuuriministeerium | [Taotluste Menetlemise Infosüsteem](https://www.riha.ee/Infosüsteemid/Vaata/TMS) | 14.02.2018 | 14.03.2018 |
