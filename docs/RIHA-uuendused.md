@@ -8,7 +8,7 @@ title: Mis on RIHAs uut?
 
 RIHA võimaldab nüüd üldotsingut teostada igal RIHA lehel kasutades selleks lehe peanavigatsioonis asuvat otsingukasti. Üldotsing otsib andmeid kogu infosüsteemi kirjelduse väljadelt: infosüsteemi üldkirjelduse väljad nagu eesmärk, märksõnad, omanik (nii nimi kui registrikood), lühinimi ja nimi, staatus, avalik veebileht. Lisaks otsitakse ka infosüsteemi andmete plokis asuvatest põhiandmete objektidest ja dokumentide nimedest, tehnilise kirjelduse plokis asuvate dokumentide nimedest ja URLidest ning õigusaktide plokis asuvate õigusaktide nimedest ja veebilinkidest.
 
-Lisaks üldotsingule on RIHAs ka täpsustav otsing, mis võimaldab otsida erinevate kriteeriumite alusel: näiteks otsida infosüsteeme, mida on muudetud teatud ajavahemikus; otsida infosüsteeme mis on teatud staatusega või kombineerida erinevaid filtreid kokku.
+Lisaks üldotsingule on RIHAs ka detailne otsing, mis pakub laia valikut otsingukriteeriume: näiteks otsida infosüsteeme, mida on muudetud teatud ajavahemikus; otsida infosüsteeme, mis on teatud staatusega jne. Erinevaid otsingukriteeriume on võimalik ka koos kasutada.
 
 ### Pärast sisselogimist samalt lehelt jätkamine
 
