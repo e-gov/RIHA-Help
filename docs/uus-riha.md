@@ -47,7 +47,7 @@ Infosüsteemide staatused ei kajastanud vanas RIHAs väga tihti infosüsteemi re
 
 ### Klassifikaatorid
 
-Uues RIHAs puudub klassifikaatorite moodul. Kõik senised klassifikaatorid võib leida [vanast RIHAst](https://vana.riha.ee). Uues RIHAs võib infosüsteemi omanik lisada klassifikaatorid vastava infosüsteemi dokumentatsiooni plokis viidete/failide lisamisega. Samuti on võimalus lisada klassifkaatoreid [RIHA varamusse](https://varamu.riha.ee). RIA kaardistab koos Statistikaametiga klassifikaatorite haldamise klienditeekonda ning ühtlasi tuleb üle vaadata kõik seni Statistikaameti poolt kooskõlastatud klassifikaatorid (st eristada klassifikaatorid loenditest).
+Uues RIHAs puudub klassifikaatorite moodul. Kõik senised klassifikaatorid võib leida [vanast RIHAst](https://vana.riha.ee), sealsamas saab ka lisada, muuta ja kooskõlastada klassifikaatoreid. Uues RIHAs tuleb infosüsteemi omanikul lisada kasutatavad klassifikaatorid vastava infosüsteemi dokumentatsiooni plokis viidetena. RIA kaardistab koos Statistikaametiga klassifikaatorite haldamise klienditeekonda ning ühtlasi tuleb üle vaadata kõik seni Statistikaameti poolt kooskõlastatud klassifikaatorid (st eristada klassifikaatorid loenditest).
 
 ### Sõnastikud
 
