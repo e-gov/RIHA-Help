@@ -31,3 +31,11 @@ title: RIHA õigused
 
 ### Hindaja õigus
 
+- Hindaja õigus on seotud kasutaja ja asutusega
+- Asutusel võib olla RIHAs mitmeid hindajaid
+- Hindaja õigusega isikul on võimalik
+  - Tekitada uusi arutelusid kõikidele RIHA infosüsteemidele
+  - Näha kõikide infosüsteemide arutelude detailseid kommentaare
+  - Anda kooskõlastamiseks esitatud arutelude all otsuseid
+  - Sulgeda kõikide infosüsteemide aktiivseid arutelusid (mis ei ole kooskõlastamiseks esitamised)
+  
