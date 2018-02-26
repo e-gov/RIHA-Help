@@ -22,3 +22,4 @@ title: Infosüsteemide hindamine RIHAs
 | Harku Vallavalitsus | [Dokumendihaldussüsteem DocLogix](https://www.riha.ee/Infosüsteemid/Vaata/harku-vallavalitsuse-doclogix) | 05.02.2018 | 05.03.2018 |
 | Keskkonnaministeeriumi Infotehnoloogiakeskus | [Ühine sisenemisportaal keskkonnainfo infosüsteemidele](https://www.riha.ee/Infosüsteemid/Vaata/sso-keskkonnainfo) | 12.02.2018 | 12.03.2018 |
 | Kultuuriministeerium | [Taotluste Menetlemise Infosüsteem](https://www.riha.ee/Infosüsteemid/Vaata/TMS) | 14.02.2018 | 14.03.2018 |
+|Justiitsministeerium | [Vangide ja kriminaalhooldusaluste register](https://www.riha.ee/Infosüsteemid/Vaata/kir) | 23.02.2018 | 23.03.2018 |
