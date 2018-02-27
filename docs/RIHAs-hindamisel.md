@@ -3,6 +3,8 @@ title: Infosüsteemide hindamine RIHAs
 ---
 ## RIHAs hindamisele esitatud infosüsteemid
 
+Nimekirjas on esitatud infosüsteemid, mis on esitatud hindamisele pärast 7. detsembrit 2017. Hinnangud antakse 20 tööpäeva jooksul alates hindamisele esitamisest, [vaata täpsemalt](RIHAs-hindamine). Nimekiri uueneb kord ööpäevas.
+
 | Omanik | Infosüsteem |  Esitamine | Tähtaeg |
 |:--- |:--- |:--- |:---|
 | Maksu- ja Tolliamet | [MKRi maksemoodul](https://www.riha.ee/Systems/Vaata/MKRMM) | 11.12.2017 | 11.01.2018 |
