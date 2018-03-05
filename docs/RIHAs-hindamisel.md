@@ -26,3 +26,4 @@ Nimekirjas on esitatud infosüsteemid, mis on esitatud hindamisele pärast 7. de
 | Kultuuriministeerium | [Taotluste Menetlemise Infosüsteem](https://www.riha.ee/Infosüsteemid/Vaata/TMS) | 14.02.2018 | 14.03.2018 |
 |Justiitsministeerium | [Vangide ja kriminaalhooldusaluste register](https://www.riha.ee/Infosüsteemid/Vaata/kir) | 23.02.2018 | 23.03.2018 |
 | Piksel OÜ | [Spordi- ja kultuuritoetuste süsteem KOV-ile](https://www.riha.ee/Infosüsteemid/Vaata/spoku) | 02.03.2018 | 02.04.2018 |
+| Välisministeerium | [Rahvusvahelistele tsiviilmissioonidele, välisriikidesse ja rahvusvahelistesse organisatsioonidesse lähetatavate ekspertide andmekogu ”Ekspert”](https://www.riha.ee/Infosüsteemid/Vaata/ekspert) | 05.03.2018 | 03.04.2018 |
