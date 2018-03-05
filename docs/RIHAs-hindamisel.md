@@ -25,3 +25,4 @@ Nimekirjas on esitatud infosüsteemid, mis on esitatud hindamisele pärast 7. de
 | Keskkonnaministeeriumi Infotehnoloogiakeskus | [Ühine sisenemisportaal keskkonnainfo infosüsteemidele](https://www.riha.ee/Infosüsteemid/Vaata/sso-keskkonnainfo) | 12.02.2018 | 12.03.2018 |
 | Kultuuriministeerium | [Taotluste Menetlemise Infosüsteem](https://www.riha.ee/Infosüsteemid/Vaata/TMS) | 14.02.2018 | 14.03.2018 |
 |Justiitsministeerium | [Vangide ja kriminaalhooldusaluste register](https://www.riha.ee/Infosüsteemid/Vaata/kir) | 23.02.2018 | 23.03.2018 |
+| Piksel OÜ | [Spordi- ja kultuuritoetuste süsteem KOV-ile](https://www.riha.ee/Infosüsteemid/Vaata/spoku) | 02.03.2018 | 02.04.2018 |
