@@ -27,3 +27,4 @@ Nimekirjas on esitatud infosüsteemid, mis on esitatud hindamisele pärast 7. de
 |Justiitsministeerium | [Vangide ja kriminaalhooldusaluste register](https://www.riha.ee/Infosüsteemid/Vaata/kir) | 23.02.2018 | 23.03.2018 |
 | Piksel OÜ | [Spordi- ja kultuuritoetuste süsteem KOV-ile](https://www.riha.ee/Infosüsteemid/Vaata/spoku) | 02.03.2018 | 02.04.2018 |
 | Välisministeerium | [Rahvusvahelistele tsiviilmissioonidele, välisriikidesse ja rahvusvahelistesse organisatsioonidesse lähetatavate ekspertide andmekogu ”Ekspert”](https://www.riha.ee/Infosüsteemid/Vaata/ekspert) | 05.03.2018 | 03.04.2018 |
+| Tartu Linnavalitsus | [Tartu Linna dokumendihaldussüsteem](https://www.riha.ee/Infosüsteemid/Vaata/75006546-goprocase) | 09.03.2018 | 09.04.2018 |
