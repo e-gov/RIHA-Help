@@ -2,7 +2,7 @@
 title: Mis on RIHAs uut?
 ---
 
-## 30. jaanuar 2017 
+## 30. jaanuar 2018 
 
 ### Täiustatud otsing
 
