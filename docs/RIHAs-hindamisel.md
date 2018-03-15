@@ -29,3 +29,4 @@ Nimekirjas on esitatud infosüsteemid, mis on esitatud hindamisele pärast 7. de
 | Välisministeerium | [Rahvusvahelistele tsiviilmissioonidele, välisriikidesse ja rahvusvahelistesse organisatsioonidesse lähetatavate ekspertide andmekogu ”Ekspert”](https://www.riha.ee/Infosüsteemid/Vaata/ekspert) | 05.03.2018 | 03.04.2018 |
 | Tartu Linnavalitsus | [Tartu Linna dokumendihaldussüsteem](https://www.riha.ee/Infosüsteemid/Vaata/75006546-goprocase) | 09.03.2018 | 09.04.2018 |
 | Hariduse Infotehnoloogia Sihtasutus | [HarID](https://www.riha.ee/Infosüsteemid/Vaata/harid) | 13.03.2018 | 11.04.2018 |
+| Keila Linnavalitsus | [Haridusteenuste haldamise infosüsteemi ARNO](https://www.riha.ee/Infosüsteemid/Vaata/arnokeilalv) | 15.03.2018 | 13.04.2018 |
