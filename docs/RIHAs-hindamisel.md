@@ -30,3 +30,4 @@ Nimekirjas on esitatud infosüsteemid, mis on esitatud hindamisele pärast 7. de
 | Tartu Linnavalitsus | [Tartu Linna dokumendihaldussüsteem](https://www.riha.ee/Infosüsteemid/Vaata/75006546-goprocase) | 09.03.2018 | 09.04.2018 |
 | Hariduse Infotehnoloogia Sihtasutus | [HarID](https://www.riha.ee/Infosüsteemid/Vaata/harid) | 13.03.2018 | 11.04.2018 |
 | Keila Linnavalitsus | [Haridusteenuste haldamise infosüsteemi ARNO](https://www.riha.ee/Infosüsteemid/Vaata/arnokeilalv) | 15.03.2018 | 13.04.2018 |
+| Osaühing ALPHAGIS | [ArcGIS](https://www.riha.ee/Infosüsteemid/Vaata/ArcGIS) | 20.03.2018 | 18.04.2018 |
