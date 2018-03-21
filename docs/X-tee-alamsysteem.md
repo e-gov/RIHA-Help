@@ -12,6 +12,7 @@ title: X-tee alamsüsteemi abi
   - kui sinuga pole seotud ühtegi asutust, vaata juhendit [siit](/RIHA-oigused-haldamine) 
 
 ### Uue alamsüsteemi kirjeldamine
+**X-tee toodangukeskkonna alamsüsteem tuleb RIHAs registreerida enne registreerimistaotluse esitamist turvaserveris.**
 
 - Vajuta avalehel X-teega liitumise kastis [Alustan](https://www.riha.ee/Kirjelda/Uus)
 - Lisa uue alamsüsteemi andmed
@@ -27,7 +28,7 @@ Pärast salvestamist avaneb loodud alamsüsteemi detailvaade
 - Pärast salvestamist on võimalik alamsüsteemi andmeid muuta. Näiteks valida uue lühinime, muuta eesmärki või alamsüsteemi nime.
 - Kui mingil põhjusel sai valitud vale lühinimi, siis ei ole vaja alamsüsteemi registreerimist uuesti alustada, vaid tuleks muuta juba alustatud süsteemi andmeid.
 
-### X-tee alamsüsteemi andmete muutmine
+### X-tee alamsüsteemi kirjelduse täiendamine
 
 - Infosüsteemi märksõnade lahtrisse kirjuta: X-tee alamsüsteem
   - [Andmeteenuseid vahendava alamsüsteemi](https://moodle.ria.ee/mod/page/view.php?id=382) korral kirjuta märksõnade lahtrisse lisaks: Andmeteenuste vahendamine
@@ -37,7 +38,10 @@ Pärast salvestamist avaneb loodud alamsüsteemi detailvaade
 - Vali kontaktide paneeli ülaosast MUUDA ning lisa kontaktisikud: alamsüsteemi toimimise eest vastutav füüsiline isik ja alamsüsteemi teenindava turvaserveri administraatori kontaktandmed
   - Kirjuta nimi ja email (mõlemad kohustuslikud) > LISA > SALVESTA
   - _Kontaktisikuid näevad vaid sisselogitud kasutajad_
+  
+**X-tee alamsüsteeme ei kooskõlastata, st ebavajalik on küsida RIHAs hinnangut asutamiseks või kasutusele võtmiseks.**
 
+X-tee alamsüsteemi andmete RIHAs kirjeldatust kontrollib X-tee keskus turvaserveri liidese kaudu esitatud alamsüsteemi registreerimise taotluse menetlemisel. X-tee keskus ei registreeri sellist alamsüsteemi, mida pole RIHAs või mille kirjeldus pole RIHAs täielik.
 
 ### X-tee alamsüsteemide haldamine
 
