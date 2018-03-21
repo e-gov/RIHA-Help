@@ -38,8 +38,9 @@ Pärast salvestamist avaneb loodud alamsüsteemi detailvaade
 - Vali kontaktide paneeli ülaosast MUUDA ning lisa kontaktisikud: alamsüsteemi toimimise eest vastutav füüsiline isik ja alamsüsteemi teenindava turvaserveri administraatori kontaktandmed
   - Kirjuta nimi ja email (mõlemad kohustuslikud) > LISA > SALVESTA
   - _Kontaktisikuid näevad vaid sisselogitud kasutajad_
+- Alamsüsteem on registreeritud RIHAs, kui sellel on märge "Süsteem on kasutusel" ja infosüsteemi märksõna on "X-tee alamsüsteem" ja/või "Andmeteenuste vahendamine"
   
-**X-tee alamsüsteeme ei kooskõlastata, st ebavajalik on küsida RIHAs hinnangut asutamiseks või kasutusele võtmiseks.**
+**X-tee alamsüsteeme ei kooskõlastata, st on ebavajalik küsida RIHAs hinnangut asutamiseks või kasutusele võtmiseks.**
 
 X-tee alamsüsteemi andmete RIHAs kirjeldatust kontrollib X-tee keskus turvaserveri liidese kaudu esitatud alamsüsteemi registreerimise taotluse menetlemisel. X-tee keskus ei registreeri sellist alamsüsteemi, mida pole RIHAs või mille kirjeldus pole RIHAs täielik.
 
@@ -47,5 +48,5 @@ X-tee alamsüsteemi andmete RIHAs kirjeldatust kontrollib X-tee keskus turvaserv
 
 - Kõik sinu asutuse poolt registreeritud alamsüsteemid ja infosüsteemid leiad [Minu infosüsteemide](https://www.riha.ee/Kirjelda) hulgast
 - Alamsüsteemi muutmiseks ava selle detailvaade, vajutades nimekirjas süsteemi nimele või lühinimele 
-- Alamsüsteemi üldandmete plokis on võimalik muuta näiteks infosüsteemi nime, lühinime või eesmärki. 
-- Alamsüsteem on registreeritud RIHAs, kui sellel on märge "Süsteem on kasutusel" ja infosüsteemi märksõna on "X-tee alamsüsteem"
+- Alamsüsteemi üldandmete plokis on võimalik muuta näiteks infosüsteemi nime, lühinime või eesmärki
+
