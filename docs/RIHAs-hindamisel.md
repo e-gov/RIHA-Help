@@ -31,3 +31,4 @@ Nimekirjas on esitatud infosüsteemid, mis on esitatud hindamisele pärast 7. de
 | Hariduse Infotehnoloogia Sihtasutus | [HarID](https://www.riha.ee/Infosüsteemid/Vaata/harid) | 13.03.2018 | 11.04.2018 |
 | Keila Linnavalitsus | [Haridusteenuste haldamise infosüsteemi ARNO](https://www.riha.ee/Infosüsteemid/Vaata/arnokeilalv) | 15.03.2018 | 13.04.2018 |
 | Osaühing ALPHAGIS | [ArcGIS](https://www.riha.ee/Infosüsteemid/Vaata/ArcGIS) | 20.03.2018 | 18.04.2018 |
+| Maaeluministeerium | [Satelliidiandmete kasutamise infosüsteem (SATIKAS)](https://www.riha.ee/Infosüsteemid/Vaata/pria-satikas) | 22.03.2018 | 20.04.2018 |
