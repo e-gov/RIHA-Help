@@ -6,15 +6,15 @@ title: Mis on RIHAs uut?
 
 ### Turvainfo lisamine
 
-RIHAs saab nüüd ka kirjeldada infosüsteemi turvameetmete rakendatust. Lisaks ISKE tasemele on võimalik RIHAsse lisada ka viimase auditeerimise kuupäeva ning otsuse. Auditeerimise info ei ole avalik - seda näevad vaid infosüsteemi omanik ja RIHA hindajad
+RIHAs saab nüüd ka kirjeldada infosüsteemi turvameetmete rakendatust. Lisaks ISKE tasemele on võimalik RIHAsse lisada ka viimase auditeerimise kuupäev ning otsus. Auditeerimise info ei ole avalik - seda näevad vaid infosüsteemi omanik ja RIHA hindajad.
 
 ### Juurdepääsupiirang
 
-Kui infosüsteemi dokumentatsioon sisaldab asutusesiseseks kasutamiseks mõeldud infot, siis on võimalik nendele dokumentidele lisada piirang ka RIHAsse - juurdepääsupiiranguga faile saavad avada ainult infosüsteemi omanik ja RIHA hindajad. Pane tähele - piirangut tohib RIHAs lisada vaid nendele dokumentidele, millele on AK märge tehtud. Seetõttu on tarvis ka piirangu lisamisel märkida piirangu alus.
+Kui infosüsteemi dokumentatsioon sisaldab asutusesiseseks kasutamiseks mõeldud infot, siis on võimalik nendele dokumentidele lisada piirang ka RIHAsse - juurdepääsupiiranguga faile saavad avada ainult infosüsteemi omanik ja RIHA hindajad. Pane tähele - piirangut tohib RIHAs lisada vaid nendele dokumentidele, millele on AK märge tehtud. Seetõttu on vaja piirangu lisamisel märkida ka piirangu alus.
 
 ### Hindajate töölaud
 
-Et RIHA hindajatel oleks hõlpsam leida kooskõlastamiseks esitatud infosüsteeme ja aktiivseid arutelusid, on nüüdsest RIHA hindajatel eraldi menüü 'Hinda', millelt avaneb töölaud. Töölaual näeb RIHA hindaja neid infosüsteeme, mis on esitatud kooskõlastamiseks, aga pole veel hindajaga seotud asutuselt hinnangut saanud. Lisaks kooskõlastamisele esitatud infosüsteemidele saab töölaualt ka vaate nendest aruteludest, kus on hindaja või temaga seotud asutus sõna võtnud (algatanud või kommenteerinud).
+Et RIHA hindajatel oleks hõlpsam leida kooskõlastamiseks esitatud infosüsteeme ja aktiivseid arutelusid, on nüüdsest RIHA hindajatel eraldi menüü 'Hinda', millelt avaneb töölaud. Töölaual näeb RIHA hindaja neid infosüsteeme, mis on esitatud kooskõlastamiseks, aga pole veel hindajaga seotud asutuselt hinnangut saanud. Lisaks kooskõlastamisele esitatud infosüsteemidele saab töölaualt ka vaate nendest aruteludest, kus on hindaja või temaga seotud asutus sõna võtnud (algatanud arutelu või kommenteerinud).
 
 ### Parem kommentaaride vormindamine
 
@@ -26,11 +26,11 @@ Kooskõlastamiseks esitamisel toimub nüüd kontroll ning infosüsteemi omanikul
 
 ### Uuenenud teavitus
 
-Kui kasutaja seotud arutelusse lisataks uus kommentaar, siis nüüdsest saadab RIHA selle kohta täpsema teavituse. Teavituse sisus on näha, kes uue kommentaari lisas ning mis oli kommentaari sisu. Lisaks on võimalik otse teavitusest liikuda arutelu detailvaatesse klikkides arutelu pealkirjale.
+Kui kasutajaga seotud arutelusse lisatakse uus kommentaar, siis nüüdsest saadab RIHA selle kohta täpsema teavituse. Teavituses on näha uue kommentaari lisanud asutus ja kommentaari sisu. Lisaks on võimalik teavitusest liikuda RIHAsse arutelu detailvaatesse, klikkides arutelu pealkirjale.
 
 ### Veebisirvija vahelehel näidatakse lehekülje pealkirja
 
-Nüüdsest näeb veebisirvija vahelehel vastavalt külastatavale leheküljele ka pealkirja, mis hõlbustab kindlasti nende kasutajate tööd, kes on harjunud hoidma RIHA lahti mitmel vahelehel või aknas.
+Nüüdsest näeb veebisirvija vahelehel vastavalt külastatavale leheküljele ka pealkirja, mis hõlbustab kindlasti nende kasutajate tööd, kes on harjunud RIHA kasutama mitmel vahelehel või aknas.
 
 ## 30. jaanuar 2018 
 
