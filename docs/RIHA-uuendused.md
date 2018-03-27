@@ -2,6 +2,36 @@
 title: Mis on RIHAs uut?
 ---
 
+## 27. märts 2018
+
+### Turvainfo lisamine
+
+RIHAs saab nüüd ka kirjeldada infosüsteemi turvameetmete rakendatust. Lisaks ISKE tasemele on võimalik RIHAsse lisada ka viimase auditeerimise kuupäev ning otsus. Auditeerimise info ei ole avalik - seda näevad vaid infosüsteemi omanik ja RIHA hindajad.
+
+### Juurdepääsupiirang
+
+Kui infosüsteemi dokumentatsioon sisaldab asutusesiseseks kasutamiseks mõeldud infot, siis on võimalik nendele dokumentidele lisada piirang ka RIHAsse - juurdepääsupiiranguga faile saavad avada ainult infosüsteemi omanik ja RIHA hindajad. Pane tähele - piirangut tohib RIHAs lisada vaid nendele dokumentidele, millele on AK märge tehtud. Seetõttu on vaja piirangu lisamisel märkida ka piirangu alus.
+
+### Hindajate töölaud
+
+Et RIHA hindajatel oleks hõlpsam leida kooskõlastamiseks esitatud infosüsteeme ja aktiivseid arutelusid, on nüüdsest RIHA hindajatel eraldi menüü 'Hinda', millelt avaneb töölaud. Töölaual näeb RIHA hindaja neid infosüsteeme, mis on esitatud kooskõlastamiseks, aga pole veel hindajaga seotud asutuselt hinnangut saanud. Lisaks kooskõlastamisele esitatud infosüsteemidele saab töölaualt ka vaate nendest aruteludest, kus on hindaja või temaga seotud asutus sõna võtnud (algatanud arutelu või kommenteerinud).
+
+### Parem kommentaaride vormindamine
+
+Tihti on hindajate kommentaarid arutelude all pikad ning sisaldavad ka veebiviiteid. Nüüdsest saab veebiviiteid ja reavahetusi kommentaarides julgelt kasutada, sest need on ka RIHA poolt toetatud.
+
+### Kooskõlastamise etapi kontroll
+
+Kooskõlastamiseks esitamisel toimub nüüd kontroll ning infosüsteemi omanikul ei ole võimalik esitada infosüsteemi sellisele kooskõlastamise etapile, mis on juba aktiivse aruteluna üleval.
+
+### Uuenenud teavitus
+
+Kui kasutajaga seotud arutelusse lisatakse uus kommentaar, siis nüüdsest saadab RIHA selle kohta täpsema teavituse. Teavituses on näha uue kommentaari lisanud asutus ja kommentaari sisu. Lisaks on võimalik teavitusest liikuda RIHAsse arutelu detailvaatesse, klikkides arutelu pealkirjale.
+
+### Veebisirvija vahelehel näidatakse lehekülje pealkirja
+
+Nüüdsest näeb veebisirvija vahelehel vastavalt külastatavale leheküljele ka pealkirja, mis hõlbustab kindlasti nende kasutajate tööd, kes on harjunud RIHA kasutama mitmel vahelehel või aknas.
+
 ## 30. jaanuar 2018 
 
 ### Täiustatud otsing
