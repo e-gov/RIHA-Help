@@ -2,17 +2,11 @@
 title: Dokumendihaldussüsteemi kasutamise kirjeldamine
 ---
 
-## Kuidas kirjeldada RIHAs asutuse kasutatavat dokumendihaldussüsteemi?
+## Kuidas kirjeldada RIHAs asutuse kasutatavat dokumendihaldussüsteemi (DHS)?
 
-### Eeltegevused
+TODO: Üldine lause, miks vaja kirja panna.
 
-- Mine [RIHA avalehele](https://www.riha.ee/)
-- Logi sisse ID-kaardiga. Selleks vali paremalt ülalt "Logi sisse"
-- Kontrolli paremalt ülalt, mis rollis oled. Valitud peaks olema asutus, mille alla soovid dokumendihaldussüsteemi kirjeldada. Vajadusel vaheta enda rolli, vajutades üleval paremas nurgas enda nime peale.
-  - kui sinuga pole seotud ühtegi asutust, vaata juhendit [siit](/RIHA-oigused-haldamine) 
-  
-### Tutvuge standardlahendusega, mille kasutamise peate kirjeldama 
-
+RIHAs on kirjeldatud ja kooskõlastatud juba järgmised dokumendihaldussüsteemid: 
 - [Postipoiss](https://www.riha.ee/Infos%C3%BCsteemid/Vaata/standard-postipoiss)
 - [Delta](https://www.riha.ee/Infos%C3%BCsteemid/Vaata/jmdhs)
 - [DocLogiX](https://www.riha.ee/Infos%C3%BCsteemid/Vaata/dlx)
@@ -20,38 +14,39 @@ title: Dokumendihaldussüsteemi kasutamise kirjeldamine
 - [Dora](https://www.riha.ee/Infos%C3%BCsteemid/Vaata/dora)
 - [WebDesktop](https://www.riha.ee/Infos%C3%BCsteemid/Vaata/wd)
 - [Amphora](https://www.riha.ee/Infos%C3%BCsteemid/Vaata/amphora)
+Kui sinu kasutatavat DHSi ei ole ülaltoodud nimekirjas, siis tuleb see kirjeldada nagu tavalist infosüsteemi (TODO: viide RIHAs-kirjeldamine lehele)
 
+### Eeltegevused
+
+TODO: ühtlustada https://github.com/e-gov/RIHA-Help/blob/master/docs/RIHAs-kirjeldamine.md#kuidas-saan-rihasse-infos%C3%BCsteemi-kirja-panna 
+
+- Mine [RIHA avalehele](https://www.riha.ee/)
+- Logi sisse ID-kaardiga. Selleks vali paremalt ülalt "Logi sisse"
+- Kontrolli paremalt ülalt, mis rollis oled. Valitud peaks olema asutus, mille alla soovid dokumendihaldussüsteemi kirjeldada. Vajadusel vaheta enda rolli, vajutades üleval paremas nurgas enda nime peale.
+  - kui sinuga pole seotud ühtegi asutust, vaata juhendit [siit](/RIHA-oigused-haldamine) 
+  
 ### Dokumendihaldussüsteemi kirjeldamine
 
-- Vajuta avalehel X-teega liitumise kastis [Alustan](https://www.riha.ee/Kirjelda/Uus)
+- Vajuta avalehel infosüsteemi haldamise kastis [Alustan](https://www.riha.ee/Kirjelda/Uus)
 - Lisa uue alamsüsteemi andmed
-  - Nimi – Mis dokumendihaldussüsteemiga on tegu? (Nimetus võiks sisaldada dokumendihaldussüsteemi nime ning asutuse nime)
-  - Lühinimi – märkige kujul „asutuse registrikood - standardlahenduse lühinimi“ (ilma jutumärkideta), näiteks '12345678-ekis'
-  - Infosüsteemi eesmärk – Dokumendihaldussüsteemi kasutamise eesmärk (Näiteks saate võtta standardlahenduse eesmärgi)
-  - Salvesta
+  - Nimi – sisesta, mis dokumendihaldussüsteemiga on tegu? (Nimetus peab sisaldama dokumendihaldussüsteemi nime ning asutuse nime)
+  - Lühinimi – see võib sisaldada ainult ladina tähti (mitte täpitähti), numbreid, punkti ja miinusmärki. TODO: lisada see lause ka üldisesse kirjelduse lehele
+  - Infosüsteemi eesmärk – dokumendihaldussüsteemi kasutamise eesmärk
+- Salvesta
 
-  ![X-tee alamsüsteemi andmed](assets/images/data/x-tee-alamsüsteemi-andmed.png "X-tee alamsüsteemi andmed RIHAs")
+### Dokumendihaldussüsteemi kirjelduse täiendamine
 
-Pärast salvestamist avaneb loodud alamsüsteemi detailvaade
-
-- Pärast salvestamist on võimalik infosüsteemi andmeid muuta. Näiteks valida uue lühinime, muuta eesmärki või standardlahenduse nime.
-- Kui mingil põhjusel sai valitud vale lühinimi, siis ei ole vaja standardlahenduse registreerimist uuesti alustada, vaid tuleks muuta juba alustatud süsteemi andmeid.
-
-### Dokumendihaldussüsteemi andmete muutmine
-
-- Süsteem on - Valige "kasutusel"
-- Avalik kasutajaliides - lisage veebiviide oma asutuse avalikule dokumendiregistrile, kus saab tutvuda asutuses
-registreeritud dokumentidega.
-- Infosüsteem on liidestatud X-teega -Infosüsteemi X-teega liidestamise kuupäev.
-- Kas infosüsteem on liidestatud või liidestatakse X-teega? - "Jah"
-
-- Turvalisus 
-  - Vali "Rakendatakse turvameetmeid".
-  - Valige ISKE ning seejärel infovarale määratud käideldavus, terviklus, konfidentsiaalsus.
-
-- Vali kontaktide paneeli ülaosast MUUDA ning lisa dokumendihaldussüsteemi kontaktisik asutuses
+- Süsteem on - vali "kasutusel", kui te juba kasutate seda DHSi
+- Avalik kasutajaliides - lisa veebiviide oma asutuse avalikule dokumendiregistrile, kus saab tutvuda asutuses
+registreeritud dokumentidega
+- Kas infosüsteem on liidestatud või liidestatakse X-teega? - vali "Jah"
+- vali turvalisuse plokis ülaosast MUUDA ning: 
+  - vali "Rakendatakse turvameetmeid", kui te olete rakendanud turvameetmeid
+  - vali "ISKE" ning seejärel infovarale määratud käideldavus, terviklus, konfidentsiaalsuse turvaosaklassid TODO: täpsustada
+  - TODO: auditeerimine
+- vali kontaktide plokis ülaosast MUUDA ning lisa dokumendihaldussüsteemi kontaktisik asutuses:
   - Kirjuta nimi ja email (mõlemad kohustuslikud) > LISA > SALVESTA
   - _Kontaktisikuid näevad vaid sisselogitud kasutajad_
-  
-- Seosed süsteemidega
-  -Otsige nimekirjast kasutatav standardlahendus ning valige seose tüüp - "kasutatav standardlahendus"
+- seosed süsteemidega
+  - otsi nimekirjast kasutatav standardlahendus ning valige seose tüüp - "kasutatav standardlahendus"
+- kui kasutad DocLogiX-ut, siis kirjelda, kuidas kasutate metaandmeid TODO: viide juhendile
