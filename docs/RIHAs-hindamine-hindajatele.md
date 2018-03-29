@@ -7,7 +7,7 @@ title: Infosüsteemide hindamine uues RIHAs - juhend hindajatele
 ### Kooskõlastamiseks esitamine
 - Infosüsteemi omanikud, kes soovivad kooskõlastust, lisavad enda infosüsteemi alla uue arutelu
   - Arutelu tekitamisel peab infosüsteemi omanik valima, millises etapis ta kooskõlastust soovib ning vastavalt valitule tekib arutelule ka sobiv pealkiri
-- Pärast arutelu tekitamist saavad kõik RIHA hindajad enda meilile teavituse, kus on kirjas, milline infosüsteem kooskõlastust soovib. [Vaata, millised infosüsteemid on esitatud kooskõlastamisele ja millal lõppeb otsuse lisamise tähtaeg.](RIHAs-hindamisel)
+- Pärast arutelu tekitamist saavad kõik RIHA hindajad enda meilile teavituse, kus on kirjas, milline infosüsteem kooskõlastust soovib
 - Antud arutelu ei ole võimalik kasutajal ise sulgeda, seda **saab sulgeda ainult RIA hindaja**
   - Kui kõik hindajad on andnud positiivse kommentaari ja ühtegi muud aktiivset arutelu infosüsteemi all ei ole, siis lisab RIA hindaja **20 tööpäeva pärast arutelu algatamist** kommentaari, et infosüsteem on kooskõlastatud ja sulgeb antud arutelu. **Sellega loetakse infosüsteem kooskõlastatuks.**
   - Kui 20 tööpäeva möödudes on üleval aktiivseid arutelusid (ja hindaja on lisanud enda negatiivse hinnangu ka kooskõlastamise algatamise arutelusse), siis lisab RIA hindaja otsuse, et infosüsteem ei ole kooskõlastatud ja sulgeb antud arutelu. **Sellega loetakse infosüsteem mittekooskõlastatuks.**
@@ -40,7 +40,7 @@ Need infosüsteemid läbivad RIHAs ainult registreerimise, mida teostab RIA hind
 ### Kooskõlastuse andmine
 
 Kui infosüsteem on üle vaadatud ning ühtegi puudust pole tuvastatud, siis lisa kasutaja poolt tekitatud arutelu alla enda kommentaar ("Kooskõlastan").
-- Kasutajad ootavad otsust 20 tööpäeva jooksul. **RIHA rakendus selle tähtaja lõppemisel hindajatele meeldetuletusi ei saada.** [Siit](RIHAs-hindamisel) leiad millised infosüsteemid on esitatud kooskõlastamisele ja millal lõppeb otsuse lisamise tähtaeg.
+- Kasutajad ootavad otsust 20 tööpäeva jooksul. **RIHA rakendus selle tähtaja lõppemisel hindajatele meeldetuletusi ei saada.**
 - Kui soovid kooskõlastada märkustega, siis lisa enda kommentaarid samuti sama arutelu alla.
 
 ### Mittekooskõlastamine
