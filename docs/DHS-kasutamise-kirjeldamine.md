@@ -4,7 +4,7 @@ title: Dokumendihaldussüsteemi kasutamise kirjeldamine
 
 ## Kuidas kirjeldada RIHAs asutuse kasutatavat dokumendihaldussüsteemi (DHS)?
 
-TODO: Üldine lause, miks vaja kirja panna.
+RIHAsse pannakse kirja riigi, kohaliku omavalitsuse või muu avalik-õigusliku juriidilise isiku või avalikke ülesandeid täitva eraõigusliku isiku infosüsteemid, mis asutatakse ja mida kasutatakse seaduses, selle alusel antud õigusaktis või rahvusvahelises lepingus sätestatud ülesannete täitmiseks.
 
 RIHAs on kirjeldatud ja kooskõlastatud juba järgmised dokumendihaldussüsteemid: 
 - [Postipoiss](https://www.riha.ee/Infos%C3%BCsteemid/Vaata/standard-postipoiss)
@@ -14,6 +14,7 @@ RIHAs on kirjeldatud ja kooskõlastatud juba järgmised dokumendihaldussüsteemi
 - [Dora](https://www.riha.ee/Infos%C3%BCsteemid/Vaata/dora)
 - [WebDesktop](https://www.riha.ee/Infos%C3%BCsteemid/Vaata/wd)
 - [Amphora](https://www.riha.ee/Infos%C3%BCsteemid/Vaata/amphora)
+
 Kui sinu kasutatavat DHSi ei ole ülaltoodud nimekirjas, siis tuleb see kirjeldada nagu tavalist infosüsteemi - [Infosüsteemide kirjeldamine RIHAs](https://abi.riha.ee/RIHAs-kirjeldamine)
 
 ### Dokumendihaldussüsteemi kirjeldamine
