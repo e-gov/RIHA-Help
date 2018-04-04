@@ -28,7 +28,7 @@ Infosüsteemide detailvaates on mitmeid välju, millel on oma tähendus. Infosü
 - Infosüsteemi nimi
   - Infosüsteemi täispikk nimi (näiteks määrusest tulenev nimi).
 - Infosüsteemi lühinimi
-  - lühinime kasutatakse selleks, et infosüsteemi suupärasemalt nimetada. Lisaks on X-tee alamsüsteemide puhul see otseseks viiteks, millisel kujul on alamsüsteem X-teel kättesaadav.
+  - lühinime kasutatakse selleks, et infosüsteemi suupärasemalt nimetada. Lisaks on X-tee alamsüsteemide puhul see otseseks viiteks, millisel kujul on alamsüsteem X-teel kättesaadav. Lühinimi võib sisaldada ainult ladina tähti (mitte täpitähti), numbreid, punkti ja miinusmärki
 - Infosüsteemi staatus
   - Reaalne staatus infosüsteemi olekust - kas see on kasutusel, alles asutamisel või juba lõpetatud
 - Infosüsteemi arendamise staatus
