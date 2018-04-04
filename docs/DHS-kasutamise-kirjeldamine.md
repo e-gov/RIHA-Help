@@ -25,7 +25,7 @@ Kui sinu kasutatavat DHSi ei ole ülaltoodud nimekirjas, siis tuleb see kirjelda
 - Vali lehe alaosas **Lisa uus**
 - Lisa uue infosüsteemi andmed
   - Nimi – sisesta, mis dokumendihaldussüsteemiga on tegu? (Nimetus peab sisaldama dokumendihaldussüsteemi nime ning asutuse nime)
-  - Lühinimi – see võib sisaldada ainult ladina tähti (mitte täpitähti), numbreid, punkti ja miinusmärki. TODO: lisada see lause ka üldisesse kirjelduse lehele
+  - Lühinimi – see võib sisaldada ainult ladina tähti (mitte täpitähti), numbreid, punkti ja miinusmärki. 
   - Infosüsteemi eesmärk – dokumendihaldussüsteemi kasutamise eesmärk
 - **Salvesta**
 
