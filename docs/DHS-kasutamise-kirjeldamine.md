@@ -14,25 +14,19 @@ RIHAs on kirjeldatud ja kooskõlastatud juba järgmised dokumendihaldussüsteemi
 - [Dora](https://www.riha.ee/Infos%C3%BCsteemid/Vaata/dora)
 - [WebDesktop](https://www.riha.ee/Infos%C3%BCsteemid/Vaata/wd)
 - [Amphora](https://www.riha.ee/Infos%C3%BCsteemid/Vaata/amphora)
-Kui sinu kasutatavat DHSi ei ole ülaltoodud nimekirjas, siis tuleb see kirjeldada nagu tavalist infosüsteemi (TODO: viide RIHAs-kirjeldamine lehele)
+Kui sinu kasutatavat DHSi ei ole ülaltoodud nimekirjas, siis tuleb see kirjeldada nagu tavalist infosüsteemi - [Infosüsteemide kirjeldamine RIHAs](https://abi.riha.ee/RIHAs-kirjeldamine)
 
-### Eeltegevused
-
-TODO: ühtlustada https://github.com/e-gov/RIHA-Help/blob/master/docs/RIHAs-kirjeldamine.md#kuidas-saan-rihasse-infos%C3%BCsteemi-kirja-panna 
-
-- Mine [RIHA avalehele](https://www.riha.ee/)
-- Logi sisse ID-kaardiga. Selleks vali paremalt ülalt "Logi sisse"
-- Kontrolli paremalt ülalt, mis rollis oled. Valitud peaks olema asutus, mille alla soovid dokumendihaldussüsteemi kirjeldada. Vajadusel vaheta enda rolli, vajutades üleval paremas nurgas enda nime peale.
-  - kui sinuga pole seotud ühtegi asutust, vaata juhendit [siit](/RIHA-oigused-haldamine) 
-  
 ### Dokumendihaldussüsteemi kirjeldamine
 
-- Vajuta avalehel infosüsteemi haldamise kastis [Alustan](https://www.riha.ee/Kirjelda/Uus)
-- Lisa uue alamsüsteemi andmed
+- Logi RIHAsse sisse
+- Vali esilehelt **Infosüsteemi haldamine** plokist **alustan** või liigu otse [Minu infosüsteemid](https://www.riha.ee/Kirjelda) vaatesse
+    - kui sul ei ole vastavaid õiguseid, siis [loe lähemalt RIHA õigustest](https://abi.riha.ee/RIHA-oigused-haldamine)
+- Vali lehe alaosas **Lisa uus**
+- Lisa uue infosüsteemi andmed
   - Nimi – sisesta, mis dokumendihaldussüsteemiga on tegu? (Nimetus peab sisaldama dokumendihaldussüsteemi nime ning asutuse nime)
   - Lühinimi – see võib sisaldada ainult ladina tähti (mitte täpitähti), numbreid, punkti ja miinusmärki. TODO: lisada see lause ka üldisesse kirjelduse lehele
   - Infosüsteemi eesmärk – dokumendihaldussüsteemi kasutamise eesmärk
-- Salvesta
+- **Salvesta**
 
 ### Dokumendihaldussüsteemi kirjelduse täiendamine
 
@@ -42,11 +36,19 @@ registreeritud dokumentidega
 - Kas infosüsteem on liidestatud või liidestatakse X-teega? - vali "Jah"
 - vali turvalisuse plokis ülaosast MUUDA ning: 
   - vali "Rakendatakse turvameetmeid", kui te olete rakendanud turvameetmeid
-  - vali "ISKE" ning seejärel infovarale määratud käideldavus, terviklus, konfidentsiaalsuse turvaosaklassid TODO: täpsustada
-  - TODO: auditeerimine
+  - vali "ISKE" ning seejärel infovarale määratud käideldavus, terviklus, konfidentsiaalsuse turvaosaklassid
+  - Kui ISKE rakendamine on auditeeritud vali "On auditeeritud" ning seejärel sisestage auditi kuupäev ning hinnang
 - vali kontaktide plokis ülaosast MUUDA ning lisa dokumendihaldussüsteemi kontaktisik asutuses:
   - Kirjuta nimi ja email (mõlemad kohustuslikud) > LISA > SALVESTA
   - _Kontaktisikuid näevad vaid sisselogitud kasutajad_
 - seosed süsteemidega
   - otsi nimekirjast kasutatav standardlahendus ning valige seose tüüp - "kasutatav standardlahendus"
-- kui kasutad DocLogiX-ut, siis kirjelda, kuidas kasutate metaandmeid TODO: viide juhendile
+- kui kasutad DocLogiX-ut, siis tuleb täita [metaandmestiku võrdlus](https://moodle.ria.ee/mod/resource/view.php?id=260) ja lisada see dokumentatsiooni plokki. [Juhend lk 4](https://moodle.ria.ee/pluginfile.php/351/mod_resource/content/13/DHSi_kasutamise%20registreerimine_RIHAs_v3.pdf)
+
+### Infosüsteemi kooskõlastamiseks esitamine
+
+Kui dokumendihaldussüsteemi kirjeldamine on viidud lõpuni ning oled valmis seda kooskõlastamiseks esitama, siis
+- Liigu infosüsteemi **hindajate tagasiside** plokki
+- Vajuta **küsi hinnangut**
+- Avanenud modaalaknas vali "Kasutusele võtmiseks"
+- Lisa kommentaar ja **salvesta**
