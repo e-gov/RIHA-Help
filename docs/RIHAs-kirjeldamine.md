@@ -84,6 +84,13 @@ Infosüsteemi reguleerivad õigusaktid nagu
 - käskkirjad
 - direktiivid
 
+### Turvalisus
+
+Turvalisuse osas on oluline märkida:
+- kas rakendatakse turvameetmeid
+- millist standardit kasutatakse (nt ISKE)
+- ISKE puhul infovarale määratud käideldavus, terviklus, konfidentsiaalsuse turvaosaklassid
+- kas ISKE rakendamine on auditeeritud ja viimase auditi kuupäev ning hinnang (see info on nähtav ainult infosüsteemi kirjeldajale ja hindajatele)
 
 ### Kontaktid
 
