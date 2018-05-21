@@ -174,4 +174,4 @@ RIHA masinloetavate andmete ümber kujuneb andmekasutajate "ökosüsteem". Teada
 
 - RIHA laiendatud otsingu prototüüp (otsib omaniku nimest, registrikoodist, infosüsteemi nimest ja lühinimest), [https://e-gov.github.io/RIHA-Experiments/otsi](https://e-gov.github.io/RIHA-Experiments/otsi), lähtekood: [https://github.com/e-gov/RIHA-Experiments/edit/master/otsi.html](https://github.com/e-gov/RIHA-Experiments/edit/master/otsi.html).
 
-- "RIHA aktiivsusmonitor", [https://apidemojatest.herokuapp.com/watch](https://apidemojatest.herokuapp.com/watch), lähtekood: [https://github.com/e-gov/RIHA-API-Demo](https://github.com/e-gov/RIHA-API-Demo).
+- "RIHA aktiivsusmonitor", [https://riha-watch.herokuapp.com/](https://riha-watch.herokuapp.com/), lähtekood: [https://github.com/e-gov/RIHA-Watch](https://github.com/e-gov/RIHA-Watch).
