@@ -34,16 +34,16 @@ title: X-tee alamsüsteemi abi
 - Vali kontaktide paneeli ülaosast MUUDA ning lisa kontaktisikud: alamsüsteemi toimimise eest vastutav füüsiline isik ja alamsüsteemi teenindava turvaserveri administraatori kontaktandmed
   - Kirjuta nimi ja email (mõlemad kohustuslikud) > LISA > SALVESTA
   - _Kontaktisikuid näevad vaid sisselogitud kasutajad_
+  - _Kontaktisikutele saadetakse iga kuu alamsüsteemi kasutusraport, mis näitab kes ja kui palju alamsüsteemi on kasutanud ning kas ja kui palju alamsüsteemist päringuid teistesse alamsüsteemidesse välja läheb (rohkem infot leiab [raportite lugemisjuhendist](https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/user_guide/ug_reports_et.md))._
 - Alamsüsteem on registreeritud RIHAs, kui sellel on märge "Süsteem on kasutusel" ja infosüsteemi märksõna on "X-tee alamsüsteem" ja/või "Andmeteenuste vahendamine"
   
 **X-tee alamsüsteeme ei kooskõlastata, st on ebavajalik küsida RIHAs hinnangut asutamiseks või kasutusele võtmiseks.**
 
 X-tee alamsüsteemi andmete RIHAs kirjeldatust kontrollib X-tee keskus turvaserveri liidese kaudu esitatud alamsüsteemi registreerimise taotluse menetlemisel. **X-tee keskus ei registreeri sellist alamsüsteemi, mida pole RIHAs või mille kirjeldus pole RIHAs täielik.**
+
 Kui X-tee keskus tuvastab alamsüsteemi kirjelduses RIHAs puuduse, siis algatab ta RIHAs arutelu (alamsüsteemile märgitud kontaktisikut teavitatakse e-kirjaga), milles kirjeldab leitud puudused ja selgitab kuidas neid kõrvaldada. X-tee keskus rahuldab turvaserveri liidese kaudu esitatud alamsüsteemi registreerimise taotluse pärast seda, kui alamsüsteemi omanik on kõrvaldanud arutelus kirjeldatud puudused.
 
 ### X-tee alamsüsteemide haldamine
 
 - Kõik sinu asutuse poolt registreeritud alamsüsteemid ja infosüsteemid leiad [Minu infosüsteemide](https://www.riha.ee/Kirjelda) hulgast
-- Alamsüsteemi muutmiseks ava selle detailvaade, vajutades nimekirjas süsteemi nimele või lühinimele 
-- Alamsüsteemi üldandmete plokis on võimalik muuta näiteks infosüsteemi nime, lühinime või eesmärki
 
