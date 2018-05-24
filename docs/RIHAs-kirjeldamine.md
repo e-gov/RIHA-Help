@@ -94,5 +94,11 @@ Turvalisuse osas on oluline märkida:
 
 ### Kontaktid
 
-Infosüsteemi haldavate ja/või arendavate isikute kontaktid, kellele on võimalik täpsemaid küsimusi esitada.
+Infosüsteemi haldavate ja arendavate isikute kontaktid, kellele on võimalik täpsemaid küsimusi esitada.
 **Kontaktid on nähtavad vaid sisselogitud kasutajatele**
+
+### Seosed süsteemidega
+
+Kui infosüsteem kasutab andmevahetuseks X-teed, märgi tema [X-tee alamsüsteemid](https://abi.riha.ee/X-tee-alamsysteem) alaminfosüsteemideks. Kui kasutad standardlahendust, lisa selle nimetus ja vali seose tüübiks **kasutatav standardlahendus**.
+
+Mitmest alaminfosüsteemist koosneva infosüsteemi kirjeldamisel lisa ka seosed nende alaminfosüsteemidga. Alaminfosüsteemi kirjeldamisel lisa seos tema üleminfosüsteemiga.
