@@ -72,6 +72,7 @@ Dokumentatsiooni alla pannakse kirja infosüsteemi
 
 - tehniline kirjeldus
 - arhitektuuridokument
+- kasutatavad klassifikaatorid
 - muud teistele jagamiseks mõeldud dokumendid nagu liidestumise juhend, teenuste kirjeldus, kasutusjuhendid
 
 
