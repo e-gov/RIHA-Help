@@ -59,7 +59,7 @@ Küll aga on võimalik piiratud aja jooksul tutvuda seniste sõnastike ja termin
 
 ### X-tee teenused
 
-- Uues RIHAs on ainult infosüsteemide ning X-tee alamsüsteemide kirjed, täpsemat infot X-tee teenuste kohta uus RIHAs ei ole
+- Uues RIHAs on ainult infosüsteemide ning X-tee alamsüsteemide kirjed, täpsemat infot X-tee teenuste kohta uues RIHAs ei ole
 - Teenuseid otsida ning nende WSDL-e vaadata RIHA vahendusel ei saa
 - Teenuste kirjeldusi inimloetaval kujul on võimalik lisada infosüsteemi dokumentatsiooni alla
 
@@ -67,9 +67,9 @@ X-tee alamsüsteemide teenuste ning WSDL-ide kuvamiseks tekitatakse X-tee katalo
 
 ### X-tee sertifikaatide taotlemine
 
-Kuna X-tee versioon 6-s ei väljasta sertifikaate RIA, vaid vastav seritifitseerimisteenuse osutaja, siis ei ole ka uues RIHAs sertifikaatide taotlemise funktsionaalsust realiseeritud.
+Kuna X-tee versioonis 6 ei väljasta sertifikaate RIA, vaid vastav sertifitseerimisteenuse osutaja, siis ei ole ka uues RIHAs sertifikaatide taotlemise funktsionaalsust realiseeritud.
 
 ### X-tee teenuse avamise taotlemine
 
-- Et RIHAs puuduvad X-tee teenused, siis ei ole RIHAs ka funktsionaalsust, et esitada avaldus teenuste kasutamiseks
+- Et RIHAs puuduvad X-tee teenused, siis ei ole RIHAs ka funktsionaalsust, et esitada avaldust teenuste kasutamiseks
 - Teenuse kasutamise lepivad kokku osapooled omavahel valides selleks kanaliks näiteks e-posti või muu klienditeeninduskanali
