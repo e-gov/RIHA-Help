@@ -72,7 +72,7 @@ Dokumentatsiooni alla pannakse kirja infosüsteemi
 
 - tehniline kirjeldus
 - arhitektuuridokument
-- kasutatavad klassifikaatorid
+- kasutatavad klassifikaatorid, viidetena vanas RIHAs kirjeldatud klassifikaatoritele (nt [Kasutatav klassifikaator: EHAK 2018v2](https://vana.riha.ee/riha/main/kla/eesti_haldus-_ja_asustusjaotuse_klassifikaator_2018v1_ver20))
 - muud teistele jagamiseks mõeldud dokumendid nagu liidestumise juhend, teenuste kirjeldus, kasutusjuhendid
 
 
