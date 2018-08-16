@@ -47,7 +47,7 @@ Infosüsteemide staatused ei kajastanud vanas RIHAs väga tihti infosüsteemi re
 
 ### Klassifikaatorid
 
-Uues RIHAs puudub klassifikaatorite moodul. Kõik senised klassifikaatorid võib leida [vanast RIHAst](https://vana.riha.ee), sealsamas saab ka lisada, muuta ja kooskõlastada klassifikaatoreid. Uues RIHAs tuleb infosüsteemi omanikul lisada kasutatavad klassifikaatorid vastava infosüsteemi dokumentatsiooni plokis viidetena. RIA kaardistab koos Statistikaametiga klassifikaatorite haldamise klienditeekonda ning ühtlasi tuleb üle vaadata kõik seni Statistikaameti poolt kooskõlastatud klassifikaatorid (st eristada klassifikaatorid loenditest).
+Uues RIHAs puudub klassifikaatorite moodul. Kõik senised klassifikaatorid võib leida [vanast RIHAst](https://vana.riha.ee), sealsamas saab ka lisada, muuta ja kooskõlastada klassifikaatoreid. Uues RIHAs tuleb infosüsteemi omanikul lisada kasutatavad klassifikaatorid vastava infosüsteemi dokumentatsiooni plokis viidetena vanas RIHAs kirjeldatud klassifikaatoritele (nt [Kasutatav klassifikaator: EHAK2018v2](https://vana.riha.ee/riha/main/kla/eesti_haldus-_ja_asustusjaotuse_klassifikaator_2018v1_ver20)). RIA kaardistab koos Statistikaametiga klassifikaatorite haldamise klienditeekonda ning ühtlasi tuleb üle vaadata kõik seni Statistikaameti poolt kooskõlastatud klassifikaatorid (st eristada klassifikaatorid loenditest).
 
 ### Sõnastikud
 
@@ -63,7 +63,7 @@ Küll aga on võimalik piiratud aja jooksul tutvuda seniste sõnastike ja termin
 - Teenuseid otsida ning nende WSDL-e vaadata RIHA vahendusel ei saa
 - Teenuste kirjeldusi inimloetaval kujul on võimalik lisada infosüsteemi dokumentatsiooni alla
 
-X-tee alamsüsteemide teenuste ning WSDL-ide kuvamiseks tekitatakse X-tee kataloog, mis hakkab kuvama andmeid automatiseeritult. Nii ei ole vaja kasutajatel eraldi teenuste WSDL-e RIHAsse kirja panna või neid üles loetleda.
+X-tee alamsüsteemide teenuste ning WSDL-ide kuvamiseks tekitatakse X-tee kataloog, mis hakkab kuvama andmeid automatiseeritult. Nii ei ole vaja kasutajatel eraldi teenuste WSDL-e RIHAsse kirja panna või neid üles loetleda. X-tee kataloogi prototüübiga saab tutvuda aadressil [https://www.x-tee.ee/catalogue/EE/wsdls/](https://www.x-tee.ee/catalogue/EE/wsdls/); kataloogis kuvatakse X-tee toodangukeskkonna (EE) andmeid.
 
 ### X-tee sertifikaatide taotlemine
 
