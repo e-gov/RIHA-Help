@@ -63,7 +63,9 @@ Küll aga on võimalik piiratud aja jooksul tutvuda seniste sõnastike ja termin
 - Teenuseid otsida ning nende WSDL-e vaadata RIHA vahendusel ei saa
 - Teenuste kirjeldusi inimloetaval kujul on võimalik lisada infosüsteemi dokumentatsiooni alla
 
-X-tee alamsüsteemide teenuste ning WSDL-ide kuvamiseks tekitatakse X-tee kataloog, mis hakkab kuvama andmeid automatiseeritult. Nii ei ole vaja kasutajatel eraldi teenuste WSDL-e RIHAsse kirja panna või neid üles loetleda. X-tee kataloogi prototüübiga saab tutvuda aadressil [https://www.x-tee.ee/catalogue/EE/wsdls/](https://www.x-tee.ee/catalogue/EE/wsdls/); kataloogis kuvatakse X-tee toodangukeskkonna (EE) andmeid.
+X-tee alamsüsteemide teenuste ning WSDL-ide kuvamiseks tekitatakse X-tee kataloog, mis hakkab kuvama andmeid automatiseeritult. Nii ei ole vaja kasutajatel eraldi teenuste WSDL-e RIHAsse kirja panna või neid üles loetleda.
+
+X-tee kataloogi prototüübiga saab tutvuda aadressil [https://www.x-tee.ee/catalogue/EE/wsdls/](https://www.x-tee.ee/catalogue/EE/wsdls/). Kataloogis kuvatakse X-tee toodangukeskkonna (EE) andmeid.
 
 ### X-tee sertifikaatide taotlemine
 
