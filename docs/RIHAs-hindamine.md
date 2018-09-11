@@ -11,7 +11,7 @@ Riigi infosüsteemile ning selles osutatavatele teenustele kohalduvad koosvõime
 Infosüsteeme kooskõlastavad Riigi Infosüsteemi Amet (RIA), Andmekaitse Inspektsioon (AKI), Maa-amet ja Statistikaamet. [Arhiiviväärtuslikke infosüsteeme](http://www.ra.ee/arhiivihaldus/digitaalarhiivindus/andmekogude-arhiveerimine/) kooskõlastab ka Rahvusarhiiv.
 Arutelu detailvaates on näha ka konkreetne isik, kes kommentaari või hinnangu on andnud.
 
-Tutvu ka [kooskõlastavate asutuste menetluskordadega](https://www.ria.ee/ee/kooskolastamine.html).
+Tutvu ka [kooskõlastavate asutuste menetluskordadega](https://www.ria.ee/et/riigi-infosusteem/riha/kooskolastamine.html).
 
 ## Millal infosüsteeme kooskõlastatakse?
 
@@ -21,7 +21,7 @@ Infosüsteeme, mis on andmekogud, kooskõlastatakse:
 - enne andmekoosseisu muutmist
 - enne lõpetamist
 
-Enne infosüsteemi kooskõlastamisele esitamist on soovitatav tutvuda [kooskõlastavate asutuste menetluskordadega](https://www.ria.ee/ee/kooskolastamine.html). Viidatud dokumentides on üksikasjalikult toodud ka õiguslikud alused, millele hindamise käigus tuginetakse.
+Enne infosüsteemi kooskõlastamisele esitamist on soovitatav tutvuda [kooskõlastavate asutuste menetluskordadega](https://www.ria.ee/et/riigi-infosusteem/riha/kooskolastamine.html). Viidatud dokumentides on üksikasjalikult toodud ka õiguslikud alused, millele hindamise käigus tuginetakse.
 
 ## Kuidas toimub uues RIHAs kooskõlastamine?
 
