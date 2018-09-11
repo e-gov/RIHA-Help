@@ -19,7 +19,7 @@ title: Infosüsteemide kirjeldamine RIHAs
 - Kõiki andmeid on võimalik hiljem ka muuta
 
 ## Milline tähendus on RIHA väljadel?
-Infosüsteemide detailvaates on mitmeid välju, millel on oma tähendus. Infosüsteemi andmed jagunevad plokkideks, et tekitada parem struktureeritus.
+Infosüsteemide detailvaates on mitmeid välju, millel on oma tähendus. Infosüsteemi andmed jagunevad plokkideks, et tekitada parem struktureeritus. Rohkem infot RIHAs kirjeldamisest leiab [RIHA koolitusmaterjalide lehelt](https://moodle.ria.ee/course/view.php?id=16).
 
 ### Infosüsteemi üldandmed
 
