@@ -98,7 +98,6 @@ Arutelusid _'Infosüsteemi asutamine'_, _'Infosüsteemi kasutusele võtmine'_, _
 
 Kooskõlastatuks loetakse sellist infosüsteemi
 
-- millel ei ole ühtegi aktiivset arutelu **JA**
 - millel suletud arutelude all on teema pealkirjaga 'Infosüsteemil puudub kasutusele võtmise kooskõlastus', mille tüübiks on _Infosüsteemi kasutusele võtmine_ ning selle viimaseks kommentaariks enne sulgemist on kirjutatud, et **infosüsteem on kooskõlastatud**.
 
 ![Kooskõlastamise koondotsus](assets/images/data/approved-system.png "Kooskõlastamise koondotsus")
