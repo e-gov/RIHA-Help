@@ -25,8 +25,8 @@ Otsingu tulemust on võimalik sorteerida:
 - Infosüsteemi andmete viimase muudatuse järgi
 
 Infosüsteemi nimele või lühinimele vajutades saab liikuda infosüsteemi detailse kirjelduse vaatesse.
-Detailne kirjeldus on jagatud erinevateks plokkideks. Plokkide sisu ja väljade tähendusi uuri lähemalt [RIHAs kirjeldamise abiinfost](https://abi.riha.ee/RIHAs-kirjeldamine#milline-t%C3%A4hendus-on-riha-v%C3%A4ljadel)
+Detailne kirjeldus on jagatud erinevateks plokkideks. Plokkide sisu ja väljade tähendusi uuri lähemalt [RIHAs kirjeldamise abiinfost](https://abi.riha.ee/RIHAs-kirjeldamine#milline-t%C3%A4hendus-on-riha-v%C3%A4ljadel).
 
 ### RIHA masinloetav liides
 
-RIHA masinloetav liides pakub kasutajaliidesest märksa rohkem filtreerimise ja sorteerimise võimalusi. Masinliidese kasutamise kohta uuri lähemalt [RIHA API abiinfost](https://abi.riha.ee/APIabi)
+RIHA masinloetav liides pakub kasutajaliidesest märksa rohkem filtreerimise ja sorteerimise võimalusi. Masinliidese kasutamise kohta uuri lähemalt [RIHA API abiinfost](https://abi.riha.ee/APIabi).
