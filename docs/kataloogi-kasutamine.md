@@ -29,4 +29,4 @@ Detailne kirjeldus on jagatud erinevateks plokkideks. Plokkide sisu ja väljade 
 
 ### RIHA masinloetav liides
 
-RIHA masinloetav liides pakub kasutaliidesest märksa rohkem filtreerimise ja sorteerimise võimalusi. Masinliidese kasutamise kohta uuri lähemalt [RIHA API abiinfost](https://abi.riha.ee/APIabi)
+RIHA masinloetav liides pakub kasutajaliidesest märksa rohkem filtreerimise ja sorteerimise võimalusi. Masinliidese kasutamise kohta uuri lähemalt [RIHA API abiinfost](https://abi.riha.ee/APIabi)
