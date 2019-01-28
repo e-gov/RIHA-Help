@@ -1,6 +1,33 @@
 ---
 title: Mis on RIHAs uut?
 ---
+## 28. jaanuar 2019
+
+### Mobiil-IDga autentimine
+
+RIHAs võeti kasutusele [autentimisteenus TARA](https://www.ria.ee/et/riigi-infosusteem/eid/partnerile.html#tara). See tähendab, et lisaks ID-kaardile saab nüüd RIHAsse siseneda ka mobiil-IDga. Pärast edukat sisenemist antakse isikutele, kes pole RIHAs seotud ühegi asutusega, otseviide [asjakohasele juhendile](RIHA-oigused-haldamine), mis selgitab mida tuleb teha selleks, et RIHAs kirjeldama hakata.
+
+### Kasutatavad klassifikaatorid ja turvaklass
+
+Vanast RIHAst kanti üle infosüsteemis kasutatavate klassifikaatorite andmed: nimetus ja viide vanasse RIHAsse. Neid andmeid näidatakse infosüsteemi kirjelduses, jaotises "Dokumentatsioon". Lühinimede põhjal kanti vanast RIHAst üle ka infosüsteemide (v. a X-tee alamsüsteemide) turvaklassid (KTS), kui infosüsteemi omanik polnud neid juba ise uuesti sisestanud.
+
+### Automaatkontroll hinnangu küsimisel
+
+Infosüsteemile hinnangu küsimisel kontrollib RIHA sisestatud andmeid ja annab ülevaate, kas kooskõlastamiseks vajalikud väljad on täidetud ja millised puudused võivad kooskõlastamist takistada (nt kontaktisikud on lisamata).
+
+![Automaatkontroll hinnangu küsimisel](assets/images/data/validate.PNG "Automaatkontroll hinnangu küsimisel")
+
+### Failide ja viidete lisamise aeg
+
+Infosüsteemide kirjelduses näidatakse nüüd ka failide ja viidete lisamise ning uuendamise kuupäeva.
+
+### Ülevaade aruteludest
+
+Nüüdsest näeb infosüsteemi omanik asutuse infosüsteemide ülevaate juures ka [nimekirja aruteludest](https://www.riha.ee/MinuInfosüsteemid/Arutelud), milles hindaja on infosüsteemi omaniku kommentaarile vastanud.
+
+### Otsing infosüsteemis töödeldavatest andmetest
+
+Lisati [andmeobjektide otsing](https://www.riha.ee/Andmeobjektid), mis võimaldab otsida andmekoosseisude failidest. Otsing sooritatakse sellistest failidest, mis on csv-, xls- ning xlsx-vormingus. Tulemustes näidatakse infosüsteemi nime, lühinime ja omanikku ning andmekoosseisu sisaldava faili nime, millel klikkides saab faili alla laadida.
 
 ## 27. märts 2018
 
@@ -117,7 +144,7 @@ Kui infosüsteemi omanik on kirjeldamise lõpetanud ning soovib sellele saada ko
 Kooskõlastamise algatamise arutelusid saavad sulgeda ainult Riigi Infosüsteemi Ameti hindajad. Täpsem info kooskõlastamiste ja RIHA arutelude kohta leiab [RIHA hindamise abiinfost](RIHAs-hindamine).
 
 
-### E-maili teavitused uutest aruteludest ja kommentaaridest
+### Meiliteavitused uutest aruteludest ja kommentaaridest
 
 Kui infosüsteemile lisatakse hindajate tagasiside plokki uus arutelu, siis saadetakse kõigile infosüsteemi RIHAs olevatele kontaktidele selle kohta teavitus.
 Kui ühtegi kontakti pole infosüsteemile lisatud, siis teavitusi välja ei saadeta.
@@ -162,4 +189,4 @@ Vanast RIHAs kanti üle sellised infosüsteemid, mis olid **sisestamisel, asutat
 - Infosüsteemi alusdokumendid -> Õigusaktid
   - Õigusaktide nimetused
   - URLid
-- Infosüsteemi kontaktid, kellele oli lisatud email
+- Infosüsteemi kontaktid, kellele oli lisatud meiliaadress
