@@ -6,8 +6,7 @@ title: X-tee alamsüsteemi abi
 
 ### Eeltegevused
 
-- Mine [RIHA avalehele](https://www.riha.ee/)
-- Logi sisse ID-kaardiga. Selleks vali paremalt ülalt "Logi sisse"
+- Mine [RIHA avalehele](https://www.riha.ee/) ja vajuta "Logi sisse"
 - Kontrolli paremalt ülalt, mis rollis oled. Valitud peaks olema asutus, mille alla soovid alamsüsteemi registreerida. Vajadusel vaheta enda rolli, vajutades üleval paremas nurgas enda nime peale.
   - kui sinuga pole seotud ühtegi asutust, vaata juhendit [siit](/RIHA-oigused-haldamine) 
 
@@ -32,7 +31,7 @@ title: X-tee alamsüsteemi abi
   - Eraõiguslik X-tee liige, kelle infosüsteem ei ole avaliku teabe seaduse tähenduses andmekogu ja kelle infosüsteemi ei kasutata avaliku teenuse osutamiseks, peab lisama dokumentide alla ettevõtte esindusõigusliku isiku digitaalselt allkirjastatud [nõuetele vastavuse kinnitus](/xtee nouetele vastavus kinnitus.pdf){:target="_blank"}. Volitatud esindusõiguse puhul lisa digidoc konteinerisse enne dokumendi allkirjastamist juurde ka volikiri või lisa volikiri eraldi failina.
   - Kirjuta dokumendi nimi ja veebiviide või lisa dokument manusena > LISA > SALVESTA
 - Vali kontaktide paneeli ülaosast MUUDA ning lisa kontaktisikud: alamsüsteemi toimimise eest vastutav füüsiline isik ja alamsüsteemi teenindava turvaserveri administraatori kontaktandmed
-  - Kirjuta nimi ja email (mõlemad kohustuslikud) > LISA > SALVESTA
+  - Kirjuta nimi ja meiliaadress (mõlemad kohustuslikud) > LISA > SALVESTA
   - _Kontaktisikuid näevad vaid sisselogitud kasutajad_
   - _Kontaktisikutele saadetakse iga kuu alamsüsteemi kasutusraport, mis näitab kes ja kui palju alamsüsteemi on kasutanud ning kas ja kui palju alamsüsteemist päringuid teistesse alamsüsteemidesse välja läheb (rohkem infot leiab [raportite lugemisjuhendist](https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/user_guide/ug_reports_et.md))._
 - Alamsüsteem on registreeritud RIHAs, kui sellel on märge "Süsteem on kasutusel" ja infosüsteemi märksõna on "X-tee alamsüsteem" ja/või "Andmeteenuste vahendamine"
