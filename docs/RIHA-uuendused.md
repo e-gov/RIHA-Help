@@ -23,7 +23,7 @@ Infosüsteemide kirjelduses näidatakse nüüd ka failide ja viidete lisamise ni
 
 ### Ülevaade aruteludest
 
-Nüüdsest näeb infosüsteemi omanik asutuse infosüsteemide ülevaate juures ka [nimekirja aruteludest](https://www.riha.ee/MinuInfosüsteemid/Arutelud), milles hindaja on infosüsteemi omaniku kommentaarile vastanud.
+Nüüdsest näeb infosüsteemi omanik asutuse infosüsteemide ülevaate juures ka [nimekirja nende infosüsteemidega seotud aruteludest](https://www.riha.ee/MinuInfosüsteemid/Arutelud). Nimekirjas näidatakse peale infosüsteemi nime, lühinime ja arutelu pealkirja ka viimase kommentaari lisaja nime, asutust ning lisamise aega. Arutelusse kommentaari lisamiseks tuleb klikkida arutelu pealkirjal.
 
 ### Otsing infosüsteemis töödeldavatest andmetest
 
