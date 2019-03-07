@@ -38,9 +38,9 @@ title: X-tee alamsüsteemi abi
   
 **X-tee alamsüsteeme ei kooskõlastata, st on ebavajalik küsida RIHAs hinnangut asutamiseks või kasutusele võtmiseks.**
 
-X-tee alamsüsteemi andmete RIHAs kirjeldatust kontrollib X-tee keskus turvaserveri liidese kaudu esitatud alamsüsteemi registreerimise taotluse menetlemisel. **X-tee keskus ei registreeri sellist alamsüsteemi, mida pole RIHAs või mille kirjeldus pole RIHAs täielik.**
+X-tee alamsüsteemi kirjelduse korrektsust RIHAs kontrollib X-tee keskus turvaserveri liidese kaudu esitatud alamsüsteemi registreerimise taotluse menetlemisel. **X-tee keskus ei registreeri sellist alamsüsteemi, mida pole RIHAs või mille kirjeldus pole RIHAs täielik.**
 
-Kui X-tee keskus tuvastab alamsüsteemi kirjelduses RIHAs puuduse, siis algatab ta RIHAs arutelu (alamsüsteemile märgitud kontaktisikut teavitatakse e-kirjaga), milles kirjeldab leitud puudused ja selgitab kuidas neid kõrvaldada. X-tee keskus rahuldab turvaserveri liidese kaudu esitatud alamsüsteemi registreerimise taotluse pärast seda, kui alamsüsteemi omanik on kõrvaldanud arutelus kirjeldatud puudused.
+Kui X-tee keskus tuvastab RIHAs alamsüsteemi kirjelduses puuduse, siis algatab ta RIHAs arutelu (alamsüsteemile märgitud kontaktisikut teavitatakse e-kirjaga), milles kirjeldab leitud puudused ja selgitab kuidas neid kõrvaldada (kirjeldust muuta saab organisatsiooni RIHA kirjeldaja). X-tee keskus rahuldab turvaserveri liidese kaudu esitatud alamsüsteemi registreerimise taotluse pärast seda, kui alamsüsteemi omanik on kõrvaldanud arutelus kirjeldatud puudused.
 
 ### X-tee alamsüsteemide haldamine
 
