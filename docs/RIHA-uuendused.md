@@ -19,7 +19,7 @@ Infosüsteemile hinnangu küsimisel kontrollib RIHA sisestatud andmeid ja annab 
 
 ### Failide ja viidete lisamise aeg
 
-Infosüsteemide kirjelduses näidatakse nüüd ka failide ja viidete lisamise ning uuendamise kuupäeva.
+Infosüsteemide kirjelduses näidatakse nüüd ka failide ja viidete lisamise ning uuendamise kuupäeva. Nendel failidel ja viidetel, mis on üle toodud [vanast RIHAst](https://vana.riha.ee), näidatakse kuupäeva, mil uues RIHAs infosüsteemi kirjeldust esimest korda on muudetud.
 
 ### Ülevaade aruteludest
 
