@@ -1,6 +1,36 @@
 ---
 title: Mis on RIHAs uut?
 ---
+## 11. märts 2019
+
+### Standardlahenduste kasutamine
+
+Nüüd on taas lihtsasti võimalik registreerida RIHAs andmekogu, mille pidamiseks kasutad standardlahendust, mis RIHAs juba registreeritud (nt dokumendiregistri pidamiseks kasutad mõnd standardset dokumendihaldussüsteemi). Standardlahenduse kasutajaks registreerumisel tuleb Sul kirjeldada milliste erisustega standardset infosüsteemi kasutad (nt moodulite nimed, versioon jms). Kui märgid selliselt registreeritavale andmekogule kasutamise staatuse, loetakse andmekogu RIHAs registreerituks. Standardlahenduselt automaatselt kõiki andmeid üle ei kanta, lisada tuleb kontaktisikud ja teave infoturbemeetmete rakendamisest ning vajadusel muuta ka teisi andmeid.
+
+### Ülevaade organisatsiooni RIHA kirjeldajatest
+
+RIHA kirjeldajad saavad nüüd lisandunud vaatest ["Minu organisatsioon"](https://www.riha.ee/Minu/Organisatsioon) ülevaate oma organisatsiooni RIHA kirjeldajatest. Teisisõnu näeb kirjeldaja seal nimekirja nendest isikutest, kes tema organisatsioonist saavad lisada RIHAsse uusi infosüsteeme ja muuta juba RIHAs olevate infosüsteemide kirjeldusi. Kirjeldajate eemaldamiseks või lisamiseks tuleb saata e-kiri RIA kasutajatoele help@ria.ee. RIHA hindaja näeb nimekirjas ka neid isikuid, kes tema organisatsioonis saavad infosüsteemidele hinnanguid lisada.
+
+### Kooskõlastamist mitte nõudvate infosüsteemide registreerimine
+
+Registreerides RIHAs infosüsteemi, mis ei vaja kooskõlastamist (X-tee alamsüsteem, standardlahendusel põhinev infosüsteem, asutusesiseseks kasutamiseks mõeldud X-teega liidestamata infosüsteem) ning lisades sellele asjakohase märksõna (X-tee alamsüsteem või asutusesiseseks kasutamiseks) või seose kasutatava standardlahendusega, siis pärast kasutamise staatuse lisamist märgitakse selline infosüsteem registreerituks. Infosüsteemide omanikud hinnanguid neile küsida ei saa, kuid hindajad saavad hinnanguid lisada.
+
+### Andmeobjektide otsing on uuenenud
+
+Andmekoosseisude failidest saab nüüd [andmeobjekte otsida](https://www.riha.ee/Andmeobjektid) täpsemalt, piirates otsingut isikuandmete tunnuse, põhiinfosüsteemi, kommentaari jms järgi.
+
+### Hinnangu saamise tähtaja saabumine
+
+Infosüsteemile hinnangu küsimise arutelus näidatakse nüüd ka kuupäeva, mis ajaks peab infosüsteemi omanik hindajatelt otsused saama. Hindaja näeb sama kuupäeva ka tema töölaual.
+
+### Dokumentide ja viidete liigid
+
+Dokumendi ja viite lisamisel saab nüüd märkida ka selle liigi: arhitektuuridokument, andmekaitseline mõjuhinnang, viide avaandmetele, kasutatav klassifikaator jne. Nii saab dokumentatsiooniga tutvuja või hindaja kiire ülevaate lisatud dokumentatsioonist. Endist viisi saab vajadusel dokumendile lisada ka juurdepääsupiirangu.
+
+### Parem ülevaade
+
+Suuremate ekraanide kasutajad ei pea enam RIHA kataloogivaates parema ülevaate saamiseks tabeleid horisontaalselt kerima.
+
 ## 28. jaanuar 2019
 
 ### Mobiil-IDga autentimine
