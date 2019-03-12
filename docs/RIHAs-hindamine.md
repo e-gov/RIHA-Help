@@ -21,7 +21,7 @@ Infosüsteeme, mis on andmekogud, kooskõlastatakse:
 - enne andmekoosseisu muutmist
 - enne lõpetamist
 
-Enne infosüsteemi kooskõlastamisele esitamist on soovitatav tutvuda [kooskõlastavate asutuste menetluskordadega](https://www.ria.ee/et/riigi-infosusteem/riha/kooskolastamine.html). Viidatud dokumentides on üksikasjalikult toodud ka õiguslikud alused, millele hindamise käigus tuginetakse.
+Enne infosüsteemi kooskõlastamisele esitamist on soovitatav tutvuda [kooskõlastavate asutuste menetluskordadega](https://www.ria.ee/et/riigi-infosusteem/riha/kooskolastamine.html). Viidatud dokumentides on üksikasjalikult toodud ka õiguslikud alused, millele hindamisel tuginetakse.
 
 ## Kuidas toimub uues RIHAs kooskõlastamine?
 
@@ -51,11 +51,14 @@ Kõikidest kommentaaridest, mis arutelu alla lisatakse, saavad teavituse kõik k
 ### Mittekooskõlastamised
 - Kui infosüsteemil on puuduseid, mille tõttu pole võimalik anda positiivset kooskõlastust, siis algatavad hindajad iga puuduse kohta eraldi arutelu.
   - Sul on võimalus küsida hindajalt täpsustusi, et probleemi lahendada. Kui oled probleemi lahendanud, siis lisa arutellu sellekohane kommentaar (mida muutsid, millise dokumendi lisasid vms). Arutelu sulgeb hindaja.
-- Kui 20 tööpäeva pärast kooskõlastuse küsimist on mõne puuduse kohta (hindaja) algatatud arutelu aktiivne, siis ei ole infosüsteem kooskõlastatud ja RIA hindaja lisab kooskõlastuse küsimise arutellu vastava kommentaari ning sulgeb selle arutelu. **Sellega loetakse infosüsteem mittekooskõlastatuks.** Puuduse kohta algatatud arutelu jääb avatuks (aktiivseks) kuni puudus on kõrvaldatud.
+- Mittekooskõlastamisest antakse teada sinu poolt algatatud arutelus. Läbi vaatamata jätmine puuduliku dokumentatsiooni tõttu võrdub samuti mittekooskõlastamisega.
+- 20 tööpäeva pärast kooskõlastuse küsimist sulgeb RIA hindaja kooskõlastuse küsimise arutelu. **Kui vähemalt üks lisatud otsustest kooskõlastuse küsimise arutelus on mittekooskõlastamine või läbi vaatamata jätmine puuduliku dokumentatsiooni tõttu, siis loetakse infosüsteem mittekooskõlastatuks.**
+- Puuduse kohta algatatud arutelu jääb avatuks (aktiivseks) kuni puudus on kõrvaldatud
 
 ### Kooskõlastamised
-- Positiivsed kooskõlastused antakse teada sinu poolt algatatud arutelu all.
-- Kui kõik hindajad on andnud positiivse kommentaari ja ühtegi muud aktiivset arutelu infosüsteemi all ei ole, siis lisab RIA hindaja otsuse, et infosüsteem on kooskõlastatud ja sulgeb antud arutelu. **Sellega loetakse infosüsteem kooskõlastatuks.**
+- Kooskõlastavast otsusest antakse teada sinu poolt algatatud arutelus
+- 20 tööpäeva pärast kooskõlastuse küsimist sulgeb RIA hindaja kooskõlastuse küsimise arutelu. **Kui kõik hindajad on andnud kooskõlastava otsuse, siis loetakse infosüsteem kooskõlastatuks.**
+- Puuduse kohta algatatud arutelu jääb avatuks (aktiivseks) kuni puudus on kõrvaldatud
 
 ### Mida pean tegema, kui esimese korraga kooskõlastust ei saa?
 
@@ -70,14 +73,14 @@ Kui infosüsteem ei saa (esimese korraga) kooskõlastust, siis jäävad aktuaals
 
 ### Kui kaua pean kooskõlastust ootama?
 
-Kooskõlastamine toimub 20 tööpäeva jooksul.
+Kooskõlastamine toimub 20 tööpäeva jooksul. Hinnangu küsimise arutelus näed ka kuupäeva mis ajaks peavad hindajad otsused lisama.
 
 ## Kes saavad arutelusid avada ja sulgeda?
 
 Infosüsteemi omanikul on võimalik 
 - küsida tagasisidet enda infosüsteemile, mille järel on RIHA hindajatel kohustus infosüsteem 20 tööpäeva jooksul üle vaadata
-- kõikide enda infosüsteemide arutelude alla kommentaare lisada
-- märkida lahendatuks RIHA hindajate algatatud arutelusid, milles on esitatud infosüsteemi puudused. Soovituslikult võiks sellise arutelu märkida lahendatuks arutelu algatanud hindaja (pärast seda, kui on tutvunud esitatud lahenduse või selgitusega ning ka tema hinnangul on probleem lahendatud).
+- [kõikide enda infosüsteemidega seotud aruteludesse](https://www.riha.ee/MinuInfos%C3%BCsteemid/Arutelud) kommentaare lisada
+- märkida lahendatuks RIHA hindajate algatatud arutelusid, milles on esitatud infosüsteemi puudused. Soovituslikult võiks sellise arutelu märkida lahendatuks siiski arutelu algatanud hindaja (pärast seda, kui on tutvunud esitatud lahenduse või selgitusega ning ka tema hinnangul on probleem lahendatud).
 
 Infosüsteemi omanik ei saa lahendatuks märkida järgmisi arutelusid: _'Infosüsteemi asutamine'_, _'Infosüsteemi kasutusele võtmine'_, _'Andmekoosseisu muutmine'_ ja _'Infosüsteemi lõpetamine'_. Neid arutelusid märgib lahendatuks ainult RIA hindaja.
 
@@ -87,12 +90,12 @@ RIHA hindajatel on võimalik
 
 Arutelusid _'Infosüsteemi asutamine'_, _'Infosüsteemi kasutusele võtmine'_, _'Andmekoosseisu muutmine'_ ja _'Infosüsteemi lõpetamine'_ saab lahendatuks märkida ainult RIA hindaja.
 
-## Kust ma näen, milliseid hinnanguid on infosüsteemile antud?
+## Kuidas ma näen, milliseid hinnanguid on infosüsteemile antud?
 
 - Kõik hinnangute pealkirjad on nähtavad ka avalikust vaatest
 - Hinnangute arutelu on nähtav ainult infosüsteemi omanikule ning RIHA hindajatele
-- Kui infosüsteemile on märgitud puuduseid, siis on need nähtavad kohe **hindajate tagasiside** plokis aktiivsete arutelude all
-- Hetkel käimasolev asutamise, kasutusele võtmise, andmekoosseisu muutmise või infosüsteemi lõpetamise menetlus on samuti nähtav aktiivsete arutelude all. 20 tööpäeva möödudes märgitakse teema lahendatuks ning see ilmub suletud arutelude all.
+- Tuvastatud puudused on nähtavad **hindajate tagasiside** plokis aktiivsete arutelude all
+- Hetkel käimasolev asutamise, kasutusele võtmise, andmekoosseisu muutmise või infosüsteemi lõpetamise menetlus on samuti nähtav aktiivsete arutelude jaotises. 20 tööpäeva möödudes märgitakse teema lahendatuks ning see ilmub suletud arutelude jaotises.
 
 ## Kuidas saan aru, et minu infosüsteemi kasutusele võtmine on kooskõlastatud?
 
@@ -107,6 +110,3 @@ Kooskõlastatuks loetakse sellist infosüsteemi
 
 Jah, ka pärast kooskõlastamisele esitamist on võimalik infosüsteemi andmetes muudatusi teha, et vigu parandada.
 **Kui oled midagi parandanud või muutnud, lisa selle kohta ka kooskõlastamise algatamise arutellu kommentaar, et RIHA hindajad oleksid muudatusest teadlikud.**
-
-
-
