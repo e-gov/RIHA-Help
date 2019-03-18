@@ -25,7 +25,7 @@ Infosüsteemile hinnangu küsimise arutelus näidatakse nüüd ka kuupäeva, mis
 
 ### Dokumentide ja viidete liigid
 
-Dokumendi ja viite lisamisel saab nüüd märkida ka selle liigi: arhitektuuridokument, andmekaitseline mõjuhinnang, viide avaandmetele, kasutatav klassifikaator jne. Nii saab dokumentatsiooniga tutvuja või hindaja kiire ülevaate lisatud dokumentatsioonist. Endist viisi saab vajadusel dokumendile lisada ka juurdepääsupiirangu.
+Dokumendi ja viite lisamisel saab nüüd märkida ka selle liigi: arhitektuuridokument, andmekaitsealane mõjuhinnang, viide avaandmetele, kasutatav klassifikaator jne. Nii saab dokumentatsiooniga tutvuja või hindaja kiire ülevaate lisatud dokumentatsioonist. Endist viisi saab vajadusel dokumendile lisada ka juurdepääsupiirangu.
 
 ### Parem ülevaade
 
