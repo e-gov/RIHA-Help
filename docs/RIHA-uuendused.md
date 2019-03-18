@@ -5,7 +5,15 @@ title: Mis on RIHAs uut?
 
 ### Standardlahenduste kasutamine
 
-Nüüd on taas lihtsasti võimalik registreerida RIHAs andmekogu, mille pidamiseks kasutad standardlahendust, mis RIHAs juba registreeritud (nt dokumendiregistri pidamiseks kasutad mõnd standardset dokumendihaldussüsteemi). Standardlahenduse kasutajaks registreerumisel tuleb Sul kirjeldada milliste erisustega standardset infosüsteemi kasutad (nt moodulite nimed, versioon jms). Kui märgid selliselt registreeritavale andmekogule kasutamise staatuse, loetakse andmekogu RIHAs registreerituks. Standardlahenduselt automaatselt kõiki andmeid üle ei kanta, lisada tuleb kontaktisikud ja teave infoturbemeetmete rakendamisest ning vajadusel muuta ka teisi andmeid.
+Nüüd on taas lihtsasti võimalik registreerida RIHAs andmekogu, mille pidamiseks kasutad standardlahendust, mis on RIHAs juba registreeritud (nt dokumendiregistri pidamiseks kasutad mõnd standardset dokumendihaldussüsteemi). Kõige lihtsam on avada [standardlahendusena registreeritud infosüsteem](https://www.riha.ee/Systems?topic=standardlahendus&sort=meta.update_timestamp&dir=DESC) ning plokis "Seosed süsteemidega" klikkida nupul "Registreerin kasutajaks".
+
+![Standardlahenduse kasutajaks registreerimine](assets/images/data/register.PNG "Standardlahenduse kasutajaks registreerimine")
+
+Standardlahenduse kasutajaks registreerumisel tuleb Sul kirjeldada milliste erisustega standardset infosüsteemi kasutad (nt moodulite nimed, versioon jms).
+
+![Erisuste kirjeldamine](assets/images/data/register_step2.PNG "Erisuste kirjeldamine")
+
+Kui märgid selliselt registreeritavale andmekogule kasutamise staatuse, loetakse andmekogu RIHAs registreerituks. Standardlahenduselt automaatselt kõiki andmeid üle ei kanta, **lisada tuleb kontaktisikud ja teave infoturbemeetmete rakendamisest** ning vajadusel muuta ka teisi andmeid.
 
 ### Ülevaade organisatsiooni RIHA kirjeldajatest
 
