@@ -10,13 +10,16 @@ title: Infosüsteemide kirjeldamine RIHAs
 ## Kuidas saan RIHAsse infosüsteemi kirja panna?
 
 - Logi RIHAsse sisse
-- Vali esilehelt **Infosüsteemi haldamine** plokist **alustan** või liigu otse [Minu infosüsteemid](https://www.riha.ee/Kirjelda) vaatesse
-    - kui sul ei ole vastavaid õiguseid, siis [loe lähemalt RIHA õigustest](https://abi.riha.ee/RIHA-oigused-haldamine)
-- Vali lehe alaosas **Lisa uus**
-- Sisesta infosüsteemi esialgsed andmed ja vajuta **salvesta**
-  - Luuakse uus infosüsteemi sinu täidetud andmetega
-- Muuda infosüsteemi üldandmeid, dokumentatsiooni, lisa andmete kirjeldus ja märgi ka kontaktid
-- Kõiki andmeid on võimalik hiljem ka muuta
+- Vali esilehelt **Infosüsteemi haldamine** plokist **Alustan** või liigu otse vaatesse [Minu infosüsteemid](https://www.riha.ee/Kirjelda)
+    - Vali lehe alaosas **Lisa uus**
+    - Sisesta infosüsteemi esialgsed andmed ja vajuta **Salvesta**. Luuakse uus infosüsteem sinu lisatud andmetega.
+    - Muuda infosüsteemi üldandmeid, dokumentatsiooni, lisa andmete kirjeldus ja märgi ka kontaktid
+- Kui kasutad infosüsteemi pidamiseks **standardlahendust**, siis saad infosüsteemi kirja panna ka nii, et registreerid RIHAs kirjeldatud standardlahenduse kasutamise
+    - Ava [standardlahendusena registreeritud infosüsteem](https://www.riha.ee/Systems?topic=standardlahendus&sort=meta.update_timestamp&dir=DESC) ning plokis **Seosed süsteemidega** kliki nupul **Registreerin kasutajaks**
+    - Sisesta oma infosüsteemi nimi, lühinimi, eesmärk ja kasutamise erisused (nt moodulite nimed, versioon jms) ja vajuta **Salvesta**
+    - Luuakse uus infosüsteemi kirjeldus, kuhu kopeeritakse osa andmeid standardlahenduselt ning lisatakse sinu märgitud andmed
+    - Lisa kontaktisikud ja teave infoturbemeetmete rakendamisest
+- Kõiki andmeid on võimalik ka hiljem muuta
 
 ## Milline tähendus on RIHA väljadel?
 Infosüsteemide detailvaates on mitmeid välju, millel on oma tähendus. Infosüsteemi andmed jagunevad plokkideks, et tekitada parem struktureeritus. Rohkem infot RIHAs kirjeldamisest leiab [RIHA koolitusmaterjalide lehelt](https://moodle.ria.ee/course/view.php?id=16).
