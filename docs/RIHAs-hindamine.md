@@ -32,7 +32,8 @@ RIHAs antakse kooskõlastusi hinnangutena, mis koondatakse aruteludeks. Arutelud
 Kui infosüsteemi kirjeldamine on viidud lõpuni ning oled valmis seda kooskõlastamiseks esitama, siis
 - Liigu infosüsteemi **hindajate tagasiside** plokki
 - Vajuta **küsi hinnangut**
-- Avanenud modaalaknas vali, millist kooskõlastust on andmekogule vaja
+- Avanenud modaalaknas näitab RIHA sisestatud andmete automaatkontrolli tulemust. See annab ülevaate, kas kooskõlastamiseks vajalikud väljad on täidetud ja millised puudused võivad kooskõlastamist takistada (nt kontaktisikud on lisamata).
+- Vali, millist kooskõlastust on andmekogule vaja või katkesta hinnangu küsimine ja paranda automaatkontrollis näidatud puudused
   - Pane tähele, et andmekogusid peab seaduse järgi kooskõlastama enne asutamist, enne kasutusele võttu, enne andmekoosseisu muutmist ning enne lõpetamist.
   - Kui oled jäänud hiljaks infosüsteemi RIHAsse kandmisega ning infosüsteem on juba kasutusel, siis on sul samuti võimalik tagantjärgi kasutusele võtmise kooskõlastust küsida. 
     - Infosüsteemi staatuseks märgi alati süsteemi reaalne olek, sõltumata kooskõlastuse puudumisest
