@@ -3,9 +3,9 @@ title: Infosüsteemide kirjeldamine RIHAs
 ---
 
 ## Milliseid infosüsteeme on vaja RIHAsse kirja panna?
- RIHAsse pannakse kirja riigi, kohaliku omavalitsuse või muu avalik-õigusliku juriidilise isiku või avalikke ülesandeid täitva eraõigusliku isiku infosüsteemid, mis asutatakse ja mida kasutatakse seaduses, selle alusel antud õigusaktis või rahvusvahelises lepingus sätestatud ülesannete täitmiseks. 
+ RIHAsse pannakse kirja riigi, kohaliku omavalitsuse või muu avalik-õigusliku juriidilise isiku või avalikke ülesandeid täitva eraõigusliku isiku infosüsteemid, mis asutatakse ja mida kasutatakse seaduses, selle alusel antud õigusaktis või rahvusvahelises lepingus sätestatud ülesannete täitmiseks. Teisiti öeldes, RIHAs registreeritakse kõik sellised infosüsteemid, mis on andmekogud avaliku teabe seaduse mõistes ja muud selliste infosüsteemidega seotud ja X-teega liidestatud asutuse hallatavad infosüsteemid.
 
- Lisaks toimub RIHA kaudu ka X-tee alamsüsteemide registreerimine.
+ Lisaks registreeritakse RIHAs ka X-tee alamsüsteemid. [Loe rohkem X-tee alamsüsteemide registreerimisest](https://abi.riha.ee/X-tee-alamsysteem).
 
 ## Kuidas saan RIHAsse infosüsteemi kirja panna?
 
@@ -14,7 +14,7 @@ title: Infosüsteemide kirjeldamine RIHAs
     - Vali lehe alaosas **Lisa uus**
     - Sisesta infosüsteemi esialgsed andmed ja vajuta **Salvesta**. Luuakse uus infosüsteem sinu lisatud andmetega.
     - Muuda infosüsteemi üldandmeid, dokumentatsiooni, lisa andmete kirjeldus ja märgi ka kontaktid
-- Kui kasutad infosüsteemi pidamiseks **standardlahendust**, siis saad infosüsteemi kirja panna ka nii, et registreerid RIHAs kirjeldatud standardlahenduse kasutamise
+- Kui kasutad infosüsteemi pidamiseks [**standardlahendust**](standardlahenduse-kasutamise-registreerimine), siis saad infosüsteemi kirja panna ka nii, et registreerid RIHAs kirjeldatud standardlahenduse kasutamise
     - Ava [standardlahendusena registreeritud infosüsteem](https://www.riha.ee/Systems?topic=standardlahendus) ning plokis **Seosed süsteemidega** kliki nupul **Registreerin kasutajaks**
     - Sisesta nimi (kasuta andmekogu põhimääruses märgitud nime), lühinimi, eesmärk ja kirjelda milliste erisustega standardlahendust kasutad (nt moodulite nimed, versioon jms) ja vajuta **Salvesta**
     - Luuakse uue infosüsteemi kirjeldus, kuhu kopeeritakse osa andmeid ja dokumente standardlahenduselt ning lisatakse sinu märgitud andmed
@@ -51,9 +51,9 @@ Infosüsteemide detailvaates on mitmeid välju, millel on oma tähendus. Infosü
 
 ### Hindajate tagasiside
 
-Hindajate tagasiside plokk koondab endas infosüsteemi aktiivseid kui ka juba lahendatud probleeme. Kõik riigi infosüsteemi kuuluvad süsteemid peavad läbima enne asutamist, kasutusele võttu, andmekoosseisu muutmist või lõpetamist kooskõlastamise, et kontrollida nende vastavust nõuetele. Kooskõlastamise käigus vaatavad erinevad asutused infosüsteemi andmed üle. Juhul kui infosüsteem teatud nõuetele ei vasta, siis lisatakse neile tagasisideks probleemid, mis vajavad lahendamist.
+Hindajate tagasiside plokk koondab endas infosüsteemi aktiivseid kui ka juba lahendatud probleeme. Kõik riigi infosüsteemi kuuluvad süsteemid peavad läbima enne asutamist, kasutusele võttu, andmekoosseisu muutmist või lõpetamist kooskõlastamise, et kontrollida nende vastavust nõuetele. Kooskõlastamise käigus hindavad erinevad asutused infosüsteemi dokumentatsiooni. Kui infosüsteem teatud nõuetele ei vasta, siis lisatakse neile tagasisideks probleemid, mis vajavad lahendamist.
 
-Kui infosüsteemil on aktiivseid probleeme, siis ei ole see kasutamiseks lubatud.
+[Loe rohkem hindamisest](https://abi.riha.ee/RIHAs-hindamine).
 
 
 ### Andmed
@@ -66,15 +66,14 @@ RIHAs on jagatud andmed samuti kaheks:
 - Infosüsteemi kogutavad põhiandmed
   - Kuni 10 objektina kirjeldatult, milliseid põhiandmeid infosüsteemis kogutakse. Annab kiire ülevaate, milliseid andmeid on võimalik infosüsteemist saada.
 - Detailne andmekoosseis
-  - Faili kujul infosüsteemi täielik andmeobjektide koosseis, mis sisaldab nii põhiandmeid kui ka lisaandmeid. Lisaks on detailses andmekoosseisus ka näha, millisest infosüsteemist lisaandmeid saadakse.
+  - Faili kujul infosüsteemi täielik andmeobjektide nimekiri, mis sisaldab nii põhiandmeid kui ka lisaandmeid. Lisaks on detailses andmekoosseisus ka näha, millisest infosüsteemist lisaandmeid saadakse.
 
 ### Dokumentatsioon
 
 Dokumentatsiooni alla pannakse kirja infosüsteemi
 
-- tehniline kirjeldus
-- arhitektuuridokument
-- kasutatavad klassifikaatorid, viidetena vanas RIHAs kirjeldatud klassifikaatoritele (nt [Kasutatav klassifikaator: EHAK 2018v2](https://vana.riha.ee/riha/main/kla/eesti_haldus-_ja_asustusjaotuse_klassifikaator_2018v1_ver20))
+- tehniline kirjeldus, sh arhitektuuridokument (vt [dokumendimalli arhitektuuri kirjeldamiseks](https://moodle.ria.ee/mod/resource/view.php?id=671))
+- kasutatavad klassifikaatorid, märkides viite vanas RIHAs kirjeldatud klassifikaatorile ja valides viite liigiks _Kasutatav klassifikaator_ (nt [EHAK 2019v1](https://vana.riha.ee/riha/main/kla/eesti_haldus-_ja_asustusjaotuse_klassifikaator_2018v3_ver22))
 - muud teistele jagamiseks mõeldud dokumendid nagu liidestumise juhend, teenuste kirjeldus, kasutusjuhendid
 
 
@@ -98,7 +97,7 @@ Turvalisuse osas on oluline märkida:
 ### Kontaktid
 
 Infosüsteemi haldavate ja arendavate isikute kontaktid, kellele on võimalik täpsemaid küsimusi esitada.
-**Kontaktid on nähtavad vaid sisselogitud kasutajatele**.
+**Kontaktid on nähtavad vaid sisseloginud kasutajatele**.
 
 ### Seosed süsteemidega
 
