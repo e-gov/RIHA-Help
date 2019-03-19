@@ -34,9 +34,9 @@ title: X-tee alamsüsteemi abi
   - Kirjuta nimi ja meiliaadress (mõlemad kohustuslikud) > LISA > SALVESTA
   - _Kontaktisikuid näevad vaid sisselogitud kasutajad_
   - _Kontaktisikutele saadetakse iga kuu alamsüsteemi kasutusraport, mis näitab kes ja kui palju alamsüsteemi on kasutanud ning kas ja kui palju alamsüsteemist päringuid teistesse alamsüsteemidesse välja läheb (rohkem infot leiab [raportite lugemisjuhendist](https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/user_guide/ug_reports_et.md))._
-- Kui X-tee alamsüsteemi staatuseks on märgitud *Kasutusel* ja märksõna väljal on *X-tee alamsüsteem* ja/või *Andmeteenuste vahendamine*, siis on X-tee alamsüsteem RIHAs registreeritud
+- X-tee alamsüsteem on RIHAs registreeritud, kui tema staatuseks on märgitud *Kasutusel* ja märksõna väljal on *X-tee alamsüsteem* ja/või *Andmeteenuste vahendamine*
 
-X-tee alamsüsteemi kirjelduse korrektsust RIHAs kontrollib X-tee keskus turvaserveri liidese kaudu esitatud alamsüsteemi registreerimise taotluse menetlemisel. **X-tee keskus ei registreeri sellist alamsüsteemi, mida pole RIHAs või mille kirjeldus pole RIHAs täielik.**
+Alamsüsteemi kirjelduse korrektsust RIHAs kontrollib X-tee keskus turvaserveri liidese kaudu esitatud alamsüsteemi registreerimise taotluse menetlemisel. **X-tee keskus ei registreeri sellist alamsüsteemi, mida pole RIHAs või mille kirjeldus pole RIHAs täielik.**
 
 Kui X-tee keskus tuvastab RIHAs alamsüsteemi kirjelduses puuduse, siis algatab ta RIHAs arutelu (alamsüsteemile märgitud kontaktisikut teavitatakse e-kirjaga), milles kirjeldab leitud puudused ja selgitab kuidas neid kõrvaldada (kirjeldust muuta saab organisatsiooni RIHA kirjeldaja). X-tee keskus rahuldab turvaserveri liidese kaudu esitatud alamsüsteemi registreerimise taotluse pärast seda, kui alamsüsteemi omanik on kõrvaldanud arutelus kirjeldatud puudused.
 
