@@ -28,6 +28,7 @@ title: RIHA abikeskus
 
 - [Kuidas RIHA kataloogist teavet leida?](kataloogi-kasutamine)
 - [Kuidas RIHAs infosüsteeme kirjeldada?](RIHAs-kirjeldamine)
+- [Kuidas registreerida standardlahenduse kasutamist?](standardlahenduse-kasutamise-registreerimine)
 - [Milline tähendus on RIHA väljadel?](RIHAs-kirjeldamine#milline-tähendus-on-riha-väljadel)
 - [Mida pean pärast KOVide ühendamist RIHAs tegema?](kovide-yhendamine) 
 
