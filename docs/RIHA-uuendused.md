@@ -13,11 +13,11 @@ Standardlahenduse kasutajaks registreerumisel tuleb Sul kirjeldada milliste eris
 
 ![Erisuste kirjeldamine](assets/images/data/register_step2.PNG "Erisuste kirjeldamine")
 
-Kui märgid selliselt registreeritavale andmekogule kasutamise staatuse, loetakse andmekogu RIHAs registreerituks. Standardlahenduselt automaatselt kõiki andmeid üle ei kanta, **lisada tuleb kontaktisikud ja teave infoturbemeetmete rakendamisest** ning vajadusel muuta ka teisi andmeid.
+Kui märgid selliselt registreeritavale andmekogule kasutamise staatuse, loetakse andmekogu RIHAs registreerituks. Standardlahenduselt automaatselt kõiki andmeid üle ei kanta. **Lisada tuleb kindlasti kontaktisikud** (kellelt nt hindajad saavad vajadusel küsida andmekogu kohta lisainfot), **teave infoturbemeetmete rakendamisest, andmekogu pidamise põhimäärus ning staatus** (_asutamisel_, _kasutusel_) ja vajadusel muuta ka teisi andmeid.
 
 ### Ülevaade organisatsiooni RIHA kirjeldajatest
 
-RIHA kirjeldajad saavad nüüd lisandunud vaatest ["Minu organisatsioon"](https://www.riha.ee/Minu/Organisatsioon) ülevaate oma organisatsiooni RIHA kirjeldajatest. Teisisõnu näeb kirjeldaja seal nimekirja nendest isikutest, kes tema organisatsioonist saavad lisada RIHAsse uusi infosüsteeme ja muuta juba RIHAs olevate infosüsteemide kirjeldusi. Kirjeldajate eemaldamiseks või lisamiseks tuleb saata e-kiri RIA kasutajatoele help@ria.ee. RIHA hindaja näeb nimekirjas ka neid isikuid, kes tema organisatsioonis saavad infosüsteemidele hinnanguid lisada.
+RIHA kirjeldajad saavad nüüd lisandunud vaatest [Minu organisatsioon](https://www.riha.ee/Minu/Organisatsioon) ülevaate oma organisatsiooni RIHA kirjeldajatest. Teisisõnu näeb kirjeldaja seal nimekirja nendest isikutest, kes tema organisatsioonist saavad lisada RIHAsse uusi infosüsteeme ja muuta juba RIHAs olevate infosüsteemide kirjeldusi. Kirjeldajate eemaldamiseks või lisamiseks tuleb saata e-kiri RIA kasutajatoele help@ria.ee. RIHA hindaja näeb nimekirjas ka neid isikuid, kes tema organisatsioonis saavad infosüsteemidele hinnanguid lisada.
 
 ### Kooskõlastamist mitte nõudvate infosüsteemide registreerimine
 
