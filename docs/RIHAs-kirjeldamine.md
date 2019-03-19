@@ -102,6 +102,6 @@ Infosüsteemi haldavate ja arendavate isikute kontaktid, kellele on võimalik t�
 
 ### Seosed süsteemidega
 
-Kui infosüsteem kasutab andmevahetuseks X-teed, märgi tema [X-tee alamsüsteemid](https://abi.riha.ee/X-tee-alamsysteem) alaminfosüsteemideks. Kui kasutad standardlahendust, lisa selle nimetus ja vali seose tüübiks **kasutatav standardlahendus** või [registreeri standardlahenduse kasutamine](http://abi.riha.ee/standardlahenduse-kasutamise-registreerimine).
+Kui infosüsteem kasutab andmevahetuseks X-teed, märgi tema [X-tee alamsüsteemid](https://abi.riha.ee/X-tee-alamsysteem) alaminfosüsteemideks. Kui kasutad standardlahendust, lisa selle nimetus ja vali seose tüübiks **kasutatav standardlahendus** või [registreeri standardlahenduse kasutamine](https://abi.riha.ee/standardlahenduse-kasutamise-registreerimine).
 
 Mitmest alaminfosüsteemist koosneva infosüsteemi kirjeldamisel lisa ka seosed nende alaminfosüsteemidga. Alaminfosüsteemi kirjeldamisel lisa seos tema üleminfosüsteemiga.
