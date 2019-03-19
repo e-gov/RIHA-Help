@@ -15,11 +15,10 @@ title: Infosüsteemide kirjeldamine RIHAs
     - Sisesta infosüsteemi esialgsed andmed ja vajuta **Salvesta**. Luuakse uus infosüsteem sinu lisatud andmetega.
     - Muuda infosüsteemi üldandmeid, dokumentatsiooni, lisa andmete kirjeldus ja märgi ka kontaktid
 - Kui kasutad infosüsteemi pidamiseks **standardlahendust**, siis saad infosüsteemi kirja panna ka nii, et registreerid RIHAs kirjeldatud standardlahenduse kasutamise
-    - Ava [standardlahendusena registreeritud infosüsteem](https://www.riha.ee/Systems?topic=standardlahendus&sort=meta.update_timestamp&dir=DESC) ning plokis **Seosed süsteemidega** kliki nupul **Registreerin kasutajaks**
-    - Sisesta oma infosüsteemi nimi, lühinimi, eesmärk ja kasutamise erisused (nt moodulite nimed, versioon jms) ja vajuta **Salvesta**
-    - Luuakse uus infosüsteemi kirjeldus, kuhu kopeeritakse osa andmeid standardlahenduselt ning lisatakse sinu märgitud andmed
-    - Lisa kontaktisikud ja teave infoturbemeetmete rakendamisest
-- Kõiki andmeid on võimalik ka hiljem muuta
+    - Ava [standardlahendusena registreeritud infosüsteem](https://www.riha.ee/Systems?topic=standardlahendus) ning plokis **Seosed süsteemidega** kliki nupul **Registreerin kasutajaks**
+    - Sisesta nimi (kasuta andmekogu põhimääruses märgitud nime), lühinimi, eesmärk ja kirjelda milliste erisustega standardlahendust kasutad (nt moodulite nimed, versioon jms) ja vajuta **Salvesta**
+    - Luuakse uue infosüsteemi kirjeldus, kuhu kopeeritakse osa andmeid ja dokumente standardlahenduselt ning lisatakse sinu märgitud andmed
+    - Lisa kindlasti kontaktisikud (kellelt nt hindajad saavad vajadusel küsida sinu andmekogu kohta lisainfot), teave infoturbemeetmete rakendamisest, andmekogu pidamise põhimäärus ning staatus (_asutamisel_, _kasutusel_). Vajadusel muuda ka teisi andmeid.
 
 ## Milline tähendus on RIHA väljadel?
 Infosüsteemide detailvaates on mitmeid välju, millel on oma tähendus. Infosüsteemi andmed jagunevad plokkideks, et tekitada parem struktureeritus. Rohkem infot RIHAs kirjeldamisest leiab [RIHA koolitusmaterjalide lehelt](https://moodle.ria.ee/course/view.php?id=16).
