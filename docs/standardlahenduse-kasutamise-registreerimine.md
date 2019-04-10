@@ -29,6 +29,12 @@ _Näide: Eesti koolide haldamise infosüsteem (EKIS) on infosüsteem, mida ligi 
 
 Vajad [RIHA kirjeldaja õigust](https://abi.riha.ee/RIHA-oigused-haldamine), toimi järgmiselt:
 - Ava [standardlahendusena registreeritud infosüsteem](https://www.riha.ee/Systems?topic=standardlahendus) ning plokis **Seosed süsteemidega** kliki nupul **Registreerin kasutajaks**
+
+![Standardlahenduse kasutajaks registreerimine](assets/images/data/register.PNG "Standardlahenduse kasutajaks registreerimine")
+
 - Sisesta nimi (kasuta andmekogu põhimääruses märgitud nime), lühinimi, eesmärk ja kirjelda milliste erisustega standardlahendust kasutad (nt moodulite nimed, versioon jms) ja vajuta **Salvesta**
-- Luuakse uue infosüsteemi kirjeldus, kuhu kopeeritakse osa andmeid ja dokumente standardlahenduselt ning lisatakse sinu märgitud andmed
+
+![Erisuste kirjeldamine](assets/images/data/register_step2.PNG "Erisuste kirjeldamine")
+
+- Luuakse uue infosüsteemi kirjeldus, kuhu kopeeritakse osa andmeid ja dokumente standardlahenduselt ning lisatakse Sinu märgitud andmed
 - Lisa kindlasti kontaktisikud (kellelt nt hindajad saavad vajadusel küsida sinu andmekogu kohta lisainfot), teave infoturbemeetmete rakendamisest, andmekogu pidamise põhimäärus ning staatus (_asutamisel_, _kasutusel_). Vajadusel muuda ka teisi andmeid.
