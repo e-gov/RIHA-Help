@@ -28,8 +28,8 @@ title: X-tee alamsüsteemi abi
 - Infosüsteemi märksõnade lahtrisse kirjuta *X-tee alamsüsteem*
   - [Andmeteenuseid vahendava alamsüsteemi](https://moodle.ria.ee/mod/page/view.php?id=382) korral kirjuta märksõnade lahtrisse lisaks *Andmeteenuste vahendamine* ja lisa dokumentatsiooni plokki **andmeteenuste vahendamise kord** ([loe, mida kord peab sisaldama](https://www.riigiteataja.ee/akt/127092016004#para13lg2))
 - Vali dokumentide paneeli ülaosast MUUDA ning vajadusel lisa tehnilise dokumentatsiooni viited
-  - Eraõiguslik X-tee liige, kelle infosüsteem ei ole avaliku teabe seaduse tähenduses andmekogu ja kelle infosüsteemi ei kasutata avaliku teenuse osutamiseks, peab lisama dokumentide alla ettevõtte esindusõigusliku isiku digitaalselt allkirjastatud [nõuetele vastavuse kinnitus](https://github.com/e-gov/RIHA-Help/raw/master/docs/xtee_nouetele_vastavus_kinnitus.pdf). Volitatud esindusõiguse puhul lisa digidoc konteinerisse enne dokumendi allkirjastamist juurde ka volikiri või lisa volikiri eraldi failina.
-  - Kirjuta dokumendi nimi ja veebiviide või lisa dokument manusena > LISA > SALVESTA
+  - Eraõiguslik X-tee liige, kelle infosüsteem ei ole avaliku teabe seaduse tähenduses andmekogu ja kelle infosüsteemi ei kasutata avaliku teenuse osutamiseks, peab dokumentide alla lisama ettevõtte esindusõigusliku isiku digitaalselt allkirjastatud [nõuetele vastavuse kinnituse](https://github.com/e-gov/RIHA-Help/raw/master/docs/xtee_nouetele_vastavus_kinnitus.pdf). Volitatud esindusõiguse puhul lisa DigiDoc konteinerisse enne allkirjastamist ka volikiri või lisa volikiri eraldi failina.
+  - Lisa dokument manusena > vali faili liik _Nõuetele vastavuse kinnitus_ > LISA > SALVESTA
 - Vali kontaktide paneeli ülaosast MUUDA ning lisa kontaktisikud: alamsüsteemi toimimise eest vastutav füüsiline isik ja alamsüsteemi teenindava turvaserveri administraatori kontaktandmed
   - Kirjuta nimi ja meiliaadress (mõlemad kohustuslikud) > LISA > SALVESTA
   - _Kontaktisikuid näevad vaid sisselogitud kasutajad_
