@@ -162,10 +162,6 @@ RIHA masinliides on kirjeldatud OpenAPI (Swagger) vormingus. Kirjeldus asub:
 
 [RIHA-Browser API](https://raw.githubusercontent.com/e-gov/RIHA-Browser/master/backend/src/main/resources/static/swagger.yaml).
 
-Kirjeldust saate sirvida ka ReDoc vormingus:
-
-[https://kertuhiire.github.io/RIHA-Help/](https://kertuhiire.github.io/RIHA-Help/).
-
 Abiks võib olla ka [RIHA andmete JSON-skeem](https://github.com/e-gov/RIHA-Browser/blob/master/backend/src/main/resources/infosystem_schema.json).
 
 ## Andmekasutajad
