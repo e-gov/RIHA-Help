@@ -80,7 +80,7 @@ Väljastatakse Kutselise kalapüügi registri masinloetav kirjeldus (`kir.agri` 
 }
 ```
 
-Nõuanne: Paigaldades veebisirvijasse JSON-i vaatamise laienduse, saate andmeid näha trepitult.
+Nõuanne: paigaldades veebisirvijasse JSON-i vaatamise laienduse, saate andmeid näha trepitult.
 
 ## Mis andmeid RIHA masinliides pakub?
 
