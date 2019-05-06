@@ -158,9 +158,7 @@ Näiteks
 
 ## Masinliidese formaalne kirjeldus
 
-RIHA masinliides on kirjeldatud OpenAPI (Swagger) vormingus. Kirjeldus asub:
-
-[RIHA-Browser API](https://raw.githubusercontent.com/e-gov/RIHA-Browser/master/backend/src/main/resources/static/swagger.yaml).
+RIHA masinliides on kirjeldatud _OpenAPI (Swagger)_ vormingus. Kirjelduse asukoht: [RIHA-Browser API](https://raw.githubusercontent.com/e-gov/RIHA-Browser/master/backend/src/main/resources/static/swagger.yaml).
 
 Abiks võib olla ka [RIHA andmete JSON-skeem](https://github.com/e-gov/RIHA-Browser/blob/master/backend/src/main/resources/infosystem_schema.json).
 
