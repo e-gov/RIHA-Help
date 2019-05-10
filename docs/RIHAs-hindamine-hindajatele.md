@@ -25,7 +25,7 @@ Harva küsitakse kooskõlastust ka infosüsteemidele, mis oma olemuselt on X-tee
   ![X-tee alamsüsteem](assets/images/data/subsystem.png "X-tee alamsüsteem")
 
 ## Kuidas hinnangut lisada?
-Tee otsus 20 tööpäeva jooksul ja lisa hinnang kooskõlastuse küsimise arutellu. **RIHA rakendus 20 tööpäeva lõppemisest hindajatele meeldetuletusi ei saada.** Kui soovid kooskõlastada märkustega või tingimuslikul, siis lisa märkused või tingimused samuti samasse arutellu otsuse juurde.
+Tee otsus 20 tööpäeva jooksul ja lisa hinnang kooskõlastuse küsimise arutellu. **RIHA rakendus 20 tööpäeva lõppemisest hindajatele meeldetuletusi ei saada.** Kui soovid kooskõlastada märkustega või tingimuslikult, siis lisa märkused või tingimused samuti samasse arutellu otsuse juurde.
 
 Kõiki kooskõlastamiseks esitatud infosüsteeme ja RIHAsse otsuse lisamise tähtpäevi näed [töölaual](https://www.riha.ee/Hinda). Samast saad ka [ülevaate leitud puuduste kohta algatatud aruteludest](https://www.riha.ee/Hinda#aktiivsed-arutelud).
 
