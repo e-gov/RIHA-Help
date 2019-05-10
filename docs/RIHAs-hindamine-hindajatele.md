@@ -43,7 +43,7 @@ Uue puuduse kirjeldamiseks
 - Lisa probleemi detailsemalt kirjeldav kommentaar
   - Kommentaaris kirjelda võimalikult täpselt, milles probleem seisneb: kui tegemist on veaga RIHAs olevas kirjelduses/dokumendis, siis anna selle kohta viide. Kui viga on õigusaktis, siis anna selle kohta viide.
   - Lisa võimalusel juhendi viide, mille alusel peaks kasutaja probleemi parandama.
-  - _**Salvesta**_
+ - _**Salvesta**_
 
   ![Arutelu lisamine](assets/images/data/new-issue.png "Uue arutelu lisamine")
 
