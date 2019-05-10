@@ -43,10 +43,9 @@ Uue puuduse kirjeldamiseks
 - Lisa probleemi detailsemalt kirjeldav kommentaar
   - Kommentaaris kirjelda võimalikult täpselt, milles probleem seisneb: kui tegemist on veaga RIHAs olevas kirjelduses/dokumendis, siis anna selle kohta viide. Kui viga on õigusaktis, siis anna selle kohta viide.
   - Lisa võimalusel juhendi viide, mille alusel peaks kasutaja probleemi parandama.
+  - _**Salvesta**_
 
   ![Arutelu lisamine](assets/images/data/new-issue.png "Uue arutelu lisamine")
-
-- _**Salvesta**_
 
 Arutelu lisamisest teavitab RIHA kõiki infosüsteemile lisatud kontaktisikuid. RIA on kirjeldajate koolitusmaterjalides andnud [soovituse](https://moodle.ria.ee/mod/page/view.php?id=665), et infosüsteemi omanik lisaks kontaktisikuks ka RIHAs muutmisõigust omava isiku. Kui arutelusse lisatakse uusi kommentaare, siis saadetakse need arutelus osalejate (algataja ja kommenteerijad) meiliaadressile. Teavituses on ka otseviide arutelule, kus saab lisada uusi kommentaare.
 
