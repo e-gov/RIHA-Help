@@ -79,7 +79,7 @@ Kui infosüsteemi dokumentatsioon sisaldab asutusesiseseks kasutamiseks mõeldud
 
 ### Hindajate töölaud
 
-Et RIHA hindajatel oleks hõlpsam leida kooskõlastamiseks esitatud infosüsteeme ja aktiivseid arutelusid, on nüüdsest RIHA hindajatel eraldi menüü 'Hinda', millelt avaneb töölaud. Töölaual näeb RIHA hindaja neid infosüsteeme, mis on esitatud kooskõlastamiseks, aga pole veel hindajaga seotud asutuselt hinnangut saanud. Lisaks kooskõlastamisele esitatud infosüsteemidele saab töölaualt ka vaate nendest aruteludest, kus on hindaja või temaga seotud asutus sõna võtnud (algatanud arutelu või kommenteerinud).
+Et RIHA hindajatel oleks hõlpsam leida kooskõlastamiseks esitatud infosüsteeme ja aktiivseid arutelusid, on nüüdsest RIHA hindajatel eraldi menüü 'Hinda', millelt avaneb töölaud. Töölaual näeb RIHA hindaja neid infosüsteeme, mis on esitatud kooskõlastamiseks, aga pole veel hindajaga seotud asutuselt hinnangut saanud. Lisaks saab töölaualt ka ülevaate nendest aruteludest, kus hindaja või temaga seotud asutus on sõna võtnud (algatanud arutelu või kommenteerinud).
 
 ### Parem kommentaaride vormindamine
 
