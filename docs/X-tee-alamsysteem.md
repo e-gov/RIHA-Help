@@ -26,19 +26,19 @@ title: X-tee alamsüsteemi abi
 ### X-tee alamsüsteemi kirjelduse täiendamine
 
 - Infosüsteemi märksõnade lahtrisse kirjuta *X-tee alamsüsteem*
-  - [Andmeteenuseid vahendava alamsüsteemi](https://moodle.ria.ee/mod/page/view.php?id=382) korral kirjuta märksõnade lahtrisse lisaks *Andmeteenuste vahendamine* ja lisa dokumentatsiooni plokki **andmeteenuste vahendamise kord** ([loe, mida kord peab sisaldama](https://www.riigiteataja.ee/akt/127092016004#para13lg2))
-- Vali dokumentide paneeli ülaosast MUUDA ning vajadusel lisa tehnilise dokumentatsiooni viited
-  - Eraõiguslik X-tee liige, kelle infosüsteem ei ole avaliku teabe seaduse tähenduses andmekogu ja kelle infosüsteemi ei kasutata avaliku teenuse osutamiseks, peab dokumentide alla lisama ettevõtte esindusõigusliku isiku digitaalselt allkirjastatud [nõuetele vastavuse kinnituse](https://github.com/e-gov/RIHA-Help/raw/master/docs/xtee_nouetele_vastavus_kinnitus.pdf). Volitatud esindusõiguse puhul lisa DigiDoc konteinerisse enne allkirjastamist ka volikiri või lisa volikiri eraldi failina.
+  - [Andmeteenuseid vahendava alamsüsteemi](https://moodle.ria.ee/mod/page/view.php?id=382) korral kirjuta märksõnade väljale lisaks *Andmeteenuste vahendamine* ja lisa dokumentatsiooni plokki **andmeteenuste vahendamise kord** ([loe, mida kord peab sisaldama](https://www.riigiteataja.ee/akt/127092016004#para13lg2))
+- Vali dokumentatsiooni ploki ülaosast MUUDA ning vajadusel lisa viited tehnilisele dokumentatsioonile
+  - Eraõiguslik X-tee liige, kelle infosüsteem ei ole avaliku teabe seaduse tähenduses andmekogu ja kelle infosüsteemi ei kasutata avaliku teenuse osutamiseks, peab dokumentatsiooni plokki lisama ettevõtte esindusõigusliku isiku digitaalselt allkirjastatud [nõuetele vastavuse kinnituse](https://github.com/e-gov/RIHA-Help/raw/master/docs/xtee_nouetele_vastavus_kinnitus.pdf). Volitatud esindusõiguse puhul lisa DigiDoc konteinerisse enne allkirjastamist ka volikiri või lisa volikiri eraldi failina.
   - Lisa dokument manusena > vali faili liik _Nõuetele vastavuse kinnitus_ > LISA > SALVESTA
-- Vali kontaktide paneeli ülaosast MUUDA ning lisa kontaktisikud: alamsüsteemi toimimise eest vastutav füüsiline isik ja alamsüsteemi teenindava turvaserveri administraatori kontaktandmed
+- Vali kontaktide ploki ülaosast MUUDA ning lisa kontaktisikud: alamsüsteemi toimimise eest vastutav füüsiline isik ja alamsüsteemi teenindava turvaserveri administraatori kontaktandmed
   - Kirjuta nimi ja meiliaadress (mõlemad kohustuslikud) > LISA > SALVESTA
   - _Kontaktisikuid näevad vaid sisselogitud kasutajad_
   - _Kontaktisikutele saadetakse iga kuu alamsüsteemi kasutusraport, mis näitab kes ja kui palju alamsüsteemi on kasutanud ning kas ja kui palju alamsüsteemist päringuid teistesse alamsüsteemidesse välja läheb (rohkem infot leiab [raportite lugemisjuhendist](https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/user_guide/ug_reports_et.md))._
 - X-tee alamsüsteem on RIHAs registreeritud, kui tema staatuseks on märgitud *Kasutusel* ja märksõna väljal on *X-tee alamsüsteem* ja/või *Andmeteenuste vahendamine*
 
-Alamsüsteemi kirjelduse korrektsust RIHAs kontrollib X-tee keskus turvaserveri liidese kaudu esitatud alamsüsteemi registreerimise taotluse menetlemisel. **X-tee keskus ei registreeri sellist alamsüsteemi, mida pole RIHAs või mille kirjeldus pole RIHAs täielik.**
+Alamsüsteemi kirjelduse korrektsust RIHAs (ja andmeteenuste vahendamisel ka andmeteenuste vahendamise korra vastavust nõuetele)  kontrollib X-tee keskus pärast seda, kui oled ka turvaserveri liidesest esitanud selle sama alamsüsteemi X-teel registreerimise taotluse. [Loe X-tee rakendusjuhise peatükist 4.2, kuidas seda teha](https://moodle.ria.ee/mod/page/view.php?id=288). **X-tee keskus ei registreeri sellist alamsüsteemi, mida pole RIHAs või mille kirjeldus pole RIHAs täielik.**
 
-Kui X-tee keskus tuvastab RIHAs alamsüsteemi kirjelduses puuduse, siis algatab ta RIHAs arutelu (alamsüsteemile märgitud kontaktisikut teavitatakse e-kirjaga), milles kirjeldab leitud puudused ja selgitab kuidas neid kõrvaldada (kirjeldust muuta saab organisatsiooni RIHA kirjeldaja). X-tee keskus rahuldab turvaserveri liidese kaudu esitatud alamsüsteemi registreerimise taotluse pärast seda, kui alamsüsteemi omanik on kõrvaldanud arutelus kirjeldatud puudused.
+Kui X-tee keskus tuvastab RIHAs alamsüsteemi kirjelduses puuduse, siis algatab ta RIHAs arutelu (alamsüsteemile märgitud kontaktisikut teavitatakse e-kirjaga), milles kirjeldab leitud puudused ja selgitab kuidas neid kõrvaldada (kirjeldust muuta saab organisatsiooni RIHA kirjeldaja). Turvaserveri liidesest esitatud alamsüsteemi registreerimise taotlus rahuldatakse pärast seda, kui alamsüsteemi omanik on kõrvaldanud arutelus kirjeldatud puudused.
 
 ### X-tee alamsüsteemide haldamine
 
