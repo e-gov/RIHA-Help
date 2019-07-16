@@ -55,6 +55,7 @@ Uues RIHAs puudub klassifikaatorite moodul. Kõik senised klassifikaatorid võib
   - vaadata
   - üles laadida
   - andmekoosseisuga siduda
+  
 Küll aga on võimalik piiratud aja jooksul tutvuda seniste sõnastike ja terminitega vanas RIHAs.
 
 ### X-tee teenused
