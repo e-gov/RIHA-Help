@@ -61,11 +61,9 @@ Küll aga on võimalik piiratud aja jooksul tutvuda seniste sõnastike ja termin
 
 - Uues RIHAs on ainult infosüsteemide ning X-tee alamsüsteemide kirjed, täpsemat infot X-tee teenuste kohta uues RIHAs ei ole
 - Teenuseid otsida ning nende WSDL-e vaadata RIHA vahendusel ei saa
-- Teenuste kirjeldusi inimloetaval kujul on võimalik lisada infosüsteemi dokumentatsiooni alla
+- Teenuste kirjeldusi inimloetaval kujul on võimalik lisada infosüsteemi dokumentatsiooni plokki
 
-X-tee alamsüsteemide teenuste ning WSDL-ide kuvamiseks tekitatakse X-tee kataloog, mis hakkab kuvama andmeid automatiseeritult. Nii ei ole vaja kasutajatel eraldi teenuste WSDL-e RIHAsse kirja panna või neid üles loetleda.
-
-X-tee kataloogi prototüübiga saab tutvuda aadressil [https://www.x-tee.ee/catalogue/EE/wsdls/](https://www.x-tee.ee/catalogue/EE/wsdls/). Kataloogis kuvatakse X-tee toodangukeskkonna (EE) andmeid.
+X-tee alamsüsteemide kataloog teenuste ja WSDL kirjeldustega asub aadressil [https://www.x-tee.ee/catalogue/EE](https://www.x-tee.ee/catalogue/EE). Kataloog on genereeritud metapäringute _getWsdl_ tulemustest RIA monitooringu turvaserveri poolt kõigist X-tee alamsüsteemidest, kuvatakse X-tee toodangu-, test- ja arenduskeskkonna (EE, ee-test, ee-dev) andmeid.
 
 ### X-tee sertifikaatide taotlemine
 
