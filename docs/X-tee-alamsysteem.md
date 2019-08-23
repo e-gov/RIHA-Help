@@ -26,7 +26,7 @@ title: X-tee alamsüsteemi abi
 ### X-tee alamsüsteemi kirjelduse täiendamine
 
 - Infosüsteemi märksõnade lahtrisse kirjuta *X-tee alamsüsteem*
-  - [Andmeteenuseid vahendava alamsüsteemi](https://moodle.ria.ee/mod/page/view.php?id=382) korral kirjuta märksõnade väljale lisaks *Andmeteenuste vahendamine* ja lisa dokumentatsiooni plokki **andmeteenuste vahendamise kord** ([loe, mida kord peab sisaldama](https://www.riigiteataja.ee/akt/127092016004#para13lg2))
+  - [Andmeteenuseid vahendava alamsüsteemi](https://moodle.ria.ee/mod/page/view.php?id=382) korral kirjuta märksõnade väljale lisaks *Andmeteenuste vahendamine* ja lisa dokumentatsiooni plokki **andmeteenuste vahendamise kord** ([loe, mida kord peab sisaldama](https://www.riigiteataja.ee/akt/127092016004?leiaKehtiv#para13lg2))
 - Vali dokumentatsiooni ploki ülaosast MUUDA ning vajadusel lisa viited tehnilisele dokumentatsioonile
   - Eraõiguslik X-tee liige, kelle infosüsteem ei ole avaliku teabe seaduse tähenduses andmekogu ja kelle infosüsteemi ei kasutata avaliku teenuse osutamiseks, peab dokumentatsiooni plokki lisama ettevõtte esindusõigusliku isiku digitaalselt allkirjastatud [nõuetele vastavuse kinnituse](https://github.com/e-gov/RIHA-Help/raw/master/docs/xtee_nouetele_vastavus_kinnitus.pdf). Volitatud esindusõiguse puhul lisa DigiDoc konteinerisse enne allkirjastamist ka volikiri või lisa volikiri eraldi failina.
   - Lisa dokument manusena > vali faili liik _Nõuetele vastavuse kinnitus_ > LISA > SALVESTA
