@@ -11,7 +11,7 @@ title: RIHA pääsuõiguste haldamine
 
 ## Kellel minu asutusest on kirjeldaja õigused?
 - Kui oled ise RIHA kirjeldaja ja soovid ülevaadet inimestest, kellel on õigus sinu asutuse infosüsteeme RIHAs kirjeldada, siis ava oma organisatsiooni [kirjeldate nimekirja vaade](https://www.riha.ee/Minu/Organisatsioon)
-- Kui soovid RIHAsse õiguseid saada, kuid puudub teave, kes RIHAs asju haldab, siis on kõige lihtsam võtta ühendust kontaktiga, mis on sinu asutuse infosüsteemi juurde lisatud
+- Kui soovid RIHAsse õiguseid saada, kuid puudub teave, kes asutusest RIHAs asju haldab, siis on kõige lihtsam kirjutada RIA kasutajatoele help@ria.ee
 - Kontaktide nägemiseks pead olema RIHAsse sisse loginud
 
 ## Kuidas enda asutusele uut kirjeldajat lisada?
