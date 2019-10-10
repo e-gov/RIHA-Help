@@ -15,13 +15,11 @@ title: X-tee alamsüsteemi abi
 
 - Vajuta avalehel X-teega liitumise kastis [Alustan](https://www.riha.ee/Kirjelda/Uus)
 - Lisa uue alamsüsteemi andmed
-  - Nimi – Mis alamsüsteemiga on tegu? (Nimetus võiks sisaldada sõna „X-tee alamsüsteem“)
-  - Lühinimi – kujul *_asutuse registrikood – nimetus_* . Lühinimi võib sisaldada ainult ladina tähti (mitte täpitähti), numbreid, punkti ja miinusmärki. Nt *12345678-riha*.
-  - Infosüsteemi eesmärk – Miks alamsüsteem luuakse? Milliste infosüsteemidega on alamsüsteem seotud? Kes majutab turvaserverit?
-  - Salvesta
-
-- Pärast salvestamist avaneb loodud alamsüsteemi detailvaade ja on võimalik muuta alamsüsteemi andmeid: näiteks valida uus lühinimi, muuta eesmärki või alamsüsteemi nime.
-- Kui mingil põhjusel sai valitud vale lühinimi, siis ei ole vaja alamsüsteemi registreerimist uuesti alustada, vaid tuleb muuta juba alustatud süsteemi andmeid.
+  - Nimi – Mis alamsüsteemiga on tegu? (nimes võiks sisalduda „X-tee alamsüsteem“)
+  - Lühinimi – kujul *asutuse registrikood – nimetus*. Lühinimi võib sisaldada ainult ladina tähti (mitte täpitähti), numbreid, punkti ja miinusmärki; näiteks *12345678-alamsysteeminimi*. Lühinime nimetuse osas on soovitatav kajastada sobiliku lühendina eesmärki. Nt 12345678-klient asutuse poolt teiste infosüsteemide teenuste tarbimiseks. Soovitame vältida tarkvara-spetsiifilisi nimetusi.
+**NB!** Lühinimega seotakse hilisem X-tee andmeteenuste kasutus, selle muutmine pärast kasutuselevõttu võib lõhkuda need seosed.
+  - Infosüsteemi eesmärk – Miks alamsüsteem luuakse? Kes majutab turvaserverit? Milliste infosüsteemidega on alamsüsteem seotud?
+  - Salvesta ja **täienda kirjeldust**
 
 ### X-tee alamsüsteemi kirjelduse täiendamine
 
