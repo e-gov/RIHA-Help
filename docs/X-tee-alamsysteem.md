@@ -16,8 +16,8 @@ title: X-tee alamsüsteemi abi
 - Vajuta avalehel X-teega liitumise kastis [Alustan](https://www.riha.ee/Kirjelda/Uus)
 - Lisa uue alamsüsteemi andmed
   - Nimi – Mis alamsüsteemiga on tegu? (nimes võiks sisalduda „X-tee alamsüsteem“)
-  - Lühinimi – kujul *asutuse registrikood – nimetus*. Lühinimi võib sisaldada ainult ladina tähti (mitte täpitähti), numbreid, punkti ja miinusmärki; näiteks *12345678-alamsysteeminimi*. Lühinime nimetuse osas on soovitatav kajastada sobiliku lühendina eesmärki. Nt 12345678-klient asutuse poolt teiste infosüsteemide teenuste tarbimiseks. Soovitame vältida tarkvara-spetsiifilisi nimetusi.
-**NB!** Lühinimega seotakse hilisem X-tee andmeteenuste kasutus, selle muutmine pärast kasutuselevõttu võib lõhkuda need seosed.
+  - Lühinimi – kujul *asutuse registrikood – nimetus*. Lühinimi võib sisaldada ainult ladina tähti (mitte täpitähti), numbreid, punkti ja miinusmärki; näiteks *12345678-panesiiamidagi*. Lühinime nimetuse osas soovitame väljendada alamsüsteemi eesmärki: näiteks lühinimi *12345678-klient* märgiks asutuse poolt teiste infosüsteemide teenuste tarbimiseks loodavat alamsüsteemi. Soovitame ka vältida tarkvara-spetsiifilisi nimetusi.
+**Juhime tähelepanu**, et lühinimega seotakse hilisem X-tee andmeteenuste kasutus, selle muutmine pärast kasutuselevõttu võib need seosed lõhkuda.
   - Infosüsteemi eesmärk – Miks alamsüsteem luuakse? Kes majutab turvaserverit? Milliste infosüsteemidega on alamsüsteem seotud?
   - Salvesta ja **täienda kirjeldust**
 
@@ -32,7 +32,7 @@ title: X-tee alamsüsteemi abi
   - Kirjuta nimi ja meiliaadress (mõlemad kohustuslikud) > LISA > SALVESTA
   - _Kontaktisikuid näevad vaid sisselogitud kasutajad_
   - _Kontaktisikutele saadetakse iga kuu alamsüsteemi kasutusraport, mis näitab kes ja kui palju alamsüsteemi on kasutanud ning kas ja kui palju alamsüsteemist päringuid teistesse alamsüsteemidesse välja läheb (rohkem infot leiab [raportite lugemisjuhendist](https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/user_guide/ug_reports_et.md))._
-- X-tee alamsüsteem on RIHAs registreeritud, kui tema staatuseks on märgitud *Kasutusel* ja märksõna väljal on *X-tee alamsüsteem* ja/või *Andmeteenuste vahendamine*
+- **X-tee alamsüsteem on RIHAs registreeritud**, kui tema staatuseks on märgitud *Kasutusel* ja märksõna väljal on *X-tee alamsüsteem* ja/või *Andmeteenuste vahendamine*
 
 Alamsüsteemi kirjelduse korrektsust RIHAs (ja andmeteenuste vahendamisel ka andmeteenuste vahendamise korra vastavust nõuetele)  kontrollib X-tee keskus pärast seda, kui oled ka turvaserveri liidesest esitanud selle sama alamsüsteemi X-teel registreerimise taotluse. [Loe X-tee rakendusjuhise peatükist 4.2, kuidas seda teha](https://moodle.ria.ee/mod/page/view.php?id=288). **X-tee keskus ei registreeri sellist alamsüsteemi, mida pole RIHAs või mille kirjeldus pole RIHAs täielik.**
 
@@ -41,4 +41,3 @@ Kui X-tee keskus tuvastab RIHAs alamsüsteemi kirjelduses puuduse, siis algatab 
 ### X-tee alamsüsteemide haldamine
 
 - Kõik sinu asutuse poolt registreeritud alamsüsteemid ja infosüsteemid leiad [Minu infosüsteemide](https://www.riha.ee/Kirjelda) nimekirjast
-
