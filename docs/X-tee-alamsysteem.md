@@ -2,7 +2,7 @@
 title: X-tee alamsüsteemi abi
 ---
 
-## Kuidas muuta X-tee alamsüsteemi andmeid RIHAs?
+## Kuidas registreerida RIHAs X-tee alamsüsteemi?
 
 ### Eeltegevused
 
