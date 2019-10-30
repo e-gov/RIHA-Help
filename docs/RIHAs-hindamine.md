@@ -97,6 +97,8 @@ Arutelusid _'Infosüsteemi asutamine'_, _'Infosüsteemi kasutusele võtmine'_, _
 - Hinnangute arutelu on nähtav ainult infosüsteemi omanikule ning RIHA hindajatele
 - Tuvastatud puudused on nähtavad **hindajate tagasiside** plokis aktiivsete arutelude all
 - Hetkel käimasolev asutamise, kasutusele võtmise, andmekoosseisu muutmise või infosüsteemi lõpetamise menetlus on samuti nähtav aktiivsete arutelude jaotises. 20 tööpäeva möödudes märgitakse teema lahendatuks ning see ilmub suletud arutelude jaotises.
+- [API päringuga](https://www.riha.ee/api/v1/issues?filter=status,=,OPEN,sub_type,isnotnull,null&size=25&sort=-creation_date) saavad kõik RIHA kasutajad vaadata milliste infosüsteemide osas on hindamise protsess parasjagu pooleli ja millised hinnagud ning millal on lisatud
+- Kui soovid vaadata missuguseid hinnanguid on varasemalt infosüsteemidele antud, siis saad selleks kasutada [näiteks sellist API päringut](https://www.riha.ee/api/v1/issues?filter=status,=,CLOSED,sub_type,isnotnull,null&size=100&sort=-creation_date)
 
 ## Kuidas saan aru, et minu infosüsteemi kasutusele võtmine on kooskõlastatud?
 
