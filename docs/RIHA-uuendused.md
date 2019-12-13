@@ -1,6 +1,20 @@
 ---
 title: Mis on RIHAs uut?
 ---
+## 3. detsember 2019
+
+### RIHA kasutamine on taas kiirem
+
+Optimeerimise tulemusel on RIHA rakenduse kasutamine mitu korda kiirem kui varem.
+
+### Mugavam seoste lisamine
+
+Infosüsteemi kirjeldamisel saab seose teise infosüsteemiga lisada nüüd hõlpsamini: sisestades otsinguväljale infosüsteemi täpse lühinimetuse, kuvatakse seda infosüsteemiga seose lisamiseks otsingutulemustes eespool. Täpse nimetuse sisestamisel on võimalik seos salvestada ka otsingutulemusi ootamata.
+
+### Ajakohastatud API kirjeldus
+
+RIHA API on nüüd kirjeldatud _Swagger OpenAPI v3.0.1 vormingus_. Kirjeldus on leitav viitelt [https://www.riha.ee/api-docs](https://www.riha.ee/api-docs).
+
 ## 11. märts 2019
 
 ### Standardlahenduste kasutamine
