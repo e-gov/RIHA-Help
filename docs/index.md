@@ -4,7 +4,7 @@ title: RIHA abikeskus
 
 ## Korduma kippuvad küsimused
 
-### RIHA
+### Üldine
 
 - [Mis on RIHAs uut?](RIHA-uuendused)
 
