@@ -31,7 +31,7 @@ title: RIHA abikeskus
 
 ### RIHA hinnangud
 
-- [Kuidas toimub RIHAs kooskõlastamine?](RIHAs-hindamine#kuidas-toimub-uues-RIHAs-kooskõlastamine)
+- [Kuidas toimub RIHAs kooskõlastamine?](RIHAs-hindamine#kuidas-toimub-RIHAs-kooskõlastamine)
 - [Millal infosüsteeme hinnatakse?](RIHAs-hindamine#millal-infosüsteeme-hinnatakse)
 
 ### RIHA masinliides
