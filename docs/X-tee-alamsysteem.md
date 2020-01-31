@@ -41,3 +41,7 @@ Kui X-tee keskus tuvastab RIHAs alamsüsteemi kirjelduses puuduse, siis algatab 
 ### X-tee alamsüsteemide haldamine
 
 - Kõik sinu asutuse poolt registreeritud alamsüsteemid ja infosüsteemid leiad [Minu infosüsteemide](https://www.riha.ee/Kirjelda) nimekirjast
+
+## Kus on X-tee teenuste kataloog?
+
+X-tee alamsüsteemide kataloog teenuste ja WSDL kirjeldustega asub aadressil [https://www.x-tee.ee/catalogue/](https://www.x-tee.ee/catalogue/). Kataloog on genereeritud metapäringute _getWsdl_ ja _getOpenAPI_ tulemustest RIA monitooringu turvaserveri poolt kõigist X-tee alamsüsteemidest. Kuvatakse X-tee toodangu-, test- ja arenduskeskkonna (EE, ee-test, ee-dev) andmeid.
