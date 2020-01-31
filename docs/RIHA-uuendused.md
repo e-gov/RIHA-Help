@@ -71,7 +71,7 @@ Infosüsteemile hinnangu küsimisel kontrollib RIHA sisestatud andmeid ja annab 
 
 ### Failide ja viidete lisamise aeg
 
-Infosüsteemide kirjelduses näidatakse nüüd ka failide ja viidete lisamise ning uuendamise kuupäeva. Nendel failidel ja viidetel, mis on üle toodud [vanast RIHAst](https://vana.riha.ee), näidatakse kuupäeva, mil uues RIHAs infosüsteemi kirjeldust esimest korda on muudetud.
+Infosüsteemide kirjelduses näidatakse nüüd ka failide ja viidete lisamise ning uuendamise kuupäeva. Nendel failidel ja viidetel, mis on üle toodud [vanast RIHAst](https://vana.riha.ee), näidatakse kuupäeva, mil RIHAs infosüsteemi kirjeldust esimest korda on muudetud.
 
 ### Ülevaade aruteludest
 
@@ -216,8 +216,6 @@ Kui sessioon juba on lõppenud, siis logitakse kasutaja süsteemist automaatselt
 
 Toimus uue RIHA keskkonna avaldamine. [Vaata ka videosalvestust RIHA infopäevast](https://www.youtube.com/watch?v=K9lLS-7hpGw).
 
-Uue RIHA peamised erinevused vanast RIHAst on välja toodud [uue RIHA muutuste abiinfos](uus-riha).
-
 Vanast RIHAs kanti üle sellised infosüsteemid, mis olid **sisestamisel, asutatud või kasutusel staatusega**. Juurdepääsupiiranguga infosüsteemide puhul kanti üle vaid avalik teave. Infosüsteemide andmetest viidi üle võimalikult palju infot ning osaliselt toimus ka konverteerimine nende uuele tähendusele. Üle viidi järgmised infosüsteemide andmed:
 
 - Nimi
@@ -236,7 +234,7 @@ Vanast RIHAs kanti üle sellised infosüsteemid, mis olid **sisestamisel, asutat
 - Infosüsteemi viimase muudatuse aeg
 - **Viimase ebaõnnestunud kooskõlastusringi mittekooskõlastamise otsused ja kommentaarid -> Hindajate tagasiside**
 - Andmekoosseisu jaotisesse **üles laaditud** juurdepääsupiiranguta **andmeobjektide fail**
-  -  käsitsi tehtud andmekoosseisu muudatused uues RIHAs ei kajastu
+  - käsitsi tehtud andmekoosseisu muudatusi üle ei toodud
 - Tehnilise dokumentatsiooni jaotises olevad juurdepääsupiiranguta failid ja veebiviited
 - Infosüsteemi alusdokumendid -> Õigusaktid
   - Õigusaktide nimetused
