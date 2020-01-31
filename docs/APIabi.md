@@ -84,7 +84,7 @@ Nõuanne: paigaldades veebisirvijasse JSON-i vaatamise laienduse, saate andmeid 
 
 ## Mis andmeid RIHA masinliides pakub?
 
-Masinliidese kaudu saab infossüsteemide kirjeldusi, samuti andmeid arutelude (Issues) ja kommentaaride (Comments) kohta. Andmete koosseisu vaata lähemalt masinliidese formaalsest kirjeldusest (allpool).
+Masinliidese kaudu saab infosüsteemide kirjeldusi, samuti andmeid arutelude (_Issues_) ja kommentaaride (_Comments_) kohta. Andmete koosseisu vaata lähemalt masinliidese [formaalsest kirjeldusest](APIabi#masinliidese-formaalne-kirjeldus).
 
 RIHA väljastab masinloetavaid andmeid JSON vormingus.
 
