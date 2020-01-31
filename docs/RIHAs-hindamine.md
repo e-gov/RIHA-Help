@@ -23,7 +23,7 @@ Infosüsteeme, mis on andmekogud, kooskõlastatakse:
 
 Enne infosüsteemi kooskõlastamisele esitamist on soovitatav tutvuda [kooskõlastavate asutuste menetluskordadega](https://www.ria.ee/et/riigi-infosusteem/riha/kooskolastamine.html). Viidatud dokumentides on üksikasjalikult toodud ka õiguslikud alused, millele hindamisel tuginetakse.
 
-## Kuidas toimub uues RIHAs kooskõlastamine?
+## Kuidas toimub RIHAs kooskõlastamine?
 
 RIHAs antakse kooskõlastusi hinnangutena, mis koondatakse aruteludeks. Aruteludes saab küsida täpsemat nõu kooskõlastajalt või vastata konkreetsele küsimusele, mis kooskõlastajal tekkis. Arutelude kommentaarid on nähtavad infosüsteemi omanikule ning kõigile RIHA hindajatele, avalikust vaatest need nähtavad ei ole. RIHA arutelu tohib sulgeda vaid siis, kui probleem saab infosüsteemis lahendatud. Soovituslikult võiks arutelu märkida lahendatuks arutelu algatanud hindaja (pärast seda, kui on tutvunud esitatud lahenduse või selgitusega ning ka tema hinnangul on probleem lahendatud).
 
