@@ -16,10 +16,6 @@ title: Infosüsteemide hindamine RIHAs - juhend hindajatele
 ## Millele tuleb hinnang lisada?
 Pärast teavituse saamist vaata RIHAst, kas infosüsteem vajab sinu asutuse kooskõlastust. Registreerimisele ilma kooskõlastusmenetlust läbimata kuuluvad riigi infosüsteemi mittekuuluvad andmekogud, mis asutatakse ainult organisatsiooni sisemise töökorralduse vajadusteks või asutustevaheliseks dokumentide menetlemiseks.
 
-Teisisõnu, hinnangu lisamine pole vajalik, kui infosüsteem ei kuulu riigi infosüsteemi ehk pole X-teega liidestatud (sellel väljal näidatakse ka liidestamise kavatsust) ja sellele on lisatud märksõna _'Asutusesiseseks kasutamiseks'_.
-
-  ![X-teega liidestamata](assets/images/data/not-x-tee.png "Riigi infosüsteemi mitte kuuluv süsteem")
-
 Harva küsitakse kooskõlastust ka infosüsteemidele, mis oma olemuselt on X-tee alamsüsteemid, kuid kirjeldaja on jätnud sellele lisamata asjakohase märksõna ('X-tee alamsüsteem'). Ka sellistele infosüsteemidele pole hinnangu lisamine vajalik. Kui omanik lisab sellele nimetatud märksõna, siis loetakse see RIHAs registreerituks ning selle kirjelduse vastavust nõuetele kontrollib RIA.
 
   ![X-tee alamsüsteem](assets/images/data/subsystem.png "X-tee alamsüsteem")
