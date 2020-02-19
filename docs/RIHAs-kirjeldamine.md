@@ -20,6 +20,8 @@ Lisaks registreeritakse RIHAs ka X-tee alamsüsteemid. [Loe rohkem X-tee alamsü
     - Luuakse uue infosüsteemi kirjeldus, kuhu kopeeritakse osa andmeid ja dokumente standardlahenduselt ning lisatakse sinu märgitud andmed
     - Lisa kindlasti kontaktisikud (kellelt nt hindajad saavad vajadusel küsida sinu andmekogu kohta lisainfot), teave infoturbemeetmete rakendamisest, andmekogu pidamise põhimäärus ning staatus (_asutamisel_, _kasutusel_). Vajadusel muuda ka teisi andmeid.
 
+Tasub tähele panna, et RIHA kaudu kooskõlastamiseks esitatav dokumentatsioon peab olema eestikeelne, sest Eesti riigiasutuse asjaajamine toimub eesti keeles ([keeleseaduse § 10 lõige 1](https://www.riigiteataja.ee/akt/118032011001?leiaKehtiv#para10lg1)), kuid RIHAsse võib esitada ka võõrkeelset dokumentatsiooni.
+
 Rohkem infot RIHAs kirjeldamisest leiab [RIHA koolitusmaterjalidest](https://moodle.ria.ee/course/view.php?id=16).
 
 ## Milline tähendus on RIHA väljadel?
