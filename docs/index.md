@@ -18,8 +18,8 @@ title: RIHA abikeskus
 
 ### X-tee
 
-- [Kuidas registreerida RIHAs X-tee alamsüsteemi?](X-tee-alamsysteem)
-- [Kus on X-tee teenuste kataloog?](X-tee-alamsysteem#kus-on-x-tee-teenuste-kataloog)
+- [Kuidas liituda X-teega?](https://abi.ria.ee/xtee/et/x-tee-juhend/x-teega-liitumine)
+- [Kus on X-tee teenuste kataloog?](https://www.x-tee.ee/catalogue/EE)
 
 ### RIHA kataloog
 
