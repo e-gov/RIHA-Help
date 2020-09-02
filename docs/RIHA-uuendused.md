@@ -5,11 +5,11 @@ title: Mis on RIHAs uut?
 
 ### RIHAs lõpetati X-tee alamsüsteemide kirjeldamine ja registreerimine
 
-Alates 1. septembrist on avatud [X-tee iseteeninduskeskkond](https://x-tee.ee/). Selles on võimalik liituda X-teega, tellida sertifikaate ning kirjeldada ja registreerida X-tee alamsüsteeme.
+Alates 2. septembrist on avatud [X-tee iseteeninduskeskkond](https://x-tee.ee/). Selles on võimalik liituda X-teega, tellida sertifikaate ning kirjeldada ja registreerida X-tee alamsüsteeme.
 
 X-tee alamsüsteemide kirjeldused, millel on RIHAs märksõna **X-tee alamsüsteem**, tõstsime uude keskkonda.
 
-Alates 1.09.2020 tuleb kõik muudatused X-tee alamsüsteemide kirjeldustes teha ja uued X-tee alamsüsteemid registreerida X-tee iseteeninduses [https://x-tee.ee](https://x-tee.ee), kus esimesel sisenemisel tuleb iga asutuse esindusõiguslikul isikul lisada nõutud kontaktandmed ja volitus(ed) asutuse esindamiseks X-teega seotud toiminguteks. X-teega liitumise juhendi leiab [siit](https://abi.ria.ee/xtee/et/x-tee-juhend/x-teega-liitumine).
+Alates 2.09.2020 tuleb kõik muudatused X-tee alamsüsteemide kirjeldustes teha ja uued X-tee alamsüsteemid registreerida X-tee iseteeninduses [https://x-tee.ee](https://x-tee.ee), kus esimesel sisenemisel tuleb iga asutuse esindusõiguslikul isikul lisada nõutud kontaktandmed ja volitus(ed) asutuse esindamiseks X-teega seotud toiminguteks. X-teega liitumise juhendi leiab [siit](https://abi.ria.ee/xtee/et/x-tee-juhend/x-teega-liitumine).
 
 ### Tagasiside moodul
 
