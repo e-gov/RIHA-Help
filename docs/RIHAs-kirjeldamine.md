@@ -5,8 +5,6 @@ title: Infosüsteemide kirjeldamine RIHAs
 ## Milliseid infosüsteeme on vaja RIHAsse kirja panna?
 RIHAsse pannakse kirja riigi, kohaliku omavalitsuse või muu avalik-õigusliku juriidilise isiku või avalikke ülesandeid täitva eraõigusliku isiku infosüsteemid, mis asutatakse ja mida kasutatakse seaduses, selle alusel antud õigusaktis või rahvusvahelises lepingus sätestatud ülesannete täitmiseks. Teisiti öeldes, RIHAs registreeritakse kõik sellised infosüsteemid, mis on andmekogud avaliku teabe seaduse mõistes ja muud selliste infosüsteemidega seotud ja X-teega liidestatud asutuse hallatavad infosüsteemid.
 
-Lisaks registreeritakse RIHAs ka X-tee alamsüsteemid. [Loe rohkem X-tee alamsüsteemide registreerimisest](https://abi.riha.ee/X-tee-alamsysteem).
-
 ## Kuidas saan RIHAsse infosüsteemi kirja panna?
 
 - Logi RIHAsse sisse
