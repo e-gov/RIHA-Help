@@ -21,7 +21,7 @@ Teisisõnu, standardlahenduse kasutamise registreerimine tähendab andmekogu RIH
 
 ## Kes peab registreerima standardlahenduse kasutamise?
 
-Kuna RIHAs registreeritakse selliseid infosüsteeme, mis on andmekogud (ja nende andmekogudega seotud ning X-teega liidestatud muid infosüsteeme ja X-tee alamsüsteeme), siis standardlahenduse kasutamise peab registreerima juhul, kui standardlahendust kasutatakse avaliku teabe seaduse mõistes andmekogu pidamiseks.
+Kuna RIHAs registreeritakse selliseid infosüsteeme, mis on andmekogud (ja nende andmekogudega seotud ning X-teega liidestatud muid infosüsteeme), siis standardlahenduse kasutamise peab registreerima juhul, kui standardlahendust kasutatakse avaliku teabe seaduse mõistes andmekogu pidamiseks.
 
 _Näide: Eesti koolide haldamise infosüsteem (EKIS) on infosüsteem, mida ligi 500 haridusasutust kasutab mh dokumendiregistri pidamiseks. Dokumendiregister on asutustevaheliseks dokumentide menetlemiseks peetav andmekogu. Kool, kes kasutab EKISt dokumendiregistri pidamiseks, peab selle registreerima RIHAs. Kohustuse saab täita, registreerides korrektselt standardlahenduse kasutamise._
 
