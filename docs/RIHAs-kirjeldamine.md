@@ -75,9 +75,6 @@ Dokumentatsiooni alla pannakse kirja infosüsteemi
 - kasutatavad klassifikaatorid, märkides viite vanas RIHAs kirjeldatud klassifikaatorile ja valides viite liigiks _Kasutatav klassifikaator_ (nt [EHAK 2019v1](https://vana.riha.ee/riha/main/kla/eesti_haldus-_ja_asustusjaotuse_klassifikaator_2018v3_ver22))
 - muud teistele jagamiseks mõeldud dokumendid nagu liidestumise juhend, teenuste kirjeldus, kasutusjuhendid
 
-Loe rohkem [RIHA koolitusmaterjalidest](https://moodle.ria.ee/mod/page/view.php?id=664).
-
-
 ### Õigusaktid
 
 Infosüsteemi reguleerivad õigusaktid nagu
