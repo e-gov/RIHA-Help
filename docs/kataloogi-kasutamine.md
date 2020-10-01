@@ -41,8 +41,6 @@ Andmeobjektide otsing võimaldab otsida andmekoosseisu csv-, xls- ning xlsx-vorm
 
 Tulemustes näidatakse andmeobjekti ja ülemobjekti (selle olemasolul) nimetust, märget andmeobjekti (eriliiki) isikuandmeteks olemisest, põhiinfosüsteemi nimetust, andmeobjekti kommentaarivälja ning infosüsteemi lühinime. Nende järgi saab ka tulemusi sorteerida. Lisaks on iga rea lõpus ikoon, millel klikkides saab vastava andmekoosseisu faili alla laadida.
 
-Loe rohkem [RIHA koolitusmaterjalidest](https://moodle.ria.ee/mod/page/view.php?id=651).
-
 ### RIHA masinloetav liides
 
 RIHA masinloetav liides pakub kasutajaliidesest märksa rohkem filtreerimise ja sorteerimise võimalusi. Masinliidese kasutamise kohta uuri lähemalt [RIHA API abiinfost](https://abi.riha.ee/APIabi).
